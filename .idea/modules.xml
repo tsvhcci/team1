@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CareBundleBinding/CareBundleBinding.iml" filepath="$PROJECT_DIR$/CareBundleBinding/CareBundleBinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CareBundleCore/CareBundleCore.iml" filepath="$PROJECT_DIR$/CareBundleCore/CareBundleCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CareBundleService/CareBundleService.iml" filepath="$PROJECT_DIR$/CareBundleService/CareBundleService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CareBundleWebApp/CareBundleWebApp.iml" filepath="$PROJECT_DIR$/CareBundleWebApp/CareBundleWebApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HCCIUIWebApp/HCCIUIWebApp.iml" filepath="$PROJECT_DIR$/HCCIUIWebApp/HCCIUIWebApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryPom/LibraryPom.iml" filepath="$PROJECT_DIR$/LibraryPom/LibraryPom.iml" />
       <module fileurl="file://$PROJECT_DIR$/team1.iml" filepath="$PROJECT_DIR$/team1.iml" />
     </modules>
   </component>

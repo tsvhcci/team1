@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="CareBundleWebApp:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/CareBundleWebApp_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="CareBundleWebApp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="CareBundleWebApp" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

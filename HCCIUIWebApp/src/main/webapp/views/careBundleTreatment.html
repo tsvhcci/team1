@@ -1,0 +1,90 @@
+<!-- carebundlelist.html -->
+<html ng-app="carebundleApp">
+<header>
+<script>
+function msg(url) {
+	alert('*Note: link to new page, pass uri for details: <br>' + url);
+}
+</script>
+</header>
+<body ng-controller="MainCtrl as ctrl">
+
+<p> </p>
+<div><h1>TreatmentCondition:  Back Pain</h1></div>
+<p> </p>
+
+
+<table padding=3>
+	<tr ng-repeat-start="carebundle in ctrl.CareBundles">
+		<td width=100><br>&nbsp;</td>
+		<td style="font-size:20px"><br>&nbsp;&nbsp;&nbsp;<a href="#" onClick="alert('go to new Costs page, uri to call api: {{carebundle.CareBundle_URI}}');">{{carebundle.CareBundleName}}</a></td>
+	</tr>
+	<tr style="background-color: silver; width: 300px;" ng-repeat-end>
+		<td>&nbsp;&nbsp;{{carebundle.CareBundleCode}}</td>
+		<td style="padding-left:100px;">View <a href="{{carebundle.CareBundleDetail_URI}}" target="_blank">Detail</a> or <a href="{{carebundle.CareBundleQuality_URI}}" target="_blank">Quality</a></td>
+	</tr>
+</table>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.19/angular.js">
+</script>
+<script type="text/javascript">
+angular.module('carebundleApp', [])
+.controller('MainCtrl', [function() {
+var self = this;
+self.CareBundles =
+   [
+      {
+         "CareBundleCode": "BP007",
+         "CareBundleName":"Back Pain - Lumbar Laminectomy",
+         "CareBundleDetail_URI": "/content/detail/cb/bp007.html",
+         "CareBundleQuality_URI":"/content/quality/cb/bp007.html",
+         "CareBundle_URI":"/api/carebundlecosts/v1.0?cb=BP007&geotype=zip&geovalue=55343",
+      },
+      {
+         "CareBundleCode": "BP008",
+         "CareBundleName":"Back Pain - Lumbar Fusion",
+         "CareBundleDetail_URI": "/content/detail/cb/bp008.html",
+         "CareBundleQuality_URI":"/content/quality/cb/bp008.html",
+         "CareBundle_URI":"/api/carebundlecosts/v1.0?cb=BP008&geotype=zip&geovalue=55343",
+      },
+      {
+         "CareBundleCode": "BP002",
+         "CareBundleName":"Back Pain - Doctor Visit",
+         "CareBundleDetail_URI": "/content/detail/cb/bp002.html",
+         "CareBundleQuality_URI":"/content/quality/cb/bp002.html",
+         "CareBundle_URI":"/api/carebundlecosts/v1.0?cb=BP002&geotype=zip&geovalue=55343",
+      },
+      {
+         "CareBundleCode": "BP005",
+         "CareBundleName":"Back Pain - Chiropractor Visit - Six Visits",
+         "CareBundleDetail_URI": "/content/detail/cb/bp005.html",
+         "CareBundleQuality_URI":"/content/quality/cb/bp005.html",
+         "CareBundle_URI":"/api/carebundlecosts/v1.0?cb=BP005&geotype=zip&geovalue=55343",
+      }
+   ];
+}]);
+</script>
+
+<!--    Replace above 'static' list with 'dynamic' call after Solr Search to the REST api...(untested sample)
+
+
+<script>
+	angular.module('carebundleApp', [])
+	 .controller('MainCtrl', [function() {
+		var self = this;
+		self.CareBundles = [];
+		$http.get('/api/carebundles/v1?treatCondID=Back').then(function(response) {
+			self.CareBundles = response.data;
+			},
+		function(errResponse) {
+			console.error('Error while fetching CareBundles');
+		  });
+	   }]);
+</script>
+
+-->
+
+
+</body>
+</html>

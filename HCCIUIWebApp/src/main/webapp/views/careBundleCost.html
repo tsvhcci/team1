@@ -1,0 +1,11 @@
+<H1>CarBundleCost</H1>
+<table padding=3>
+	<tr ng-repeat-start="carebundle in careBundleResponse.TreatmentConditionResponse.careBundles">
+		<td width=100><br>&nbsp;</td>
+		<td style="font-size:20px"><br>&nbsp;&nbsp;&nbsp;<a href="#/home/careBundle/">{{carebundle.careBundleName}}</a></td>
+	</tr>
+	<tr style="background-color: silver; width: 300px;" ng-repeat-end>
+		<td>&nbsp;&nbsp;{{carebundle.careBundleCode}}</td>
+		<td style="padding-left:100px;">View <a href="{{carebundle.careBundleDetailURI}}" target="_blank">Detail</a> or <a href="{{carebundle.careBundleQualityURI}}" target="_blank">Quality</a></td>
+	</tr>
+</table>

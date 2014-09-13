@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.example.org/treatmentcondition" xmlns:tns="http://www.example.org/treatmentcondition"
+	elementFormDefault="qualified">
+
+	<xs:element name="TreatmentConditionResponse">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="treatmentCondiAbbrvtn" type="xs:string" />
+				<xs:element name="treatmentConditionName" type="xs:string" />
+				<xs:element name="careBundles" type="tns:CareBundle" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	
+	<xs:complexType name="CareBundle">
+		<xs:complexContent>
+			<xs:extension base="tns:CareBundleMinimal">
+				<xs:sequence>
+					<xs:element name="careBundle_RestURI" type="xs:string" />
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+
+				
+	<xs:element name="CareBundleCostResponse">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="careBundle" type="tns:CareBundleCost" />
+				<xs:element name="steps" type="tns:Step"
+					minOccurs="0" maxOccurs="unbounded" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:complexType name="CareBundleCost">
+		<xs:complexContent>
+			<xs:extension base="tns:CareBundleMinimal">
+				<xs:sequence>
+					<xs:element name="geoAvgCost" type="xs:string" />
+					<xs:element name="geoType" type="xs:string" />
+					<xs:element name="geoValue" type="xs:string" />
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+
+	<xs:complexType name="Step">
+		<xs:sequence>
+			<xs:element name="geoAvgCost" type="xs:int" minOccurs="1"
+				maxOccurs="1" />
+			<xs:element name="stepCode" type="xs:string"
+				minOccurs="1" maxOccurs="1" />
+			<xs:element name="stepDetail_URI" type="xs:string"
+				minOccurs="1" maxOccurs="1" />
+			<xs:element name="stepName" type="xs:string"
+				minOccurs="1" maxOccurs="1" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:complexType name="CareBundleMinimal">
+		<xs:sequence>
+			<xs:element name="careBundleCode" type="xs:string"
+				minOccurs="1" maxOccurs="1" />
+			<xs:element name="careBundleDetail_URI" type="xs:string"
+				minOccurs="1" maxOccurs="1" />
+			<xs:element name="careBundleName" type="xs:string"
+				minOccurs="1" maxOccurs="1" />
+			<xs:element name="careBundleQuality_URI" type="xs:string"
+				minOccurs="1" maxOccurs="1" />
+		</xs:sequence>
+	</xs:complexType>
+
+	<xs:element name="HelloResponse">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="HelloNames" type="tns:HelloName"  minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	<xs:complexType name="HelloName">
+		<xs:sequence>
+			<xs:element name="id" type="xs:string"></xs:element>
+			<xs:element name="name" type="xs:string"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+</xs:schema>

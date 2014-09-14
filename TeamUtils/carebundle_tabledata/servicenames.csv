@@ -1,0 +1,705 @@
+service_code,service_name_display,service_desc,service_code_type,service_tech_name
+120,Semi-Private Room and Board - General ,Semi-Private Room and Board - General ,Revenue Code,Semi-Private Room and Board - General 
+121,Semi-Private Room and Board - Medical or Surgical,Semi-Private Room and Board - Medical or Surgical,Revenue Code,Semi-Private Room and Board - Medical or Surgical
+122,Semi-Private Room and Board - Childbirth,Semi-Private Room & Board (2 Bed) - OB,Revenue Code,Semi-Private Room & Board (2 Bed) - OB
+124,Psychiatric - Room and Board,Psychiatric Room and Board,Revenue Code,Psychiatric - Room and Board
+126,Detoxification - Room and Board,Detoxification Room and Board,Revenue Code,Detoxification - Room and Board
+126,Anesthesia for Ear Procedures,Anesthesia (sedation) that is given while undergoing surgery on the ear,CPT,Anesthesia for ear procedures
+39,Operations on the Carotid Arteries,Operations on the Carotid Arteries,DRG,Operations on the Carotid Arteries
+101,Seizure Treatment,Seizure Treatment,DRG,Seizure Treatment
+129,Major Head and Neck Surgery,Major Head and Neck Surgery,DRG,Major Head and Neck Surgery
+140,Anesthesia for Eye Surgery,Anesthesia for Eye Surgery,CPT,Anesthesia for Eye Surgery
+142,Anesthesia for Cataract Removal and Lens Implant,Anesthesia (sedation) that is given for cataract removal and lens implant,CPT,Anesthesia for Cataract Removal and Lens Implant
+160,Anesthesia for Surgery on Sinuses,Anesthesia (sedation) that is given for surgery on the sinuses.,CPT,Anesthesia for Surgery on Sinuses
+164,Major Chest Surgery,Major Chest Surgery,DRG,Major Chest Surgery
+170,Anesthesia for Mouth Procedures,Anesthesia for procedures on or in the mouth,CPT,Anesthesia for procedures on or in mouth
+170,Nursery,Nursery,Revenue Code,Nursery
+171,Newborn Nursery - Level 1,The nursery charges for a newborn,Revenue Code,Newborn Nursery - Level 1
+200,Intensive Care Room and Board,Intensive Care Room and Board,Revenue Code,Intensive Care Room and Board
+206,Intermediate Intensive Care Room & Board,Intermediate Intensive Care Room & Board,Revenue Code,Intermediate Intensive Care Room & Board
+220,Replacement of Heart Valve,Replacement of Heart Valve,DRG,Replacement of Heart Valve
+227,Insertion of Heart Defibrillator,Insertion of Heart Defibrillator,DRG,Insertion of Heart Defibrillator
+236,Coronary Artery Bypass Graft,Coronary Artery Bypass Graft,DRG,Coronary Artery Bypass Graft
+238,Major Cardiovascular Procedure,Major Cardiovascular Procedure,DRG,Major Cardiovascular Procedure
+244,Insertion of Heart Pacemaker,Insertion of Heart Pacemaker,DRG,Insertion of Heart Pacemaker
+247,Coronary Angioplasty with Drug Eluting Stent,Angioplaty with placement of drug eluting stent,DRG,Coronary Angioplasty with Drug Eluting Stent
+249,Coronary Angioplasty with Bare Metal Stent,Angioplaty with placement of a bare metal stent,DRG,Coronary Angioplasty with Bare Metal Stent
+251,Coronary Angioplasty   ,Coronary Angioplasty   ,DRG,Coronary Angioplasty   
+300,Laboratory - General Classification,Laboratory - General Classification,Revenue Code,Laboratory - General Classification
+301,Laboratory - Chemistry,Laboratory - Chemistry,Revenue Code,Laboratory - Chemistry
+302,Laboratory - Immunology,Laboratory - Immunology,Revenue Code,Laboratory - Immunology
+305,Laboratory - Hematology,Laboratory - Hematology,Revenue Code,Laboratory - Hematology
+306,Laboratory - Bacteriology/microbiology,Laboratory - Bacteriology/microbiology,Revenue Code,Laboratory - Bacteriology/microbiology
+307,Laboratory - Urology,Laboratory - Urology,Revenue Code,Laboratory - Urology
+311,Laboratory - Cytology,Laboratory - Cytology,Revenue Code,Laboratory - Cytology
+320,Radiology - Diagnostic ,Radiology - Diagnostic ,Revenue Code,Radiology - Diagnostic 
+324,Diagnostic Radiology - Chest X-ray,Radiology - Diagnostic Chest X-ray,Revenue Code,Radiology - Diagnostic Chest X-ray
+329,Diagnostic Radiology - Other,Radiology - Diagnostic Other,Revenue Code,Radiology - Diagnostic Other
+333,Therapeutic Radiology - Radiation Therapy,Radiology - Therapeutic Radiation therapy,Revenue Code,Radiology - Therapeutic Radiation therapy
+335,Radiology - Chemotherapy,Radiology - Chemotherapy,Revenue Code,Radiology - Chemotherapy
+341,Nuclear Medicine - Diagnostic,Nuclear Medicine - Diagnostic,Revenue Code,Nuclear Medicine - Diagnostic
+350,CT Scan - General Classification,CT Scan - General Classification,Revenue Code,CT Scan - General Classification
+351,CT Scan - Head,CT Scan - Head,Revenue Code,CT Scan - Head
+300,"Anesthesia for Procedures on Skin, Muscles, and Nerves of Head, Neck, or Upper Back","Anesthesia for Procedures on Skin, Muscles, and Nerves of Head, Neck, or Upper Back",CPT,"Anesthesia for Procedures on Skin, Muscles, and Nerves of Head, Neck, or Upper Back"
+320,Anesthesia for Biopsy on Neck Area,Anesthesia for Biopsy on Neck Area,CPT,Anesthesia for Biopsy on Neck Area
+322,Anesthesia for Thyroid Biopsy,Anesthesia for Thyroid Biopsy,CPT,Anesthesia for Thyroid Biopsy
+327,"Surgery on Esophagus, Stomach, or Intestines","Surgery on Esophagus, Stomach, or Intestines",DRG,"Surgery on Esophagus, Stomach, or Intestines"
+330,Surgery on Bowels,Surgery on Bowels,DRG,Surgery on Bowels
+343,Appendix Removal,Appendix Removal,DRG,Appendix Removal
+350,Anesthesia for Surgery on Neck Vessels,Anesthesia for Surgery on Neck Vessels,CPT,Anesthesia for Surgery on Neck Vessels
+355,Repair of Abdominal Hernia,Repair of Abdominal Hernia,DRG,Repair of Abdominal Hernia
+360,Operating Room Services,"Operating Room Services
+(facility charge)",Revenue Code,"Operating Room Services
+(facility charge)"
+361,Operating Room Services Minor Surgery,Operating Room Services Minor Surgery,Revenue Code,Operating Room Services Minor Surgery
+401,Imaging - Diagnostic Mammography,Imaging - Diagnostic Mammography,Revenue Code,Imaging - Diagnostic Mammography
+402,Anesthesia for Mastectomy,Anesthesia for Mastectomy,CPT,Anesthesia for Mastectomy
+402,Imaging Services - Ultrasound,Other Imaging Services - Ultrasound,Revenue Code,Other Imaging Services - Ultrasound
+403,Imaging Services - Screening Mammography,Other Imaging Services - Screening mammography,Revenue Code,Other Imaging Services - Screening mammography
+404,Other Imaging Services - PET scan,Other Imaging Services - PET scan,Revenue Code,Other Imaging Services - PET scan
+419,Laparoscopic Gallbladder Removal,The removal of the gallbladder through several small incisions in the abdomen,DRG,Laparoscopic Cholecystectomy 
+420,Physical Therapy,Physical Therapy,Revenue Code,Physical Therapy
+421,Physical Therapy Visit Charge,Physical Therapy: Visit charge,Revenue Code,Physical Therapy: Visit charge
+422,Physical Therapy Hourly Charge,Physical Therapy: Hourly charge,Revenue Code,Physical Therapy: Hourly charge
+424,Physical Therapy Evaluation,Physical Therapy: Evaluation/Re-Evaluation,Revenue Code,Physical Therapy Evaluation
+450,Emergency Room - General Classification,Emergency Room  - General Classification,Revenue Code,Emergency Room  - General Classification
+460,Pulmonary function - General Classification,Pulmonary function - General Classification,Revenue Code,Pulmonary function - General Classification
+460,Spinal Fusion - Except Cervical Spine,"The fusion, or joining, of two or more lumbar vertebrae.",DRG,Spinal Fusion - Except Cervical Spine
+470,Major Joint Replacement,"The replacement of a major joint in the lower extremity, such as hip or knee.",DRG,Major Joint Replacment
+470,Audiology - General Classification,Audiology - General Classification,Revenue Code,Audiology - General Classification
+473,Spinal Fusion - Cervical Spine,"The fusion, or joining, of two or more cervical vertebrae.",DRG,Spinal Fusion - Cervical Spine
+481,Cardiology: Cardiac Catheter Lab,Cardiology: Cardiac Catheter Lab,Revenue Code,Cardiology: Cardiac Catheter Lab
+490,Ambulatory Surgery,Ambulatory Surgical Care - General Classification,Revenue Code,Ambulatory Surgery
+491,Lumbar Laminectomy,Lumbar Laminectomy,DRG,Lumbar Laminectomy
+494,Fractures of Leg,Fractures of Leg,DRG,Fractures of Leg
+500,Anesthesia for Esophagectomy,Anesthesia for Esophagectomy,CPT,Anesthesia for Esophagectomy
+530,Anesthesia for Insertion of Heart Pacemaker,Anesthesia for Insertion of Heart Pacemaker,CPT,Anesthesia for Insertion of Heart Pacemaker
+532,Anesthesia for Insertion of Central Line,Anesthesia for Insertion of Central Line,CPT,Anesthesia for Insertion of Central Line
+536,Fracture of Hip and Pelvis,Inpatient treatment for fracture of hip and pelvis,DRG,Fracture of Hip and Pelvis
+537,Anesthesia for Procedures on Hearts Electrical System,Anesthesia for Procedures on Hearts Electrical System,CPT,Anesthesia for Procedures on Hearts Electrical System
+541,Anesthesia for Lung Surgery,Anesthesia for Lung Surgery,CPT,Anesthesia for Lung Surgery
+562,Anesthesia for Heart Valve Replacement,Anesthesia for Heart Valve Replacement,CPT,Anesthesia for Heart Valve Replacement
+567,Anesthesia for Coronary Artery Bypass,Anesthesia for Coronary Artery Bypass,CPT,Anesthesia for Coronary Artery Bypass
+583,Mastectomy for Breast Cancer,Inpatient treatment for mastectomy,DRG,Mastectomy for Breast Cancer
+610,MRI - General Classification,MRI - General Classification,Revenue Code,MRI general classification
+611,MRI - Brain,MRI Brain (including brain stem),Revenue Code,MRI brain 
+612,MRI - Spinal Cord ,MRI Spinal Cord (including spine),Revenue Code,MRI spinal cord 
+615,MRA - Head and Neck,MRA - Head and Neck,Revenue Code,MRA - Head and Neck
+616,MRA - Lower Extremity,MRA - Lower Extremity,Revenue Code,MRA - Lower Extremity
+618,MRA - Other,MRA - Other,Revenue Code,MRA - Other
+621,Surgical Procedure for Obesity,A surgical procedure that bypasses part of the stomach and bowels to promote weight loss,DRG,Surgical Procedure for Obesity
+627,Surgery on Thyroid or Parathyroid,Surgery on Thyroid or Parathyroid,DRG,Surgery on Thyroid or Parathyroid
+630,Anesthesia for procedures in the lumbar region,Anesthesia for procedures on the lumbar region.,CPT,Anesthesia for for procedures in the lumbar region
+654,Major Bladder Procedure,Major Bladder Procedure,DRG,Major Bladder Procedure
+658,Kidney and Ureter Surgery for Cancer,Kidney and Ureter Surgery for Cancer,DRG,Kidney and Ureter Surgery for Cancer
+670,Anesthesia for Spine Surgery,Anesthesia for extensive surgery on the spine.,CPT,Anesthesia for extensive spine surgery
+710,Recovery Room - General Classification,Recovery Room - General Classification,Revenue Code,Recovery Room - General Classification
+740,EEG,EEG,Revenue Code,EEG
+708,Major Pelvic Procedure,Major Pelvic Procedure,DRG,Major Pelvic Procedure
+740,Anesthesia for Upper Gastrointestinal Endoscopic Procedures,Anesthesia (sedation) that is given while undergoing an upper endoscopy,CPT,Anesthesia for upper gastrointestinal endoscopic procedures
+741,Surgery on Uterus or Ovaries Due to Cancer,Surgery on Uterus or Ovaries Due to Cancer,DRG,Uterine & Adnexa Procedure for Malignancy W/O CC/MCC
+743,Surgery on Uterus or Ovaries,Surgery on the uterus or ovaries not related to cancer,DRG,Uterine & Adnexa Procedure for Non-Malignancy W/O CC/MCC
+750,Gastro-Intestinal services - General Classification,Gastro-intestinal services - General Classification,Revenue Code,Gastro-intestinal services - General Classification
+752,Anesthesia for Repair of Abdominal Hernia,Anesthesia for Repair of Abdominal Hernia,CPT,Anesthesia for Repair of Abdominal Hernia
+766,Cesarean Delivery ,Cesarean Delivery ,DRG,Cesarean Delivery 
+775,Vaginal Delivery,Vaginal Delivery,DRG,Vaginal Delivery
+790,Lithotripsy - General Classification,Lithotripsy - General Classification,Revenue Code,Lithotripsy - General Classification
+921,Peripheral Vascular Lab,Peripheral Vascular Lab,Revenue Code,Peripheral Vascular Lab
+790,Anesthesia for Procedures in Upper Abdomen,"Anesthesia (sedation) that is given while undergoing a surgical procedure on the upper abdomen, includes surgery done by laparoscopy.",CPT,Anesthesia for procedures in upper abdomen; including laparoscopy
+795,Normal Newborn Care,The care and evaluation of a normal newborn while in the hospital,DRG,Normal Newborn Care
+797,Anesthesia for Weight Loss Surgery,Anesthesia (sedation) that is given while undergoing weight loss surgery,CPT,Anesthesia for Weight Loss Surgery
+810,Anesthesia for Lower Gastrointestinal Endoscopic Procedures,Anesthesia (sedation) that is given while undergoing a lower endoscopy,CPT,Anesthesia for lower gastrointestinal endoscopic procedures
+830,Anesthesia for Hernia Repair in Lower Abdomen,Anesthesia (sedation) that is given while undergoing the repair of a hernia in the groin (inguinal hernia).,CPT,Anesthesia for hernia repairs in lower abdomen
+840,Anesthesia for Procedures in Lower Abdomen,Anesthesia (sedation) that is given while undergoing a procedure in the lower abdomen,CPT,Anesthesia for procedures in lower abdomen
+847,Inpatient Chemotherapy with Bone Marrow Transplant,Inpatient Chemotherapy with Bone Marrow Transplant,DRG,Inpatient Chemotherapy with Bone Marrow Transplant
+851,Anesthesia for Tubal Ligation,Anesthesia for Tubal Ligation,CPT,Anesthesia for Tubal Ligation
+860,Anesthesia for Kidney Biopsy,Anesthesia for Kidney Biopsy,CPT,Anesthesia for Kidney Biopsy
+862,Anesthesia for Nephrectomy,Anesthesia for Nephrectomy,CPT,Anesthesia for Nephrectomy
+864,Anesthesia for Cystectomy,Anesthesia for Cystectomy,CPT,Anesthesia for Cystectomy
+865,Anesthesia for Prostatectomy,Anesthesia for Prostatectomy,CPT,Anesthesia for Prostatectomy
+873,Anesthesia for Lithotripsy,Anesthesia (sedation) that is given while undergoing a lithotripsy.,CPT,Anesthesia for Lithotripsy
+885,Psychiatric  Disorder,Psychiatric  Disorder,DRG,Psychiatric  Disorder
+897,Substance Use Disorder,Substance Use Disorder,DRG,Substance Use Disorder
+910,Anesthesia for Cystoscopy,Anesthesia (sedation) that is given while undergoing a procedure in the urinary tract (such as cystoscopy).  ,CPT,Anesthesia for Cystoscopy
+912,Anesthesia for Bladder Tumor Removal,Anesthesia for Bladder Tumor Removal,CPT,Anesthesia for Bladder Tumor Removal
+914,Anesthesia for Prostate Removal,Anesthesia for Prostate Removal,CPT,Anesthesia for Prostate Removal
+926,Anesthesia for Orchiectomy - Removal of Testes,Anesthesia for Orchiectomy - Removal of Testes,CPT,Anesthesia for Orchiectomy - Removal of Testes
+940,Anesthesia for Cervical Biopsy,Anesthesia for Cervical Biopsy,CPT,Anesthesia for Cervical Biopsy
+944,Anesthesia for Vaginal Hysterectomy,Anesthesia (sedation) that is given while undergoing a vaginal hysterectomy,CPT,Anesthesia for Vaginal Hysterectomy
+952,Anesthesia for Hysteroscopy,Anesthesia (sedation) that is given while undergoing a hysteroscopy,CPT,Anesthesia for Hysteroscopy
+1120,Anesthesia for Repair of Fractured Hip,Anesthesia (sedation) that is given while undergoing a fractured hip repair,CPT,Anesthesia for Repair of Fractured Hip
+1214,Anesthesia for Total Hip Replacement,Anesthesia (sedation) that is given while undergoing a total hip replacement,CPT,Anesthesia for total hip replacement
+1400,Anesthesia for Knee Arthroscopy,Anesthesia (sedation) that is given while undergoing a knee arthroscopy,CPT,Anesthesia for Knee Arthroscopy
+1402,Anesthesia for Total Knee Replacement,Anesthesia (sedation) that is given while undergoing a total knee replacement,CPT,Anesthesia for Total Knee Replacement
+1464,Anesthesia for Ankle Arthroscopy,Anesthesia for Ankle Arthroscopy,CPT,Anesthesia for Ankle Arthroscopy
+1480,Anesthesia for Open Procedures on Lower Leg and Foot,Anesthesia for Open Procedures on Lower Leg and Foot,CPT,Anesthesia for Open Procedures on Lower Leg and Foot
+1484,Anesthesia for Open Procedures on Leg,Anesthesia for Open Procedures on Leg,CPT,Anesthesia for Open Procedures on Leg
+1630,Anesthesia for Shoulder Arthroscopy,Anesthesia for Shoulder Arthroscopy,CPT,Anesthesia for Shoulder Arthroscopy
+1810,Anesthesia for Hand and Wrist Surgery,Anesthesia for Hand and Wrist Surgery,CPT,Anesthesia for Hand and Wrist Surgery
+1920,Anesthesia for Cardiac Catheterization,Anesthesia for a cardiac catheterization,CPT,Anesthesia for Cardiac Catheterization
+1926,Anesthesia for Aortic Surgery,Anesthesia for Aortic Surgery,CPT,Anesthesia for Aortic Surgery
+1961,Anesthesia for Cesarean Delivery,Anesthesia for a cesarean delivery,CPT,Anesthesia for cesarean delivery
+1965,Anesthesia for Incomplete Abortion,Anesthesia for Incomplete Abortion,CPT,Anesthesia for Incomplete Abortion
+1967,Anesthesia for Vaginal Delivery,Anesthesia for a planned vaginal delivery,CPT,Anesthesia for planned vaginal delivery
+1992,Anesthesia for Nerve Blocks and Injections in Prone Position,Anesthesia for diagnostic or therapeutic nerve blocks and injections (when block or injection is performed by a different provider); prone position ,CPT,Anesthesia for diagnostic or therapeutic nerve blocks and injections (when block or injection is performed by a different provider)
+10060,Abscess Incision and Drainage,Abscess Incision and Drainage,CPT,Abscess Incision and Drainage
+11100,Skin Biopsy,Biopsy of skin lesion,CPT,Skin Biopsy
+11765,Removal of Ingrown Toenail,Removal of Ingrown Toenail,CPT,Removal of Ingrown Toenail
+11771,Removal of Pilonidal Cyst,Removal of Pilonidal Cyst,CPT,Removal of Pilonidal Cyst
+13132,Complex Repair of Skin Wound,Complex Repair of Skin Wound,CPT,Complex Repair of Skin Wound
+17311,Complex Removal of Skin Cancer - Mohs Technique,Complex Removal of Skin Cancer - Mohs Technique,CPT,Complex Removal of Skin Cancer - Mohs Technique
+19103,Breast Biopsy,Biopsy of breast lump,CPT,Breast Biopsy
+19295,Breast Biopsy Clip Placement,Placement of clip during breast biopsy,CPT,Breast Biopsy Clip Placement
+19303,Removal of Breast - Mastectomy,Removal of breast,CPT,Removal of Breast - Mastectomy
+20610,Injection of Medication or Removal of Fluid From a Joint,Injection of medication or removal of fluid from a joint,CPT,Injection of knee joint
+20931,Artificial or Cadaver Bone Pieces (Allograft) for Fusion,The use of cadaver bone or bone promoting material to structurally support a fusion.,CPT,Allograft for spine surgery (structural use of cadaver bone or bone promoting material)
+20936,Patient's Bone Pieces (Autograft) for Fusion,The use of patient's own vertebral bone to cement a fusion; bone fragments are obtained through the same incision.,CPT,Autograft for spine surgery (use of patient's own vertebral bone fragments to cement a fusion - same incision as fusion)
+22554,Fusion of Two Vertebrae in Cervical Spine and Diskectomy,The fusion of one or more vertebrae in the cervical spine (neck) through an incision on the front of the body.  ,CPT,Fusion of two vertebrae in the cervical spine with diskectomy
+22585,Fusion of Additional Vertebrae in Cervical Spine,The fusion of additional vertebrae in the cervical spine (neck).  ,CPT,Fusion of additional vertebrae in the cervical spine
+22612,Lumbar Fusion,The fusion of one or more vertebrae in the lumbar (lower) spine.  ,CPT,Lumbar Fusion - Joining of Two Lumbar Vertebrae
+22614,Lumbar Fusion - Additional Levels,The fusion of additional vertebrae in the lumbar (lower) spine.  ,CPT,Lumbar Fusion - Joining of Additional Lumbar Vertebrae
+22840,Wiring of Vertebrae to Support Spine,This is the use of wires across vertebral segments to prevent movement of those segments..,CPT,Wiring of Vertebrae to Support Spine
+22845,Instrumentation (Rod or Screw) to Support Spine,This is the application of instrumentation across the anterior (front) of 2 to 3 vertebral segments to prevent movement of those segments..,CPT,Application of anterior (front of spinal column) instrumentation across 2 to 3 vertebral segments
+22851,Intervertebral Device (Cage) to Support Spine,"This is the application of mechanical devices (rods, screws, or cages) to prevent movement of the spine.  ",CPT,Application of intervertebral biomechanical device
+25111,Removal of Ganglion Cyst on Wrist,Removal of Ganglion Cyst on Wrist,CPT,Removal of Ganglion Cyst on Wrist
+25600,Closed Treatment of Wrist Fracture,Closed Treatment of Arm Fracture,CPT,Closed Treatment of Arm Fracture
+26720,Closed Treatment of Finger Fracture,Closed Treatment of Finger Fracture,CPT,Closed Treatment of Finger Fracture
+27130,Total Hip Replacement (THR),Surgery to replace the entire hip joint with an artificial joint.,CPT,Total HIp Replacement (THR)
+27193,Repair of Fractured Hip,Closed repair of hip fracture,CPT,Repair of Fractured Hip
+27447,Total Knee Replacement (TKR),The replacement of diseased cartilage and bone in the knee with manmade plastic and metal hardware,CPT,Total Knee Replacement (TKR)
+27750,Closed Treatment of Leg Fracture,Closed Treatment of Leg Fracture,CPT,Closed Treatment of Leg Fracture
+27759,Open Treatment of Leg Fracture,Open Treatment of Leg Fracture,CPT,Open Treatment of Leg Fracture
+28296,Bunion Correction,Bunion Correction,CPT,Bunion Correction
+28470,Closed Treatment of Foot Fracture,Closed Treatment of Foot Fracture,CPT,Closed Treatment of Foot Fracture
+29125,Application of Wrist Splint,Application of Arm Splint,CPT,Application of Arm Splint
+29130,Application of Finger Splint,Application of Finger Splint,CPT,Application of Finger Splint
+29807,Shoulder Arthroscopy with SLAP Lesion Repair,Shoulder Arthroscopy with SLAP Lesion Repair,CPT,Shoulder Arthroscopy with SLAP Lesion Repair
+29826,Shoulder Arthroscopy with Rotator Cuff Decompression,Shoulder Arthroscopy with Rotator Cuff Decompression,CPT,Shoulder Arthroscopy with Rotator Cuff Decompression
+29827,Shoulder Arthroscopy with Rotator Cuff Repair ,Shoulder Arthroscopy with Rotator Cuff Repair ,CPT,Shoulder Arthroscopy with Rotator Cuff Repair 
+29881,Knee Arthroscopy with Removal of Torn Meniscus,Surgery that uses small medical instruments and a camera to remove one area of a torn meniscus,CPT,Knee Arthroscopy with Medial or Lateral Meniscus Removal
+29888,Knee Arthroscopy with Repair of Anterior Cruciate Ligament (ACL),Surgery that uses small medical instruments and a camera to repair a torn anterior cruciate ligament (ACL),CPT,Knee Arthroscopy with repair or removal of Anterior Cruciate Ligament (ACL)
+29898,Ankle Arthroscopy,Ankle Arthroscopy,CPT,Ankle Arthroscopy
+30140,Resection of Inferior Turbinate,Resection of Inferior Turbinate,CPT,Resection of Inferior Turbinate
+31231,Nasal Endoscopy - Diagnostic,Nasal Endoscopy - Diagnostic,CPT,Nasal Endoscopy - Diagnostic
+31237,Nasal Endoscopy with Treatment,An examination of the sinuses with removal of tissue or polyps for testing.,CPT,Nasal Endoscopy with Treatment
+31535,Laryngoscopy with Biopsy,Laryngoscopy with Biopsy,CPT,Laryngoscopy with Biopsy
+31575,Laryngoscopy - Diagnostic,Laryngoscopy - Diagnostic,CPT,Laryngoscopy - Diagnostic
+32405,Lung Biopsy,Lung Biopsy,CPT,Lung Biopsy
+32480,Removal of Lung - Lobectomy,Removal of Lung - Lobectomy,CPT,Removal of Lung - Lobectomy
+33208,Insertion of Heart Pacemaker,Insertion of Heart Pacemaker,CPT,Insertion of Heart Pacemaker
+33249,Insertion of Heart Defibrillator,Insertion of Heart Defibrillator,CPT,Insertion of Heart Defibrillator
+33405,Replacement of Heart Valve,Replacement of Heart Valve,CPT,Replacement of Heart Valve
+33508,Harvest of Vein for Coronary Artery Bypass Graft,Harvest of Vein for Coronary Artery Bypass Graft,CPT,Harvest of Vein for Coronary Artery Bypass Graft
+33518,Coronary Artery Bypass Graft - Two Veins,Coronary Artery Bypass Graft - Two Veins,CPT,Coronary Artery Bypass Graft - Two Veins
+33533,Coronary Artery Bypass Graft - Single Artery,Coronary Artery Bypass Graft - Single Artery,CPT,Coronary Artery Bypass Graft - Single Artery
+35301,Carotid Endarterectomy,Carotid Endarterectomy,CPT,Carotid Endarterectomy
+36140,Placement of Catheter in Extremity Artery,Placement of Catheter in Extremity Artery,CPT,Placement of Catheter in Extremity Artery
+36200,Aorta Angiogram,Aorta Angiogram,CPT,Aorta Angiogram
+36415,Collection of Blood by Venipuncture ,The collection of venous blood by venipuncture ,CPT,Collection of venous blood by venipuncture 
+36430,Blood Transfusion,Blood Transfusion,CPT,Blood Transfusion
+36561,Insertion of Central Line,Insertion of Central Line,CPT,Insertion of Central Line
+36620,Insertion of Arterial Line,Insertion of Arterial Line,CPT,Insertion of Arterial Line
+36556,Insertion of Non-Tunneled Central Line,Insertion of Non-Tunneled Central Line,CPT,Insertion of Non-Tunneled Central Line
+38221,Bone Marrow Biopsy,Bone Marrow Biopsy,CPT,Bone Marrow Biopsy
+38241,Bone Marrow Transplant,Bone Marrow Transplant,CPT,Bone Marrow Transplant
+38525,Excision or Biopsy of Lymph Nodes,Excision or Biopsy of Lymph Nodes,CPT,Excision or Biopsy of Lymph Nodes
+38571,Removal of Pelvic Lymph Nodes,Removal of Pelvic Lymph Nodes,CPT,Removal of Pelvic Lymph Nodes
+38724,Removal of Lymph Nodes in Neck,Removal of Lymph Nodes in Neck,CPT,Removal of Lymph Nodes in Neck
+38792,Radioactive Tracer - Sentinel Node,Use of radioactive tracer to find the sentinel (first) lymph node,CPT,Radioactive Tracer - Sentinel Node
+42820,Adenoidectomy and Tonsillectomy - Removal of Adenoids and Tonsils,The removal of the adenoids and tonsils. ,CPT,Adenoidectomy and Tonsillectomy - Removal of Adenoids and Tonsils
+42826,Tonsillectomy - Removal of Tonsils,The removal of the tonsils.,CPT,Tonsillectomy - Removal of Tonsils
+43117,Removal of Esophagus - Esophagectomy,Removal of Esophagus - Esophagectomy,CPT,Removal of Esophagus - Esophagectomy
+43235,Upper Endoscopy,An upper endoscopy is when a lighted scope with a camera is used to see the lining of the upper digestive tract.,CPT,An examination of the upper digestive tract
+43239,Upper Endoscopy with Biopsy,An upper endoscopy with biopsy is when a lighted scope with a camera is used to see the lining of the upper digestive tract and a piece of tissue is taken for testing.,CPT,An examination of the upper digestive tract with biopsy
+43248,Upper Endoscopy with Dilation,An examination of the upper digestive tract with dilation of esophagus,CPT,An examination of the upper digestive tract with dilation of esophagus
+43262,Endoscopic Retrograde Cholangiopancreatography - ERCP,Endoscopic Retrograde Cholangiopancreatography - ERCP,CPT,Endoscopic Retrograde Cholangiopancreatography - ERCP
+43281,Laparoscopic Repair of Paraesophageal Hernia,Laparoscopic Repair of Paraesophageal Hernia,CPT,Laparoscopic Repair of Paraesophageal Hernia
+43644,Weight Loss Surgery - Gastric Bypass,Surgery to make the stomach smaller and does not allow food to go through a portion of the stomach and bowels.,CPT,Weight Loss Surgery - Gastric Bypass
+43770,Weight Loss Surgery - Laparoscopic Band,Surgery to place an adjustable band around the top part of the stomach.,CPT,Weight Loss Surgery - Laparoscopic Band
+43775,Weight Loss Surgery - Gastric Sleeve,Weight Loss Surgery - Gastric Sleeve,CPT,Weight Loss Surgery - Gastric Sleeve
+44015,Insertion of J-Tube for Feedings,Insertion of J-Tube for Feedings,CPT,Insertion of J-Tube for Feedings
+44120,Small Bowel Resection - Open,Small Bowel Resection - Open,CPT,Small Bowel Resection - Open
+44139,Freeing of Bowel Before Resection,Freeing of Bowel Before Resection,CPT,Freeing of Bowel Before Resection
+44140,Removal of Bowel - Colectomy,Removal of Bowel - Colectomy,CPT,Removal of Bowel - Colectomy
+44202,Small Bowel Resection,Small Bowel Resection,CPT,Small Bowel Resection
+44970,Appendix Removal (Laparoscopic),Appendix Removal (Laparoscopic),CPT,Appendix Removal (Laparoscopic)
+45378,Diagnostic Examination of Large Intestine,Diagnostic Examination of Large Intestine,CPT,Diagnostic Examination of Large Intestine
+45380,Diagnostic Examination and Biopsy of Large Intestine,"A colonoscopy is an internal examination of the colon (large intestine), using an instrument called a colonoscope.  This test also includes a biopsy.",CPT,Diagnostic examination and biopsy of large intestine using a colonoscope
+45385,Diagnostic Examination of Large Intestine and Polyp Removal,Diagnostic Examination of Large Intestine and Polyp Removal,CPT,Diagnostic Examination of Large Intestine and Polyp Removal
+46221,Hemorrhoidectomy,Hemorrhoidectomy,CPT,Hemorrhoidectomy
+47562,Gallbladder Removal (Laparoscopic),Laparoscopic gallbladder removal is surgery to remove the gallbladder through several small incisions using a medical device called a laparoscope.,CPT,Gallbladder Removal (Laparoscopic)
+49233,Aspiration of Ovary Cyst,Aspiration of Ovary Cyst,CPT,Aspiration of Ovary Cyst
+49505,Repair of Groin Hernia,"A hernia repair is surgery to repair a hernia, an abnormal bulging of internal organs (often the intestine) through a weakness in a muscular wall. ",CPT,Repair of hernia in the groin (inguinal hernia)
+49560,Repair of Abdominal Hernia,Repair of Abdominal Hernia,CPT,Repair of Abdominal Hernia
+49650,Laparoscopic Repair of Groin (Inguinal) Hernia,"A laparoscopic hernia repair is the use of a scop to repair a hernia, an abnormal bulging of internal organs (often the intestine) through a weakness in a muscular wall. ",CPT,Laparoscopic repair of hernia in the groin (inguinal hernia)
+50200,Kidney Biopsy,Kidney Biopsy,CPT,Kidney Biopsy
+50545,Removal of Kidney - Nephrectomy,Removal of Kidney - Nephrectomy,CPT,Removal of Kidney - Nephrectomy
+50590,Lithotripsy - Extracorporeal Shock Wave,A procedure that uses shock waves to break up large stones in the urinary tract.,CPT,Lithotripsy - Extracorporeal Shock Wave
+51595,Removal of Bladder - Cystectomy,Removal of Bladder - Cystectomy,CPT,Removal of Bladder - Cystectomy
+51720,Installation of Chemotherapy into Bladder,Installation of Chemotherapy into Bladder,CPT,Installation of Chemotherapy into Bladder
+51729,Bladder Pressure at Different Volumes of Urine,Bladder Pressure at Different Volumes of Urine,CPT,Bladder Pressure at Different Volumes of Urine
+51741,Electronic Measurement of Urine Flow Rate,Electronic Measurement of Urine Flow Rate,CPT,Electronic Measurement of Urine Flow Rate
+51784,Muscle Tone of Anal or Urethral Opening,Muscle Tone of Anal or Urethral Opening,CPT,Muscle Tone of Anal or Urethral Opening
+51797,Voiding Pressure Study,Voiding Pressure Study,CPT,Voiding Pressure Study
+51798,Measurement of Urine in Bladder After Urinating,Measurement of Urine in Bladder After Urinating,CPT,Measurement of Urine in Bladder After Urinating
+52000,Examination of Urinary Tract - Cystoscopy,Examination of Urinary Tract - Cystoscopy,CPT,Examination of Urinary Tract - Cystoscopy
+52204,Cystourethroscopy with Bladder Biopsy,Cystourethroscopy with Bladder Biopsy,CPT,Cystourethroscopy with Bladder Biopsy
+52332,Cystoscopy with Treatment,The placement of a special tube into the bladder to diagnose and treat a variety of urinary conditions.,CPT,Cystoscopy with Treatment
+52235,Cystourethroscopy with Tumor Removal,Cystourethroscopy with Tumor Removal,CPT,Cystourethroscopy with Tumor Removal
+52601,Removal of Prostate Through Urethra - TURP,Removal of Prostate Through Urethra - TURP,CPT,Removal of Prostate Through Urethra - TURP
+54505,Testicle Biopsy,Testicle Biopsy,CPT,Testicle Biopsy
+54530,Removal of Testes - Orchiectomy,Removal of Testes - Orchiectomy,CPT,Removal of Testes - Orchiectomy
+55250,Vasectomy,Vasectomy,CPT,Vasectomy
+55700,Prostate Biopsy,Prostate Biopsy,CPT,Prostate Biopsy
+55866,Removal of Prostate - Prostatectomy,Removal of Prostate - Prostatectomy,CPT,Removal of Prostate - Prostatectomy
+57160,Fitting and Insertion of Uterine Support Device - Pessary,Fitting and Insertion of Uterine Support Device - Pessary,CPT,Fitting and Insertion of Uterine Support Device - Pessary
+57288,Sling Surgery for Stress Incontinence,Sling Surgery for Stress Incontinence,CPT,Sling Surgery for Stress Incontinence
+57454,Colposcopy with Biopsy of Cervix,Colposcopy with Biopsy of Cervix,CPT,Colposcopy with Biopsy of Cervix
+57520,Cone Biopsy of Cervix,Cone Biopsy of Cervix,CPT,Cone Biopsy of Cervix
+58100,Uterine Biopsy,Uterine Biopsy,CPT,Uterine Biopsy
+58140,Myomectomy - Removal of Fibroids Through Incision,Myomectomy - Removal of Fibroids Through Incision,CPT,Myomectomy - Removal of Fibroids Through Incision
+58150,Abdominal Hysterectomy - Removal of Uterus Through Incision,Removing the uterus through an incision in the abdomen,CPT,Abdominal Hysterectomy - Removal of Uterus Through Incision
+58260,Vaginal Hysterectomy - Removal of Uterus Through the Vagina,Removing the uterus through the vagina,CPT,Vaginal Hysterectomy - Removal of Uterus Through the Vagina
+58300,Insertion of Intrauterine Device,Insertion of Intrauterine Device,CPT,Insertion of Intrauterine Device
+58340,Hysterosalpingogram - Catheterization,Hysterosalpingogram - Catheterization,CPT,Hysterosalpingogram - Catheterization
+58558,Hysteroscopy with Biopsy,Surgery to examine the inside lining of the uterus,CPT,Hysteroscopy with Biopsy
+58563,Hysteroscopy with Endometrial Ablation,Hysteroscopy with Endometrial Ablation,CPT,Hysteroscopy with Endometrial Ablation
+58662,Laparoscopic Ovary Exam and Lesion Removal,Laparoscopic Ovary Exam and Lesion Removal,CPT,Laparoscopic Ovary Exam and Lesion Removal
+58670,Tubal Ligation with Cautery,Tubal Ligation with Cautery,CPT,Tubal Ligation with Cautery
+58720,Ovary and Fallopian Tube Removal,Removing the ovaries and fallopian tubes through an incision in the abdomen,CPT,Bilateral Salpingo-Oophorectomy
+58925,Removal of Ovary Cyst,Removal of Ovary Cyst,CPT,Removal of Ovary Cyst
+59025,Non-Stress Test (Baby),A fetal non-stress test checks the heart rate of the baby when it moves.  ,CPT,Non-stress test (baby)
+59409,Vaginal Delivery (Physician Charge),"The delivery of a baby through the mother's vagina, or birth canal.",CPT,Vaginal Delivery (physician charge)
+59426,Routine Office Visits Before Delivery,Routine office visits with Obstetrician before delivery,CPT,Routine office visits before delivery
+59430,Routine Office Visits After Delivery,Routine office visits with Obstetrician after delivery,CPT,Routine office visits after delivery
+59514,Cesarean Delivery (Physician Charge),The delivery of a baby through an incision in the mother's abdomen.,CPT,Cesarean Delivery (physician charge)
+59812,Surgical Treatment of Incomplete Miscarriage,Surgical Treatment of Incomplete Miscarriage,CPT,Surgical Treatment of Incomplete Miscarriage
+60100,Thyroid Biopsy,Thyroid Biopsy,CPT,Thyroid Biopsy
+60240,Removal of Thyroid - Thyroidectomy,Removal of Thyroid - Thyroidectomy,CPT,Removal of Thyroid - Thyroidectomy
+62284,Injection for Myelogram ,Injection for Myelogram ,CPT,Injection for Myelogram 
+62311,Injection of Medication Into Lower Spine,Injection of medication into lumbar (lower) spine,CPT,Injection of medication into lumbar (lower) spine
+63012,Lumbar Laminectomy,A lumbar laminectomy is surgery to remove the lamina (two small bones that make up a vertebra) or bone spurs in the lower back.  The specific procedure will depend on the the number of vertebrae affected and if surrounding tissue was also resected.  ,CPT,Lumbar Laminectomy - Removal of Lumbar Lamina
+63030,Lumbar Laminotomy (Partial Removal of 1 Vertebrae),A lumbar laminotomy is surgery to remove parts of the lamina (two small bones that make up a vertebra) or bone spurs in the lower back.  ,CPT,Lumbar Laminotomy; partial removal of bone in lower back
+63047,Lumbar Laminectomy,A lumbar laminectomy is surgery to remove the lamina (two small bones that make up a vertebra) or bone spurs in the lower back.,CPT,Lumbar Laminectomy - Removal of Lumbar Lamina
+64721,Carpal Tunnel Release,Carpal Tunnel Release,CPT,Carpal Tunnel Release
+66984,Cataract Removal and Lens Implant,The removal of a cataract from the eye and placment of an intraocular lens.,CPT,Cataract Removal and Lens Implant
+67110,Repair of Detached Retina,The repair of a detached retina.,CPT,Repair of Detached Retina
+66170,Eye Surgery for Glaucoma,Eye Surgery for Glaucoma,CPT,Eye Surgery for Glaucoma
+66180,Placement of Eye Shunt ,Placement of Eye Shunt ,CPT,Placement of Eye Shunt 
+69436,Tympanostomy - Tubes in Eardrums,The placement of a small tube in the eardrum so the fluid in the middle ear can drain out.,CPT,Tympanostomy - Tubes in Eardrums
+70336,MRI - Face,MRI - Face,CPT,MRI - Face
+70355,Panoramic X-Ray,Panoramic X-Ray,CPT,Panoramic X-Ray
+70450,CT Scan Without Dye - Head or Brain,A computed tomography (CT) scan of the head is an imaging method that uses x-rays to create cross-sectional pictures of the body parts within the head or brain.,CPT,CT scan of the head or brain without contrast
+70486,CT Scan Without Dye - Maxillofacial,"A computed tomography (CT) scan of the maxillofacial area is an imaging method that uses x-rays to create cross-sectional pictures of the structures in the face, including the mouth, jaw and surrounding areas.",CPT,CT Scan - Maxillofacial without contrast
+70487,CT Scan With Dye - Maxillofacial,CT Scan With Dye - Maxillofacial,CPT,CT Scan With Dye - Maxillofacial
+70488,CT Scan Without and With Dye - Maxillofacial,CT Scan Without and With Dye - Maxillofacial,CPT,CT Scan Without and With Dye - Maxillofacial
+70490,CT Scan Without Dye - Soft Tissue of Neck,CT Scan Without Dye - Soft Tissue of Neck,CPT,CT Scan Without Dye - Soft Tissue of Neck
+70491,CT Scan With Dye - Soft Tissue of Neck,CT Scan With Dye - Soft Tissue of Neck,CPT,CT Scan With Dye - Soft Tissue of Neck
+70492,CT Scan Without and With Dye - Soft Tissue of Neck,CT Scan Without and With Dye - Soft Tissue of Neck,CPT,CT Scan Without and With Dye - Soft Tissue of Neck
+70498,CT Scan Angiography Without and With Dye - Neck,CT Scan Without and With Dye - Neck,CPT,CT Scan Without and With Dye - Neck
+70542,MRI With Dye - Face,MRI With Dye - Face,CPT,MRI With Dye - Face
+70543,MRI Without Dye and With Dye - Face,MRI Without Dye and With Dye - Face,CPT,MRI Without Dye and With Dye - Face
+70544,MR Angiography Without Dye - Head,MR Angiography Without Dye - Head,CPT,MR Angiography Without Dye - Head
+70545,MR Angiography With Dye - Head,MR Angiography With Dye - Head,CPT,MR Angiography With Dye - Head
+70546,MR Angiography Without and With Dye - Head,MR Angiography Without and With Dye - Head,CPT,MR Angiography Without and With Dye - Head
+70547,MR Angiography Without Dye - Neck,MR Angiography Without Dye - Neck,CPT,MR Angiography Without Dye - Neck
+70548,MR Angiography With Dye - Neck,MR Angiography With Dye - Neck,CPT,MR Angiography With Dye - Neck
+70549,MR Angiography Without and With Dye - Neck,MR Angiography Without and With Dye - Neck,CPT,MR Angiography Without and With Dye - Neck
+70551,MRI Without Dye - Brain,A magnetic resonance imaging (MRI) scan of the brain uses powerful magnets and radio waves to create detailed pictures of the brain and surrounding nerve tissues.    ,CPT,MRI scan of the brain without contrast
+70552,MRI With Dye - Brain,MRI With Dye - Brain,CPT,MRI With Dye - Brain
+70553,MRI Without Dye then With Dye - Brain,A magnetic resonance imaging (MRI) scan of the brain uses powerful magnets and radio waves to create detailed pictures of the brain and surrounding nerve tissues before and after the administration of a contrast material.    ,CPT,MRI scan of the brain before and after contrast
+71010,Chest X-ray (Single view),"A chest x-ray is an x-ray of the chest, lungs, heart, large arteries, ribs, and diaphragm.",CPT,X-ray of the chest (single view)
+71020,Chest X-ray (Two Views),"A chest x-ray is an x-ray of the chest, lungs, heart, large arteries, ribs, and diaphragm. The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the chest (2 views)
+71250,CT Scan Without  Dye - Chest,CT Scan Without  Dye - Chest,CPT,CT Scan Without  Dye - Chest
+71260,CT Scan With Dye - Chest,CT Scan With Dye - Chest,CPT,CT Scan With Dye - Chest
+71270,CT Scan Without then With Dye - Chest,CT Scan Without then With Dye - Chest,CPT,CT Scan Without then With Dye - Chest
+71275,CT Scan Angiography Without Dye then With Dye - Chest,"A CT angiography (CTA) is a special x-ray procedure that creates detailed images of the blood vessels in your chest to detect aneurysms, blood clots, and other abnormalities outside of your heart. ",CPT,CT Scan Angiography of the chest without contrast followed by with contrast
+71551,MRI With Dye - Chest,MRI With Dye - Chest,CPT,MRI With Dye - Chest
+71552,MRI Without then With Dye - Chest,MRI Without then With Dye - Chest,CPT,MRI Without then With Dye - Chest
+71555,MR Angiography - Chest,MR Angiography - Chest,CPT,MR Angiography - Chest
+72040,X-ray - Cervical Spine (2 or 3 views),"A cervical spine x-ray uses a small dose of radiation to create 2 or 3 images of the seven bones in the neck area (cervical vertebrae). The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the cervical spine (2 or 3 views)
+72100,X-ray of the Lower Spine (2 or 3 Views) ,"A lumbar spine x-ray uses a small dose of radiation to create 2 or 3 images of the seven bones in the lower spine. The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the lumbar spine (2 or 3 views) 
+72125,CT Scan Without Dye - Cervical Spine,CT Scan Without Dye - Cervical Spine,CPT,CT Scan Without Dye - Cervical Spine
+72132,CT Scan Without Dye - Lumbar Spine,CT Scan Without Dye - Lumbar Spine,CPT,CT Scan Without Dye - Lumbar Spine
+72133,CT Scan Without then With Dye - Lumbar Spine,CT Scan Without then With Dye - Lumbar Spine,CPT,CT Scan Without then With Dye - Lumbar Spine
+72141,MRI Without Dye - Cervical Spine,A magnetic resonance imaging (MRI) scan of the cervical spine uses powerful magnets and radio waves to create pictures of the structures in the neck (the spinal cord and spaces between the vertebrae through which nerves travel).,CPT,MRI scan of the cervical spine (neck) without contrast
+72142,MRI With Dye - Cervical Spine,MRI With Dye - Cervical Spine,CPT,MRI With Dye - Cervical Spine
+72148,MRI Without Dye - Lumbar Spine,A magnetic resonance imaging (MRI) scan of the lumbar spine uses powerful magnets and radio waves to create pictures of the structures in the lower spine (the spinal cord and spaces between the vertebrae through which nerves travel).,CPT,MRI scan of the lumbar spine (lower) without contrast
+72158,MRI Without Dye then With Dye - Lumbar Spine,A magnetic resonance imaging (MRI) scan of the lumbar spine uses powerful magnets and radio waves to create pictures of the structures in the lower spine (the spinal cord and spaces between the vertebrae through which nerves travel).,CPT,MRI scan of the lumbar spine without contrast followed by with contrast
+72159,MR Angiography - Spine,MR Angiography - Spine,CPT,MR Angiography - Spine
+72170,X-ray of Pelvis (1 or 2 Views),"A pelvic x-ray uses a small dose of radiation to create 1 or 2 images of the organs and structures in the lower abdomen. The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the pelvis (1 or 2 views)
+72191,CT Scan Angiography Without Dye then With Dye - Pelvis,CT Scan Angiography Without Dye then With Dye - Pelvis,CPT,CT Scan Angiography Without Dye then With Dye - Pelvis
+72192,CT Scan Without Dye - Pelvis,A computed tomography (CT) scan of the pelvis is an imaging method that uses x-rays to create cross-sectional pictures of the body parts within the pelvis. ,CPT,CT scan of the pelvis without contrast
+72193,CT Scan With Dye - Pelvis,A computed tomography (CT) scan of the pelvis is an imaging method that uses x-rays to create cross-sectional pictures of the body parts within the pelvis.  Occasionally a contrast is used to enhance the pictures.,CPT,CT scan of the pelvis with contrast.
+72194,CT Scan Without Dye then With Dye - Pelvis,CT Scan Without Dye then With Dye - Pelvis,CPT,CT Scan Without Dye then With Dye - Pelvis
+72195,MRI Without Dye - Pelvis,MRI Without Dye - Pelvis,CPT,MRI Without Dye - Pelvis
+72196,MRI With Dye - Pelvis,MRI With Dye - Pelvis,CPT,MRI With Dye - Pelvis
+72197,MRI Without and With Dye - Pelvis,MRI Without and With Dye - Pelvis,CPT,MRI Without and With Dye - Pelvis
+72198,MR Angiography - Pelvis,MR Angiography - Pelvis,CPT,MR Angiography - Pelvis
+72265,Myelogram - Lumbar Spine,Myelogram - Lumbar Spine,CPT,Myelogram - Lumbar Spine
+73030,X-ray - Shoulder (2 Views),X-ray - Shoulder (2 Views),CPT,X-ray - Shoulder (2 Views)
+73110,X-ray - Wrist (3 Views),"This wrist x-ray uses a small dose of radiation to create 2 images of one wrist and surrounding structures. The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the wrist (3 views)
+73130,X-ray - Hand,"An x-ray of your hand uses a small dose of radiation to create 3 images of the hand. The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the hand (3 views)
+73140,X-ray - Finger(s),"An x-ray of your finger(s) uses a small dose of radiation to create an image of one or more fingers. The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the finger(s) (2 views)
+73200,CT Without Dye - Upper Extremity,CT Without Dye - Upper Extremity,CPT,CT Without Dye - Upper Extremity
+73201,CT With Dye - Upper Extremity,CT With Dye - Upper Extremity,CPT,CT With Dye - Upper Extremity
+73202,CT Without and With Dye - Upper Extremity,CT Without and With Dye - Upper Extremity,CPT,CT Without and With Dye - Upper Extremity
+73206,CT Angiography Without and With Dye - Upper Extremity,CT Angiography Without and With Dye - Upper Extremity,CPT,CT Angiography Without and With Dye - Upper Extremity
+73219,MRI With Dye - Upper Extremity,MRI With Dye - Upper Extremity,CPT,MRI With Dye - Upper Extremity
+73220,MRI Without and With Dye - Upper Extremity,MRI Without and With Dye - Upper Extremity,CPT,MRI Without and With Dye - Upper Extremity
+73221,MRI Without Dye - Upper Extremity Joint,MRI Without Dye - Upper Extremity Joint,CPT,MRI Without Dye - Upper Extremity Joint
+73222,MRI With Dye - Upper Extremity Joint,MRI With Dye - Upper Extremity Joint,CPT,MRI With Dye - Upper Extremity Joint
+73223,MRI Without and with Dye - Upper Extremity Joint,MRI Without and with Dye - Upper Extremity Joint,CPT,MRI Without and with Dye - Upper Extremity Joint
+73225,MR Angiography - Arm,MR Angiography - Arm,CPT,MR Angiography - Arm
+73510,X-ray - Hip,"This hip x-ray uses a small dose of radiation to create 2 images of one hip joint and surrounding structures. The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the hip (2 views)
+73560,X-ray - Knee (1 or 2 Views),"A knee x-ray uses a small dose of radiation to create 1 or 2 images of the knee joint and surrounding structures. The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the knee (1 or 2 views)
+73562,X-ray of the knee (3 Views),"A knee x-ray uses a small dose of radiation to create 3 images of the knee joint and surrounding structures.  The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the knee (3 views)
+73590,X-Ray - Leg,X-Ray - Leg,CPT,X-Ray - Leg
+73610,X-ray - Ankle ( 3 Views),"An ankle x-ray uses a small dose of radiation to create 3 images of the ankle.  The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-Ray of the ankle (3 views)
+73630,X-ray - Foot (3 Views),"A foot x-ray uses a small dose of radiation to create 3 images of the ankle.  The x-rays may be taken from different angles, such as the front, side, or back.",CPT,X-ray of the foot (3 views)
+73700,CT Without Dye - Lower Extremity,CT Without Dye - Lower Extremity,CPT,CT Without Dye - Lower Extremity
+73701,CT With Dye - Lower Extremity,CT With Dye - Lower Extremity,CPT,CT With Dye - Lower Extremity
+73702,CT Without and With Dye - Lower Extremity,CT Without and With Dye - Lower Extremity,CPT,CT Without and With Dye - Lower Extremity
+73706,CT Angiography Without and With Dye - Lower Extremity,CT Angiography Without and With Dye - Lower Extremity,CPT,CT Angiography Without and With Dye - Lower Extremity
+73719,MRI With Dye - Lower Extremity,MRI With Dye - Lower Extremity,CPT,MRI With Dye - Lower Extremity
+73720,MRI Without and With Dye - Lower Extremity,MRI Without and With Dye - Lower Extremity,CPT,MRI Without and With Dye - Lower Extremity
+73721,MRI Without Dye - Lower Extremity Joint,MRI Without Dye - Lower Extremity Joint,CPT,MRI Without Dye - Lower Extremity Joint
+73722,MRI With Dye - Lower Extremity Joint,MRI With Dye - Lower Extremity Joint,CPT,MRI With Dye - Lower Extremity Joint
+73723,MRI Without and With Dye - Lower Extremity Joint,MRI Without and With Dye - Lower Extremity Joint,CPT,MRI Without and With Dye - Lower Extremity Joint
+73725,MR Angiography - Leg,MR Angiography - Leg,CPT,MR Angiography - Leg
+74000,X-ray - Abdomen,An image of the structures in your upper belly made using a small dose of radiation.,CPT,Radiologic examination of abdomen (single view)
+74150,CT Scan Without Dye - Abdomen,A computed tomography (CT) scan of the abdomen is an imaging method that uses x-rays to create cross-sectional pictures of the body parts within the abdomen. ,CPT,CT scan of the abdomen without contrast
+74160,CT Scan With Dye - Abdomen,A computed tomography (CT) scan of the abdomen is an imaging method that uses x-rays to create cross-sectional pictures of the body parts within the abdomen.  Occasionally a contrast is used to enhance the pictures.,CPT,CT scan of the abdomen with contrast.  
+74170,CT Scan Without and With Dye - Abdomen,A computed tomography (CT) scan of the abdomen is an imaging method that uses x-rays to create cross-sectional pictures of the body parts within the abdomen.  Occasionally a contrast is used after the first set of images to enhance the pictures.,CPT,CT scan of the abdomen without contrast followed by with contrast
+74174,CT Scan Angiography Without and With Dye - Abdomen and Pelvis,CT Scan Angiography Without and With Dye - Abdomen and Pelvis,CPT,CT Scan Angiography Without and With Dye - Abdomen and Pelvis
+74175,CT Scan Angiography Without and With Dye - Abdomen,CT Scan Angiography Without and With Dye - Abdomen,CPT,CT Scan Angiography Without and With Dye - Abdomen
+74176,CT Scan Without Dye - Abdomen and Pelvis,CT Scan Without Dye - Abdomen and Pelvis,CPT,CT Scan Without Dye - Abdomen and Pelvis
+74177,CT Scan With Dye - Abdomen and Pelvis,A computed tomography (CT) scan of the abdomen and pelvis is an imagning method that uses x-rays to create cross-sectional pictures of the body parts within the abdomen and pelvis.  Occasionally a contrast is used to enhance the pictures.,CPT,CT scan of the abdomen and pelvis with contrast.
+74178,CT Scan Without and With Dye - Abdomen and Pelvis,CT Scan Without and With Dye - Abdomen and Pelvis,CPT,CT Scan Without and With Dye - Abdomen and Pelvis
+74182,MRI With Dye - Abdomen,MRI With Dye - Abdomen,CPT,MRI With Dye - Abdomen
+74183,MRI Without and With Dye - Abdomen,MRI Without and With Dye - Abdomen,CPT,MRI Without and With Dye - Abdomen
+74185,MR Angiography - Abdomen,MR Angiography - Abdomen,CPT,MR Angiography - Abdomen
+74240,X-ray of Upper Gastrointestinal Tract (Upper GI),An x-ray of the upper gastrointestinal tract.,CPT,X-ray of the upper gastrointestinal tract (Upper GI)
+74328,Radiological supervision and interpretation during ERCP ,Radiological supervision and interpretation during ERCP ,CPT,Radiological supervision and interpretation during ERCP 
+74740,Hysterosalpingogram - Radiology Supervision,Hysterosalpingogram - Radiology Supervision,CPT,Hysterosalpingogram - Radiology Supervision
+75561,MRI Without and With Dye - Heart,MRI Without and With Dye - Heart,CPT,MRI Without and With Dye - Heart
+75563,MRI Without and With Dye - Heart - Stress Imaging,MRI Without and With Dye - Heart - Stress Imaging,CPT,MRI Without and With Dye - Heart - Stress Imaging
+75571,CT Scan Without Dye - Heart,CT Scan Without Dye - Heart,CPT,CT Scan Without Dye - Heart
+75572,CT Scan With Dye - Heart,CT Scan With Dye - Heart,CPT,CT Scan With Dye - Heart
+75574,CT Scan Angiography With Dye - Heart,CT Scan Angiography With Dye - Heart,CPT,CT Scan Angiography With Dye - Heart
+75625,Radiological Supervision of Placement of Catheter in Aorta,Radiological Supervision of Placement of Catheter in Aorta,CPT,Radiological Supervision of Placement of Catheter in Aorta
+75710,Radiological Supervision of Placement of Catheter in Extremity Artery,Radiological Supervision of Placement of Catheter in Extremity Artery,CPT,Radiological Supervision of Placement of Catheter in Extremity Artery
+75952,Radiological Supervision of AAA Repair,Radiological Supervision of AAA Repair,CPT,Radiological Supervision of AAA Repair
+76536,Ultrasound of Neck,Ultrasound of Neck,CPT,Ultrasound of Neck
+76645,Ultrasound of Breast(s),An ultrasound of the breast(s) uses high-frequency sound waves to create images of breast tissue.,CPT,Ultrasound of the breast(s)
+76700,Ultrasound of Abdomen - (Complete),"A complete abdominal ultrasound is an imaging procedure used to examine the internal organs of the abdomen, including the liver, gallbladder, spleen, pancreas, and kidneys. The blood vessels that lead to some of these organs can also be looked at with ultrasound.",CPT,Ultrasound of the abdomen (complete)
+76705,Abdominal Ultrasound,A limited abdominal ultrasound is an imaging procedure used to look at single organ or single quadrant in the abdomen; it can also be used to follow up on a previous exam.,CPT,Abdominal Ultrasound
+76770,Ultrasound - Retroperitoneal (Rear of Abdomen),"A retroperitoneal ultrasound is an imaging procedure used to examine the internal organs in the rear of the abdomen, including the aorta, lymph nodes, and kidney.  ",CPT,Ultrasound of the rear of the abdomen
+76801,Ultrasound of Pregnant Uterus (Before 14 Weeks),An ultrasound of a pregnant uterus before 14 weeks,CPT,Routine OB care - Ultrasound
+76805,Ultrasound of Pregnant Uterus (After 14 Weeks),An ultrasound of a pregnant uterus after 14 weeks,CPT,Routine OB care - Ultrasound
+76811,Ultrasound of Pregnant Uterus (Detailed Images of Mom and Baby),An obstetric ultrasound is the use of high-frequency sound waves and a handheld probe to create detailed pictures of your uterus and unborn baby.,CPT,Ultrasound of pregnant uterus with detailed pictures of mom and baby
+76813,Ultrasound of pregnant uterus (includes measurements for chromosomal abnormalities or heart defects),An ultrasound of a pregnant uterus with detailed measurements of the baby,CPT,Ultrasound of pregnant uterus (includes measurements for chromosomal abnormalities or heart defects)
+76815,Ultrasound of Pregnant Uterus (Limited Study),A limited ultrasound of a pregnant uterus,CPT,Ultrasound of pregnant uterus (limited study)
+76816,Screening Mammogram - Additional Computer Images,A follow-up ultrasound of a pregnancy uterus,CPT,Ultrasound of pregnant uterus (follow-up study)
+76817,Ultrasound of Pregnant Uterus (Via Vagina),An ultrasound of a pregnant uterus using a probe inserted in the vagina,CPT,Ultrasound of Pregnant Uterus (via vagina)
+76830,Ultrasound of Pelvis Via Vagina,"A transvaginal ultrasound is a type of pelvic ultrasound that uses sound waves to create detailed images of the reproductive organs (uterus, ovaries, cervix, and vagina) using a probe inserted into the vagina.",CPT,Ultrasound of pelvis (not related to pregnancy) via probe inserted into the vagina
+76856,Ultrasound of Pelvis,"An ultrasound of the pelvis uses high-frequency sound waves to create images of organs and systems within the pelvis (not related to pregnancy).
+
+",CPT,Ultrasound of pelvis not related to pregnancy
+76870,Ultrasound of Scrotum,Ultrasound of Scotum,CPT,Ultrasound of Scrotum
+76872,Ultrasound of Rectum,Ultrasound of Rectum,CPT,Ultrasound of Rectum
+76881,Ultrasound of Leg or Arm,Ultrasound of Leg or Arm,CPT,Ultrasound of Leg or Arm
+76942,Ultrasound Guidance During Biopsy,The use of ultrasound to guide a biopsy,CPT,Ultrasound Guidance During Biopsy
+77012,CT Scan Guidance,CT Scan Guidance,CPT,CT Scan Guidance
+77051,Diagnostic Mammogram - Additional Computerized Images,A diagnostic mammogram is when two images of each breast are taken to evaluate breast symptoms; this represents additional computerized images to help identify lesions earlier. ,CPT,Diagnostic Mammogram - Additional Computerized Images
+77052,Screening Mammogram - Additional Computer Images,A screening mammogram is when two images of each breast are taken to find breast cancer before it causes symptoms; this represents additional computerized images to help identify lesions earlier. ,CPT,Screening Mammogram (additional computer images)
+77056,Diagnostic Mammogram - Film,A diagnostic mammogram is when two images of each breast are reproduced on film to evaluate breast symptoms. ,CPT,Diagnostic Mammogram - Film
+77057,Preventive Screening Mammogram - Film,A preventive screening mammogram is when two images of each breast are reproduced on film to find breast cancer before it causes symptoms. ,CPT,Preventive Screening Mammogram - Film
+77058,MRI - Breast - Unilateral,MRI - Breast - Unilateral,CPT,MRI - Breast - Unilateral
+77059,MRI - Breast - Bilateral,MRI - Breast - Bilateral,CPT,MRI - Breast - Bilateral
+77073,Bone Length Study,Bone Length Study,CPT,Bone Length Study
+77080,"Bone Density Study - Hips, Pelvis, and Spine",A dual-energy x-ray absorptiometry (DXA) test measures bone density in the lower spine and the hip.,CPT,"Bone Density Study - Hips, Pelvis, and Spine"
+77263,Radiation Treatment Planning ,Radiation Treatment Planning ,CPT,Radiation Treatment Planning 
+77290,Radiation Treatment Simulation - Complex,Radiation Treatment Simulation - Complex,CPT,Radiation Treatment Simulation - Complex
+77300,Radiation Treatment Dose Calculation,Radiation Treatment Dose Calculation,CPT,Radiation Treatment Dose Calculation
+77301,Radiation Treatment Planning - Varied Intensity,Semi-Private Room and Board - Medical or Surgical,CPT,Radiation Treatment Planning - Varied Intensity
+77334,Radiation Treatment Devices - Complex,Radiation Treatment Devices - Complex,CPT,Radiation Treatment Devices - Complex
+77336,Radiation Consultation ,Radiation Consultation,CPT,Radiation Consultation
+77338,Device Building for Varied Intensity Treatment,Device Building for Varied Intensity Treatment,CPT,Device Building for Varied Intensity Treatment
+77413,Radiation Treatment Delivery - Low Intensity,Radiation treatment is the use of radiation to kill cancer cells in a specific area of the body.,CPT,Radiation Treatment Delivery - Low Intensity
+77414,Radiation Treatment Delivery - Medium Intensity,Radiation treatment is the use of radiation to kill cancer cells in a specific area of the body.,CPT,Radiation Treatment Delivery - Medium Intensity
+77418,Radiation Treatment Delivery - Varied Intensity,Radiation treatment is the use of radiation to kill cancer cells in a specific area of the body.,CPT,Radiation Treatment Delivery - Varied Intensity
+77427,Radiation Treatment Management,Radiation Treatment Management,CPT,Radiation Treatment Management
+78070,Images of Parathyroid Gland,Images of Parathyroid Gland,CPT,Images of Parathyroid Gland
+78227,HIDA Scan,HIDA Scan,CPT,HIDA Scan
+78452,Heart SPECT Imaging Studies,A myocardial perfusioin imaging test is used to determine if there is a problem with the blood flow to the heart muscle and if there has been a previous heart attack.,CPT,Myocardial Perfusion Imaging Test (Multiple views)
+78815,PET Scan with CT Scan,A positron emission tomography (PET) scan is an imaging test that uses a radioactive substance to see how well the organs in the body are working.  It is performed with a CT scan.  ,CPT,Positron Emission Tomography (PET) scan with CT scan - Skull to Thigh
+80048,Basic Metabolic Panel Test,"A basic metabolic panel is a group of chemical tests that include measures of kidney function (BUN/Creatinine), blood sugar, and various electrolytes (sodium, potassium, and chlorine).",CPT,Basic Metabolic Panel (Chem 7)
+80050,General Health Panel Test,"A routine group of lab tests that provides detailed information on your overall health; it includes a Comprehensive Metabolic Panel (Chem 20), a Complete Blood Count (CBC), and a Thyroid Stimulating Hormone (TSH) level.",CPT,General Health Panel
+80053,Comprehensive Metabolic Panel Test,"A comprehensive metabolic panel is a group of chemical tests that include total cholesterol, total protein, and various electrolytes (sodium, potassium, chlorine, and many others). The rest of the tests measure chemicals that reflect liver and kidney function.",CPT,Comprehensive Metabolic Panel (Chem 20)
+80055,New Pregnant Patient Lab Test,Obstetric Panel,CPT,Routine OB care - Labwork
+80061,Cholesterol Test,A lipid panel test is a rough measure of all the cholesterol and triglycerides in your blood. ,CPT,Lipid Panel Test
+80076,Liver Panel Test,"A group of lab tests that provide detailed information on your liver; it documents the level of Albumin, Bilirubin, Phosphate, Protein, and Transferase in your blood.  ",CPT,Hepatic Function Panel
+81000,Urine Test - Manual,"This test checks for abnormal levels of substances in the urine, such as bacteria, blood, and protein. ",CPT,Urinalysis; non-automated with microscopy 
+81002,Urine Test - Dip Stick,A urinalysis is the physical and chemical examination of urine.,CPT,"Urinalysis, by dip stick or tablet reagent "
+81003,Urine Test - Automated,"A urinalysis is the physical, chemical, and occasionally microscopic examination of urine.",CPT,Urinalysis; automated without microscopy 
+81025,Urine Pregnancy Test,A test that measures the level of human chorionic gonadotropin hormone (HCG) in the urine. ,CPT,Routine OB care - Labwork
+82043,Urine Microalbumin Test,This test checks for small quantities of albumin (a protein) in your urine.,CPT,Urine Microalbumin Test
+82105,AFP Test,Alpha-Fetoprotein (AFP) Blood Test for birth defects,CPT,Routine OB care - Labwork
+82270,Blood in Stool Test,This test checks to see if there is any hidden blood in the stool (feces).,CPT,Stool Guaiac Test
+82306,Vitamin D Test,A Vitamin D blood test measures the level of Vitamin D in your blood.,CPT,Vitamin D level
+82360,Analysis of Urine Stone (Calculus),The analysis of a stone from the urinary tract.,CPT,Analysis of Urine Stone (Calculus)
+82378,Carcinoembryonic Antigen - CEA,Carcinoembryonic Antigen - CEA,CPT,Carcinoembryonic Antigen - CEA
+82550,Creatine Kinase Test,Creatine Kinase Test,CPT,Creatine Kinase Test
+82565,Creatinine Test,This test checks the level of creatinine in your blood. ,CPT,Creatinine
+82670,Estradiol Test,Estradiol Test,CPT,Estradiol Test
+82947,Fasting Blood Glucose Test,A test that measures the level of glucose (sugar) in the blood. ,CPT,Blood Glucose Level
+82950,Glucose Test,Blood sugar test,CPT,Routine OB care - Labwork
+82977,Liver Enzyme Study - GGT,Gamma Glutamyltransferase (GGT),CPT,Gamma Glutamyltransferase (GGT)
+83036,Hemoglobin A1c Test,A hemoglobin A1C test shows what your average blood sugar levels have been over the past few months. It can also tell you if your diabetes treatment plan is working.,CPT,Hemoglobin A1c Test
+83615,Lactate Dehydrogenase - LDH Test,This test checks the level of lactate dehydrogenase (LDH) in your blood. ,CPT,Lactate Dehydrogenase (LDH)
+83690,Lipase Test,This test checks the level of lipase in your blood. ,CPT,Lipase Test
+84153,Prostate-Specific Antigen - PSA Test,A blood test to screen for prostate cancer or to monitor the course of the disease.,CPT,Prostate Specific Antigen (PSA)
+84439,Thyroxine - T4 Test,"A test that checks the level of thyroxine (T4), a hormone made by the thyroid gland, in your blood. ",CPT,Thyroxine (T4)
+84443,Thyroid-Stimulating Hormone - TSH Test,This test checks the level of thyroid-stimulating hormone (TSH) in your blood. ,CPT,Thyroid Stimulating Hormone (TSH)
+84479,Thyroid Hormone Test,This test checks the blood levels of a protein that carries the thyroid hormone in your blood.,CPT,Thyroid Hormone Uptake
+84550,Uric Acid Test,This test checks the amount of uric acid in your blood. ,CPT,Uric Acide
+84702, Pregnancy Blood Test,Chorionic Gonadotropin T (HCG-Pregnancy Test),CPT,Routine OB care - Labwork
+84703, Pregnancy Test - Blood or Urine,Chorionic Gonadotropin T (HCG-Pregnancy Test) Blood or Urine,CPT, Pregnancy Test - Blood or Urine
+85014,Hematocrit Test,This test checks the red blood cells in your blood. ,CPT,Hematocrit
+85018,Hemoglobin Test,This test checks the amount of hemoglobin (a protein that carries oxygen) in your blood. ,CPT,Hemoglobing  
+85025,Complete Blood Count - CBC Test,"A complete blood count (CBC) test measures red blood cells (RBCs), white blood cells (WBCs), hemoglobin, hematocrit, platelets, and the size and hemoglobin content of the red blood cells.",CPT,Complete Blood Count (CBC)
+85060,Blood Smear Interpretation,Blood Smear Interpretation,CPT,Blood Smear Interpretation
+85097,Bone Marrow Smear Interpretation,Bone Marrow Smear Interpretation,CPT,Bone Marrow Smear Interpretation
+85610,PT Blood Test,This test checks the time it will take for your blood to clot. ,CPT,Prothrombin Time ((PT)
+85651,Sed Rate - ESR Test,This measures how fast red blood cells fall to the bottom of a glass tube; the faster the cells fall the more inflammation is presesnt in the body.,CPT,Sedimentation Rate (ESR)
+85652,Sed Rate - ESR Test - Automated,This measures how fast red blood cells fall to the bottom of a glass tube; the faster the cells fall the more inflammation is presesnt in the body.,CPT,Sed Rate - ESR Test - Automated
+85730,PTT Blood Test,This test checks the time it will take for your blood to clot when you are receiving Heparin therapy. ,CPT,Partial Thromboplastin Time (PTT)
+86140,C-Reactive Protein - CRP Test,This test is done to check the level of C-reactive protein (CRP) in your blood. CRP is a marker of inflammation somewhere in the body. ,CPT,C-Reactive Protein (CRP)
+86300,Tumor Antigen Analysis,Tumor analysis for antigens,CPT,Tumor Antigen Analysis
+86308,Mono Test,This test is done to see if you have mononucleosis.,CPT,Monospot
+86431,Rheumatoid factor,Rheumatoid factor,CPT,Rheumatoid factor
+86580,Tubercolosis - TB Test,Tubercolosis - TB Test,CPT,Tubercolosis - TB Test
+86592,Syphilis Testing,"A test to determine if you have syphilis, a sexually transmitted disease. ",CPT,Syphilis Testing
+86618,Lyme Disease Antibody Test ,Lyme Disease Antibody Test ,CPT,Lyme Disease Antibody Test 
+86677,Helicobacter Pylori Test,"A test to determine the presence of Helicobacter Pylori, a common cause of stomach problems.",CPT,Helicobacter pylori
+86703,HIV Test,HIV-1/HIV-2 Single Assay,CPT,Routine OB care - Labwork
+86707,Hepatitis Be Antibody ,Hepatitis Be Antibody ,CPT,Hepatitis Be Antibody 
+86850,Antibody Screening Blood Test,Antibody screening (RBC),CPT,Antibody Screening Blood Test
+86900,ABO Blood Typing Test,Blood Typing (ABO),CPT,ABO Blood Typing Test
+86901,RH Blood Typing Test,Blood Typing (RH),CPT,RH Blood Typing Test
+87070,Bacterial Culture - Other Source Test,"A test to check for bacteria in a body fluid or discharge, typically due to an infection.  ",CPT,Body fluid or discharge culture for bacteria
+87081,Screening Culture Test,This test checks for the presence of bacteria in a body fluid. ,CPT,Routine OB care - Labwork
+87086,Bacterial Culture - Urine Test,"A test to check for bacteria in the urine, typically due to a urinary tract infection.  ",CPT,Urine culture for bacteria
+87340,Hepatitis B Surface Antigen Test,Hepatitis B Surface Antigen Test,CPT,Hepatitis B Surface Antigen Test
+87350,Hepatitis B Antibody Test,Hepatitis B Antibody Test,CPT,Hepatitis B Antibody Test
+87491,Chlamydia Test,Chlamydia Test,CPT,Chlamydia Test
+87517,Hepatitis B Antibody Test,Hepatitis B Antibody Test,CPT,Hepatitis B Antibody Test
+87591,Gonorrhea Test,"A test that checks for the presence of a specific bacteria, Neisseria gonorrhoeae, in the mouth, vagina, penis, or anus.  ",CPT,Gonorrhea Culture
+87621,Human Papillomavirus - HPV Test,"A test that checks for the presence of a specific virus, human papillomavirus (HPV), in the vagina, penis, or anus.  ",CPT,Human Papilloma Virus (HPV) Culture
+87804,Influenza Test,This test checks for the presence of the influenza virus.  ,CPT,Influenza   
+87880,Strep Throat Test,"This test checks for the presence of a specific bacteria, Group A Streptococcus, in the throat (Strep Throat) ",CPT,Strep Throat (Group A Strep)
+88112,Cytopathology,Cytopathology,CPT,Cytopathology
+88141,Pap Smear Test - Cytopathology,Pap Smear Test - Cytopathology,CPT,Pap Smear Test - Cytopathology
+88142,Pap Smear Test - Pregnancy,Pap Smear Test,CPT,Routine OB care - Labwork
+88173,Evaluation of Specimen - Cytopathology,Evaluation of Specimen - Cytopathology,CPT,Evaluation of Specimen - Cytopathology
+88175,Pap Smear Test,Pap Smear Test,CPT,Pap Smear Test
+88189,Flow Cytometry Interpretation,Flow Cytometry Interpretation,CPT,Flow Cytometry Interpretation
+88304,Pathology Test - Level 3,"The gross and microscopic examination of tissue by a pathologist 
+(Level III).",CPT,Tissue examination by pathologist (Level III)
+88305,Pathology Test - Level 4,The gross and microscopic examination of tissue by a pathologist (Level IV).,CPT,Tissue examination by pathologist (Level IV)
+88307,Pathology Test - Level 5,The gross and microscopic examination of tissue by a pathologist (Level V).,CPT,Tissue examination by pathologist (Level V)
+88309,Pathology Test - Level 6,The gross and microscopic examination of tissue by a pathologist (Level VI).,CPT,Tissue examination by pathologist (Level VI)
+88311,Tissue Decalcification,Tissue Decalcification,CPT,Tissue Decalcification
+88313,Special Stain Exam,Special Stain Exam,CPT,Special Stain Exam
+88331,Pathology Consultation During Surgery,A pathology consultation during surgery.,CPT,Pathology Consultation During Surgery
+88360,Tumor Antibody Analysis ,Tumor analysis for antibodies,CPT,Tumor Antibody Analysis 
+84402,Immunization Administration ,The administration of a vaccine. ,CPT,Immunization Administration 
+84403,Free Testosterone Test,Free Testosterone Test,CPT,Free Testosterone Test
+90471,Total Testosterone Test,Total Testosterone Test,CPT,Total Testosterone Test
+90472,Immunization Administration (Additional Vaccines),The administration of additional vaccine(s).,CPT,Immunization Administration (additional vaccines)
+90632,Hepatitis A Vaccine - Adult,The administration of the hepatitis A vaccine to an adult,CPT,Hepatitis A Vaccine - Adult
+90633,Hepatitis A Vaccine - Child,The administration of the hepatitis A vaccine to a child,CPT,Hepatitis A Vaccine - Child
+90634,Hepatitis A vaccine (3 Dose),The administration of the hepatitis A vaccine (3 dose schedule),CPT,Hepatitis A vaccine (3 dose)
+90636,Hepatitis A and B Vaccine,The administration of the hepatitis A and B vaccine.,CPT,Hepatitis A and B vaccine
+90645,Hemophilus Influenza (Hib) Vaccine,The administration of the Hemophilus influenza (Hib) vaccine,CPT,Hemophilus influenza (Hib) vaccine
+90648,Haemophilus Influenza B  (Hib) Vaccine,The administration of the Hemophilus influenza (Hib) vaccine,CPT,Haemophilus Influenza B  (Hib) Vaccine
+90649,Human Papilloma Virus (HPV) Vaccine,The administration of the human papilloma virus (HPV) vaccine,CPT,Human Papilloma Virus (HPV) vaccine
+90658,Influenza Vaccine,The adminstration of the influenza vaccine,CPT,Influenza Vaccine
+90669,Pneumoccal Vaccine (7 valent),The adminstration of the Pneumoccal vaccine (7 valent),CPT,Pneumoccal vaccine (7 valent)
+90670,Pneumoccal Vaccine (13 valent),The adminstration of the Pneumoccal vaccine (13 valent),CPT,Pneumoccal vaccine (13 valent)
+90680,Rotavirus Vaccine,The administration of the rotavirus vaccine with 3 doses,CPT,Rotavirus Vaccine
+90698,"Diphtheria, Tetanus Toxoids, Acellular Pertussis Vaccine, Haemophilus Influenza Type B, and Poliovirus Vaccine, Inactivated (DTaP - Hib - IPV)","The administration of the Diphtheria, tetanus toxoids, acellular pertussis vaccine, haemophilus influenza Type B, and poliovirus vaccine, inactivated (DTaP - Hib - IPV)",CPT,"Diphtheria, tetanus toxoids, acellular pertussis vaccine, haemophilus influenza Type B, and poliovirus vaccine, inactivated (DTaP - Hib - IPV)"
+90700,"Tetanus, Diphtheria, and Pertusis (Tdap) Vaccine","The administration of the Tdap (Tetanus, Diptheria, and Pertusis) vaccine. ",CPT,"Tetanus, Diphtheria, and Pertusis (Tdap) Vaccine"
+90707,"Measles, Mumps, and Rubella (MMR) Vaccine","The administration of the MMR (Measles, mumps, and rubella) vaccine.",CPT,"Measles, Mumps, and Rubella (MMR) Vaccine"
+90712,Poliovirus Vaccine - OPV (Oral),The administration of the poliovirus vaccine orally,CPT,Poliovirus vaccine - OPV (oral)
+90713,Polio Vaccine,The administration of the poliovirus vaccine by an injection,CPT,Polio Vaccine
+90714,"Tetanus, diphtheria vaccine","The administration of the Td (Tetanus, Diptheria) vaccine. ",CPT,"Tetanus, diphtheria vaccine"
+90715,"Tetanus, Diphtheria, and Pertusis (Tdap) Vaccine","The administration of the Tdap (Tetanus, Diptheria, and Pertusis) vaccine. ",CPT,"Tetanus, diphtheria, and pertusis (Tdap) vaccine"
+90716,Chickenpox Vaccine,The administration of the varicella (Chickenpox) vaccine,CPT,Chickenpox Vaccine
+90732,Pneumococcal Vaccine,The administration of the pneumococcal vaccine,CPT,Pneumococcal vaccine
+90733,Meningococcal  Vaccine,The administration of the meningococcal  vaccine.,CPT,Meningococcal  vaccine
+90734,Meningococcal  Vaccine,The administration of the meningococcal  vaccine.,CPT,Meningococcal  vaccine
+90736,Shingles vaccine,Herpes Zoster (Shingles) vaccine,CPT,Shingles vaccine
+90744,Hepatitis B Vaccine - Child,The administration of the Hepatitis B vaccine to a child,CPT,Hepatitis B Vaccine - Child
+90746,Hepatitis B Vaccine - Adult,The administration of the Hepatitis B vaccine to an adult,CPT,Hepatitis B Vaccine - Adult
+90791,Initial Psychotherapy Interview,An initial examination with a mental health professional,CPT,Initial Psychotherapy Interview
+90792,Initial Psychotherapy Interview with Medical Evaluation,An initial psychological and medical examination with a mental health professional,CPT,Initial Psychotherapy Interview with Medical Evaluation
+90834,Individual Psychotherapy,An appointment with a mental health professional for psychotherapy,CPT,Individual Psychotherapy
+92012,Intermediate Eye and Medical Exam,An appointment with an eye doctor for an intermediate eye exam and general medical evaluation.,CPT,Intermediate Eye and Medical Exam
+92014,Comprehensive Eye and Medical Exam,An appointment with an eye doctor for a comprehensive eye exam and general medical evaluation.,CPT,Comprehensive Eye and Medical Exam
+92015,Determination of Refractive State,Measurement of refractive state for eye glass prescription,CPT,Determination of Refractive State
+92020,Eye Exam for Glaucoma,Eye Exam for Glaucoma,CPT,Eye Exam for Glaucoma
+92083,Visual Field Examination,Visual Field Examination,CPT,Visual Field Examination
+92133,Optic Nerve Scanning,Optic Nerve Scanning,CPT,Optic Nerve Scanning
+92136,Lens Implant Calculation ,Measurement of opththalmic biometry for intraocular lens calculation,CPT,Lens Implant Calculation
+92225,Initial Opthalmoscopy - Extended,Initial extended opthalmoscopy exam.,CPT,Initial Opthalmoscopy - Extended
+92226,Subsequent Opthalmoscopy - Extended,Follow up extended opthalmoscopy exam.,CPT,Subsequent Opthalmoscopy - Extended
+92551,Hearing Screening Test,The administration of a Hearing Screening Test,CPT,Hearing Screening Test
+92557,Comprehensive Hearing Evaluation,Comprehensive Hearing Evaluation,CPT,Comprehensive Hearing Evaluation
+92567,Tympanometry - Eardrum Resistance,A measurement of the eardrum's resistance to sound transmission in response to changes in pressure in the outer ear canal. ,CPT,Tympanometry - Eardrum Resistance
+92920,Coronary Angioplasty,The placement of a small flexible tube with an inflatable balloon to open an obstructed heart artery.,CPT,Coronary Angioplasty
+92928,Placement of Stent,The placement of a stent after a coronary angioplasty,CPT,Placement of Stent
+93000,Electrocardiogram - EKG,An electrocardiogram (EKG or ECG) is a recording of the electrical activity within the heart.,CPT,"Electrocardiogram, Complete"
+93010,Electrocardiogram Physician Interpretation and Report Only,An electrocardiogram (EKG or ECG) is a recording of the electrical activity within the heart.  This code is just for the physician interpretation and report. ,CPT,Electrocardiogram Report
+93015,Heart Stress Test,A stress test can show how your heart responds to exercise; this can help diagnose problems with your heart and coronary arteries.,CPT,Cardiovascular Stress Test
+93280,Testing of Heart Pacemaker,Testing of Heart Pacemaker,CPT,Testing of Heart Pacemaker
+93283,Testing of Heart Defibrillator,Testing of Heart Defibrillator,CPT,Testing of Heart Defibrillator
+93303,Heart Ultrasound for Birth Defects,An echocardiogram is the use of ultrasound (sound waves) to create images and evaluate birth defects of the heart. ,CPT,Transthoracic Echocardiography (for congenital abnormalities)
+93306,Heart Ultrasound With Blood Flow Study,An echocardiogram with doppler is the use of ultrasound (sound waves) to create images of the heart and a doppler ultrasound to measure the hearts blood flow and motion.,CPT,"Transthoracic Echocardiography with Doppler
+"
+93312,Transesophageal Echocardiography,Transthoracic Echocardiography,CPT,Transthoracic Echocardiography
+93320,Doppler Echo Exam of the Heart (Additional Test),A test that uses sound waves called Doppler ultrasound to create images of blood flow through the heart,CPT,Complete Electrocardiogram
+93325,Doppler Color Flow (Additional Test),A test that uses sound waves called Doppler ultrasound to create color images of blood flow through the heart,CPT,Doppler Color Flow (Additional Test)
+93458,Coronary Artery and Left Heart Catheterization,The placement of a small flexible tube into the heart to diagnose a variety of heart conditions.,CPT,Coronary Artery and Left Heart Catheterization
+93503,Insertion of Swan-Ganz Catheter,Insertion of Swan-Ganz Catheter,CPT,Insertion of Swan-Ganz Catheter
+93613,Injection for Aortography (add on code - never billed alone),Injection for Aortography (add on code - never billed alone),CPT,Injection for Aortography (add on code - never billed alone)
+93621,Evaluation of Heart Electrical System,Evaluation of Heart Electrical System,CPT,Evaluation of Heart Electrical System
+93623,Stimulation of Irregular Heart Rhythm,Stimulation of Irregular Heart Rhythm,CPT,Stimulation of Irregular Heart Rhythm
+93641,Stimulation of Irregular Heart Rhythm after Medication,Stimulation of Irregular Heart Rhythm after Medication,CPT,Stimulation of Irregular Heart Rhythm after Medication
+93653,Comprehensive Heart Rhythm Analysis,Comprehensive Heart Rhythm Analysis,CPT,Comprehensive Heart Rhythm Analysis
+93798,Outpatient Cardiac Rehabilitation,Outpatient Cardiac Rehabilitation,CPT,Outpatient Cardiac Rehabilitation
+93880,Duplex Scan of Carotid Arteries,Duplex Scan of Carotid Arteries,CPT,Duplex Scan of Carotid Arteries
+94640,Breathing Treatment,A breathing treatment is when medication is put into a fine mist that is inhaled through a mask or mouthpeice.,CPT,Breathing Treatment
+95806,Sleep Study at Home,Polysomnography is a study that monitors you and your vital signs at home as you sleep.,CPT,"Polysomnography, Home Sleep Study"
+95810,Sleep Study,"Polysomnography is a study that monitors you and your vital signs as you sleep.
+",CPT,Polysomnography w/ CPAP
+95811,Sleep Study with CPAP,"Polysomnography with Continuous Positive Airway Pressure (CPAP) is a study that monitors you and your vital signs as you sleep with a machine that delivers pressurized air through a mask over your nose and, at times, your mouth. ",CPT,"Polysomnography, 4 or More"
+95819,Electroencephalogram - Awake and Asleep,Electroencephalogram - Awake and Asleep,CPT,Electroencephalogram - Awake and Asleep
+95860,Needle Nerve Conduction Studies,Needle Nerve Conduction Studies,CPT,Needle Nerve Conduction Studies
+95861,Needle Electromyogram - 2 Extremities,Needle Electromyogram - 2 Extremities,CPT,Needle Electromyogram - 2 Extremities
+95908,Sensory and Motor Nerve Conduction - 3 to 4 Studies,Sensory and Motor Nerve Conduction - 3 to 4 Studies,CPT,Sensory and Motor Nerve Conduction - 3 to 4 Studies
+95911,Sensory and Motor Nerve Conduction - 9 to 10 Studies,Sensory and Motor Nerve Conduction - 9 to 10 Studies,CPT,Sensory and Motor Nerve Conduction - 9 to 10 Studies
+,Nerve Conduction Studies - Motor and Sensory,Nerve Conduction Studies - Motor and Sensory,CPT,Nerve Conduction Studies - Motor and Sensory
+95951,EEG Monitoring for Seizures,EEG Monitoring for Seizures,CPT,EEG Monitoring for Seizures
+96367,Additional Medication Infusion,Additional Medication Injection,CPT,Additional Medication Injection
+96375,Additional Medication Injection,Additional Medication Injection,CPT,Additional Medication Injection
+96402,Chemotherapy Hormone Injection,Chemotherapy Hormone Injection,CPT,Chemotherapy Hormone Injection
+96411,First Chemotherapy Injection,First Chemotherapy Injection,CPT,First Chemotherapy Injection
+96413,First Hour Chemotherapy Infusion,First Hour Chemotherapy Infusion,CPT,First Hour Chemotherapy Infusion
+96415,Additional Hour of Chemotherapy Infusion,Additional Hour of Chemotherapy Infusion,CPT,Additional Hour of Chemotherapy Infusion
+96417,Second Chemotherapy Injection,Second Chemotherapy Injection,CPT,Second Chemotherapy Injection
+,Second Chemotherapy Injection,Initial Physical Therapy evaluation,CPT,Physical Therapy Evaluation
+97001,Physical Therapy Evaluation,Physical Therapy Evaluation,CPT,Physical Therapy Evaluation
+97010,Hot or Cold Therapy,Hot or Cold Therapy,CPT,Hot or Cold Therapy
+97012,Mechanical Traction,Mechanical Traction,CPT,Mechanical Traction
+97014,Electrical Stimulation Therapy (Unattended),Electrical Stimulation Therapy (Unattended),CPT,Electrical Stimulation Therapy (Unattended)
+97032,Electrical Stimulation Therapy (Constant Attendance),Electrical Stimulation Therapy (Constant Attendance),CPT,Electrical Stimulation Therapy (Constant Attendance)
+97033,Iontophoresis (Electrical Current to Administer Medication - Constant Attendance),Iontophoresis (Electrical Current to Administer Medication - Constant Attendance),CPT,Iontophoresis (Electrical Current to Administer Medication - Constant Attendance)
+97035,Ultrasound (Ultrasound to Increase Circulation - Constant Attendance),Ultrasound (Ultrasound to Increase Circulation - Constant Attendance),CPT,Ultrasound (Ultrasound to Increase Circulation - Constant Attendance)
+97110,Exercises,Exercises,CPT,Exercises
+97116,Walking and Climbing Stairs Training,Walking and Climbing Stairs Training,CPT,Walking and Climbing Stairs Training
+97140,Massage and Traction,Massage and Traction,CPT,Massage and Traction
+97530,Functional Activities,Functional Activities,CPT,Functional Activities
+97535,Self-Care/Home Management Training ,Self-Care/Home Management Training ,CPT,Self-Care/Home Management Training 
+97802,Nutrition Consultation (Assessment and Intervention),Nutrition Consultation (Assessment and Intervention),CPT,Nutrition Consultation (Assessment and Intervention)
+97810,Acupuncture - First 15 Minutes,Acupuncture - First 15 Minutes,CPT,Acupuncture - First 15 Minutes
+97811,Acupuncture - Second 15 Minutes,Acupuncture - Second 15 Minutes,CPT,Acupuncture - Second 15 Minutes
+98940,Chiropractic Manipulation - Spine (1-2 regions),Chiropractic Manipulation - Spine (1-2 regions),CPT,Chiropractic Manipulation - Spine (1-2 regions)
+98941,Chiropractic Manipulation - Spine (3-4 Regions),Chiropractic Manipulation - Spine (3-4 Regions),CPT,Chiropractic Manipulation - Spine (3-4 Regions)
+98942,Chiropractic Manipulation - Spine (5 Regions),Chiropractic Manipulation - Spine (5 Regions),CPT,Chiropractic Manipulation - Spine (5 Regions)
+98943,Chiropractic Manipulation - Extraspinal ,Chiropractic Manipulation - Extraspinal ,CPT,Chiropractic Manipulation - Extraspinal 
+99173,Vision Screening Test,Vision Screening Test,CPT,Vision Screening Test
+99201,Office Visit - New Patient - Minimal Complexity,An office visit with a new health care provider to evaluate symptoms that are minimal.  ,CPT,Office Visit - New Patient - Minimal Complexity
+99202,Office Visit - New Patient - Low Complexity,An office visit with a new health care provider to evaluate symtpoms that are self limited or minor severity.  ,CPT,Office Visit - New Patient - Low Complexity
+99203,Office Visit - New Patient - Moderate Complexity,"An office visit with a new health care provider to evaluate symptoms that are moderate severity.  
+",CPT,Office Visit - New Patient - Moderate Complexity
+99204,Office Visit - New Patient - Moderate to High Complexity,An office visit with a new health care provider to evaluate symptoms that are moderate to high severity.  ,CPT,Office Visit - New Patient - Moderate to High Complexity
+99205,Office Visit - New Patient - High Complexity,An office visit with a new health care provider to evaluate symptoms that are high severity.  ,CPT,Office Visit - New Patient - High Complexity
+99211,Office Visit - Established Patient - Minimal Complexity,An office visit with an established health care provider to evaluate symptoms that are minimal.  ,CPT,Office Visit - Established Patient - Minimal Complexity
+99212,Office Visit - Established Patient - Low Complexity,An office visit with an established health care provider to evaluate symtpoms that are self limited or minor severity.  ,CPT,Office Visit - Established Patient - Low Complexity
+99213,Office Visit - Established Patient - Moderate Complexity,An office visit with an established health care provider to evaluate symptoms that are moderate severity.  ,CPT,Office Visit - Established Patient - Moderate Complexity
+99214,Office Visit - Established Patient - Moderate to High Complexity,An office visit with an established health care provider to evaluate symptoms that are moderate to high severity.  ,CPT,Office Visit - Established Patient - Moderate to High Complexity
+99215,Office Visit - Established Patient - High Complexity,An office visit with an established health care provider to evaluate symptoms that are high severity.  ,CPT,Office Visit - Established Patient - High Complexity
+99223,Initial Inpatient Physician Evaluation (High Complexity),Initial Inpatient Physician Evaluation (High Complexity),CPT,Initial Inpatient Physician Evaluation (High Complexity)
+99232,Follow-Up Inpatient Physician Evaluation (Moderate Complexity),Follow-Up Inpatient Physician Evaluation (Moderate Complexity),CPT,Follow-Up Inpatient Physician Evaluation (Moderate Complexity)
+99233,Follow-Up Inpatient Physician Evaluation (High Complexity),Follow-Up Inpatient Physician Evaluation (High Complexity),CPT,Follow-Up Inpatient Physician Evaluation (High Complexity)
+99241,Office Consultation - Minimal Complexity,An office consultation with a health care provider to evaluate symptoms that are minimal.,CPT,Office Consultation - Minimal Complexity
+99242,Office Consultation - Low Complexity,An office consultation with a health care provider to evaluate symptoms that are self limited or minor severity.,CPT,Office Consultation - Low Complexity
+99243,Office Consultation - Moderate Complexity,An office consultation with a health care provider to evaluate symptoms that are moderate severity.  ,CPT,Office Consultation - Moderate Complexity
+99244,Office Consultation - Moderate to High Complexity,An office consultation with a health care provider to evaluate symptoms that are moderate to high severity.  ,CPT,Office Consultation - Moderate to High Complexity
+99245,Office Consultation - High Complexity,An office consultation with a health care provider to evaluate symptoms that are high severity.  ,CPT,Office Consultation - High Complexity
+99291,Critical Care Physician Evaluation,Critical Care Physician Evaluatoin,CPT,Critical Care Physician Evaluatoin
+99381,"Office Visit - Preventive Care
+New Patient - Age < 1",This is a routine office visit with a new healthcare provider when your child is <1 years of age. ,CPT,"Office Visit - Preventive Care
+New Patient - Age < 1"
+99382,"Office Visit - Preventive Care
+New Patient - Age 1-4",This is a routine office visit with a new healthcare provider when your child is 1-4 years of age. ,CPT,"Office Visit - Preventive Care
+New Patient - Age 1-4"
+99383,"Office Visit - Preventive Care
+New Patient - Age 5-11",This is a routine office visit with a new healthcare provider when your child is 5-11 years of age. ,CPT,"Office Visit - Preventive Care
+New Patient - Age 5-11"
+99384,"Office Visit - Preventive Care
+New Patient - Age 12-17",This is a routine office visit with a new healthcare provider when your child is 12-17 years of age. ,CPT,"Office Visit - Preventive Care
+New Patient - Age 12-17"
+99385,"Office Visit - Preventive Care
+New Patient - Age 18-39",This is a routine office visit with a new healthcare provider when you are 18-39 years of age. ,CPT,"Office Visit - Preventive Care
+New Patient - Age 18-39"
+99386,"Office Visit - Preventive Care
+New Patient - Age 40-64",This is a routine office visit with a new healthcare provider when you are 40-64 years of age. ,CPT,"Office Visit - Preventive Care
+New Patient - Age 40-64"
+99387,"Office Visit - Preventive Care
+New Patient - Age > 65",This is a routine office visit with a new healthcare provider when you are > 65 years of age. ,CPT,"Office Visit - Preventive Care
+New Patient - Age > 65"
+99391,"Office Visit - Preventive Care
+Established Patient - Age < 1",This is a routine office visit with your child's regular healthcare provider when they are < 1 years of age. ,CPT,"Office Visit - Preventive Care
+Established Patient - Age < 1"
+99392,"Office Visit - Preventive Care
+Established Patient - Age 1-4",This is a routine office visit with your child's regular healthcare provider when they are 1-4 years of age. ,CPT,"Office Visit - Preventive Care
+Established Patient - Age 1-4"
+99393,"Office Visit - Preventive Care
+Established Patient - Age 5-11",This is a routine office visit with your child's regular healthcare provider when they are 5-11 years of age. ,CPT,"Office Visit - Preventive Care
+Established Patient - Age 5-11"
+99394,"Office Visit - Preventive Care
+Established Patient - Age 12-17",This is a routine office visit with your child's regular healthcare provider when they are 12-17 years of age. ,CPT,"Office Visit - Preventive Care
+Established Patient - Age 12-17"
+99395,"Office Visit - Preventive Care
+Established Patient - Age 18-39",This is a routine office visit with your regular healthcare provider when you are 18-39 years of age. ,CPT,"Office Visit - Preventive Care
+Established Patient - Age 18-39"
+99396,"Office Visit - Preventive Care
+Established Patient -  Age 40-64",This is a routine office visit with your regular healthcare provider when you are 40-64 years of age. ,CPT,"Office Visit - Preventive Care
+Established Patient -  Age 40-64"
+99397,"Office Visit - Preventive Care
+Established Patient - Age > 65",This is a routine office visit with your regular healthcare provider when you are > 65 years of age. ,CPT,"Office Visit - Preventive Care
+Established Patient - Age > 65"
+99460,Initial Physician Evaluation of Newborn,This is the physician evaluation of a newborn shortly after birth.,CPT,Initial Physician Evaluation of Newborn
+99462,Follow-Up evaluation of Newborn,This the physician evaluation of a newborn while in the hospital.,CPT,Follow-Up evaluation of Newborn
+A4562,Pessary,Pessary,HCPCS,Pessary
+A7035,Headgear for CPAP Machine,Headgear to be used with a CPAP machine.,HCPCS,Headgear for CPAP Machine
+A7037,Tubing for CPAP Machine,Tubing to be used with a CPAP machine.,HCPCS,Tubing for CPAP Machine
+A9500,Technetium tc-99m Sestamibi - Diagnostic,Technetium tc-99m Sestamibi - Diagnostic,HCPCS,Technetium tc-99m Sestamibi - Diagnostic
+C1725,Angioplasty Catheter,Angioplasty Catheter,HCPCS,Angioplasty Catheter
+C1769,Guide Wire,Guide Wire,HCPCS,Guide Wire
+C1781,Mesh,Mesh,HCPCS,Mesh
+C1887,Catheter Guide,Introducer or Sheath,HCPCS,Introducer or Sheath
+C1894,Catheter Introducer,Catheter Introducer,HCPCS,Catheter Introducer
+E0143,Folding Walker with Wheels,Folding Walker with Wheels,HCPCS,Folding Walker with Wheels
+E0935,Continuous Passive Motion Exercise Device for Use on Knee,Continuous Passive Motion Exercise Device for Use on Knee,HCPCS,Continuous Passive Motion Exercise Device for Use on Knee
+G0202,Preventive Screening Mammogram - Digital,A preventive screening mammogram is when two digital images of each breast are taken to find breast cancer before it causes symptoms. ,HCPCS,Preventive Screening Mammogram - Digital
+G0204,Diagnostic Mammogram - Digital,A digital diagnostic mammogram is when two digital images of each breast are taken to evaluate breast symptoms ,HCPCS,Diagnostic Mammogram - Digital
+G0206,Diagnostic Mammogram - Digital,A digital diagnostic mammogram is when digital images of a single breast are taken to evaluate breast symptoms ,HCPCS,Diagnostic Mammogram - Digital
+J7302,Intrauterine Device,Intrauterine Device,HCPCS,Intrauterine Device
+L4360,Walking Boot,Walking Boot,HCPCS,Walking Boot
+Q4010,Wrist Cast,Arm Cast,HCPCS,Arm Cast
+Q4032,Long Leg Cast,Long Leg Cast,HCPCS,Long Leg Cast
+S2083,Adjustment of Gastric Band,The adjustment of a gastric band by injeciton or removing a solution into a port located under  the skin on the abdomen.,HCPCS,Adjustment of Gastric Band

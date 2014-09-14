@@ -1,0 +1,36 @@
+I know you are using Jetty, but I have a method using Tomcat that works and will explain below.
+
+Basically, I have given up trying to understand what I perceive as excessively obtuse ways Java web apps protect themselves in Jetty & Tomcat. So I prefer allowing Apache to do the heavy lifting of being the first line of defense against access. Apache is solid & reliable. And if you feel the need for extra security, you can always install tools like ModSecurity to make it even more secure.
+
+The key is to create a reverse proxy setup in Apache like so. The code into the Apache config for the host that will have Solr running. I like to have it running off of a subdirectory, so this example uses /solr as an example for the ProxyPass & ProxyPassReverse settings. First here are the settings to add a trailing slash to URLs so calls to http://my.server.is.great/solr get translated to http://my.server.is.great/solr/
+
+# Settings for adding a trailing slash to the URL
+RewriteEngine On
+RewriteCond %{REQUEST_URI} ^/(solr)$
+RewriteRule ^(.*)$ http://%{HTTP_HOST}$1/ [R=301,L]
+Now here comes the mod_proxy stuff that works the magic of routing a Tomcat web app to an Apache frontend.
+
+# Settings for Solr in Apache
+<IfModule mod_proxy.c>
+
+    # Proxy specific settings
+    ProxyRequests Off
+    ProxyPreserveHost On
+
+    <Proxy *>
+        AddDefaultCharset off
+        Order deny,allow
+        Allow from all
+    </Proxy>
+
+    ProxyPass /solr http://localhost:8080/solr/
+    ProxyPassReverse /solr http://localhost:8080/solr/
+
+</IfModule>
+At this point, I would restart Apache and see if that works. If it does, all good! Now the final step is to go into the Tomcat XML file and restrict Solr to respond only to localhost/127.0.0.1 requests by adding address="127.0.0.1" to the connector.
+
+<Connector port="8080" protocol="HTTP/1.1"
+                       address="127.0.0.1"
+                       connectionTimeout="20000"
+                       URIEncoding="UTF-8"
+                       redirectPort="8443" />

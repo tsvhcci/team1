@@ -1,0 +1,826 @@
+cb_code,cb_step_code,cb_step_name,cb_step_desc,service_category,provider_type,icd9,icd10
+AA001,AA001_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,441.4,I71.4 
+AA001,AA001_2,Repair of Abdominal Aortic Aneurysm,The repair of an abdominal aortic aneurysm through an incision in the groin,Inpatient,F,441.4,I71.4 
+AA001,AA001_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,441.4,I71.4 
+AA002,AA002_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,441.4,I71.4 
+AA002,AA002_2,Aorta Angiography,Putting a small movable tube into a large artery to check blood flow and look for abnormalitites in the wall of the aorta,Outpatient,F,441.4,I71.4 
+AA002,AA002_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,441.4,I71.4 
+AB001,AB001_1,Office Visit,A visit with a primary care physician to evaluate your lungs and determine the best course of treatment,Office ,P,4660,J20.9
+AB002,AB002_1,Office Visit,Two visits with a primary care physician to evaluate your respiratory symptoms and determine the best course of treatment,Office ,P,496,J44.9
+AB003,AB003_1,Office Visit,Four visits with a primary care physician to evaluate your asthma and determine the best course of treatment,Office ,P,49390,J45.909
+AB004,AB004_1,Office Visit,Two visits with a primary care physician to evaluate your respiratory symptoms and determine the best course of treatment,Office ,P,486,J18.9
+AB004,AB004_1,Chest X-ray,X-ray of the chest,Radiology,P,486,J18.9
+AC001,AC001_1,Office Visit,Two visits with a primary care physician to evaluate your acne and determine the best course of treatment,Office ,P,7061,L70.9 
+AC002,AC002_1,Office Visit,A visit with a primary care physician to evaluate your mole and determine the best course of treatment,Office ,P,2165,D23.5 
+AC003,AC003_1,Office Visit,A visit with a primary care physician to evaluate your abscess and determine the best course of treatment,Office ,P,,
+AC004,AC004_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a primary care physician to evaluate your back pain and determine the best course of treatment,Office ,P,685.1,L05.92
+AC004,AC004_2,Removal of Pilonidal Cyst,Removal of pilonidal cyst,Outpatient,F,685.1,L05.92
+AC004,AC004_3,Follow-up Office Visit,A follow up office visit after your procedure,Office ,P,685.1,L05.92
+AE001,AE001_1,Office Visit,A visit with an acupuncturist and determine the best course of treatment,Office ,P,,
+AF001,AF001_1,Office Visit,A visit with a primary care physician to evaluate your athlete's foot and determine the best course of treatment,Office ,P,1104,B35.3 
+AP001,AP001_1,Office Visit,A visit with a primary care physician to evaluate your ankle pain and determine the best course of treatment,Office ,P,71947,M25.579 
+AP002,AP002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,714,
+AP002,AP002_2,Ankle Arthroscopy,Surgery that uses small medical instruments and a camera to look at the inside of the ankle joint,Outpatient,F,714,
+AP002,AP002_3,Physical Therapy,An exercise program guided by a professional who understands the special needs of people with ankle problems,Physical Therapy,F,714,
+AP002,AP002_4,Follow-up Office Visit,A checkup after your procedure,Office ,P,714,
+AR001,AR001_1,Office Visit,A visit with a primary care physician to evaluate your rash and determine the best course of treatment,Office ,P,692.9,L23.9
+AR002,AR002_1,Office Visit,A visit with a primary care physician to evaluate your rash and determine the best course of treatment ,Office ,P,1203,B65.3
+AR003,AR003_1,Office Visit,A visit with a primary care physician to evaluate your eczema and determine the best course of treatment,Office ,P,6918,L20.84 
+AS001,AS001_1,Office Visit,Two visits with a primary care physician to evaluate your allergy symptoms and determine the best course of treatment,Office ,P,4779,J30.9
+AS002,AS002_1,Office Visit,A visit with a specialist to evaluate your allergy symptoms and perform allergy testing,Office ,P,4770,J30.1
+AS003,AS003_1,Office Visit,A visit with a specialist to review the results of your allergy testing and the best course of treatment,Office ,P,4770,J30.1
+AS003,AS003_2,Allergy Injections,The injection of an allergen to reduce allergy symptoms,Office ,P,4770,J30.1
+AY001,AY001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,5409,K3580
+AY001,AY001_2,Removal of Appendix,Surgery to remove the appendix through a few small incisions in the abdomen,Inpatient,F,5409,K3580
+AY001,AY001_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,5409,K3580
+AY002,AY002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,5409,K3580
+AY002,AY002_2,Removal of Appendix,Surgery to remove the appendix through a few small incisions in the abdomen,Outpatient,F,5409,K3580
+AY002,AY002_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,5409,K3580
+BB001,BB001_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a primary care physician to evaluate your broken bone and determine the best course of treatment,Office ,P,81342,S52.509A
+BB001,BB001_2,Follow-up Office Visit,A follow up office visit to evaluate your fracture,Office ,P,81342,S52.509A
+BB002,BB002_1,Emergency Room Visit,An emergency room visit to evaluate your fracture,Outpatient,F,81342,S52.509A
+BB002,BB002_2,Follow-up Office Visit,A follow up office visit to evaluate your fracture,Office ,P,81342,S52.509A
+BB003,BB003_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a primary care physician to evaluate your broken bone and determine the best course of treatment,Office ,P,816.01,S62.609A
+BB003,BB003_2,Follow-up Office Visit,A follow up office visit to evaluate your fracture,Office ,P,816.01,S62.609A
+BB004,BB004_1,Emergency Room Visit,An emergency room visit to evaluate your fracture,Outpatient,F,816.01,S62.609A
+BB004,BB004_2,Follow-up Office Visit,A follow up office visit to evaluate your fracture,Office ,P,816.01,S62.609A
+BB005,BB005_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a primary care physician to evaluate your broken bone and determine the best course of treatment,Office ,P,825.25,S92.309A 
+BB005,BB005_2,Follow-up Office Visit,A follow up office visit to evaluate your fracture,Office ,P,825.25,S92.309A 
+BB006,BB006_1,Emergency Room Visit,An emergency room visit to evaluate your fracture,Outpatient,F,825.25,S92.309A 
+BB006,BB006_2,Follow-up Office Visit,A follow up office visit to evaluate your fracture,Office ,P,825.25,S92.309A 
+BB007,BB007_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a primary care physician to evaluate your broken bone and determine the best course of treatment,Office ,P,823,S82.109A 
+BB007,BB007_2,Follow-up Office Visit,A follow up office visit to evaluate your fracture,Office ,P,823,S82.109A 
+BB008,BB008_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a primary care physician to evaluate your broken bone and determine the best course of treatment,Office ,P,823,S82.109A 
+BB008,BB008_2,Broken Leg Repair,Surgery to repair a broken leg,Inpatient,F,823,S82.109A 
+BB008,BB008_3,Outpatient Physical Therapy,An exercise program guided by a professional who understands the special needs of people recovering from a broken leg,Physical Therapy,F,823,S82.109A 
+BB008,BB008_4,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,823,S82.109A 
+BC001,BC001_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a specialist to discuss birth control options,Office ,P,V25.11,Z30.430 
+BC002,BC002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,V25.2,Z30.2
+BC002,BC002_2,Tubual Ligation with Cautery,"Surgery to cut, tie, or burn a woman's fallopian tubes",Outpatient,F,V25.2,Z30.2
+BC002,BC002_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,V25.2,Z30.2
+BD001,BD001_1,Blood Draw,The drawing of blood from a vein,Laboratory,F,,
+BI001,BI001_1,Office Visit,A visit with a primary care physician to evaluate your urinary tract symptoms and determine the best course of treatment,Office ,P,5990,N39.0 
+BP002,BP002_1,Back Pain - Doctor Visit,A visit with a primary care physician to evaluate your back pain and determine the best course of treatment,Office ,P,7242,M54.5 
+BP004,BP004_1,Back Pain - Physical Therapy,A visit with a primary care physician to evaluate your back pain and determine the best course of treatment,Office ,P,7242,M54.5 
+BP004,BP004_2,Physical Therapy,An exercise program guided by a professional who understands the special needs of people with back pain,Physical Therapy,F,7242,M54.5 
+BP005,BP005_1,Back Pain - Chiropractor Visit,"A method of back pain treatment that is done by applying a sudden, controlled force to move a joint in the spine through its normal range of motion",Office ,P,7242,M54.5 
+BP010,BP010_1,Back Pain - Chiropractor Visit,"A method of back pain treatment that is done by applying a sudden, controlled force to move a joint in the spine through its normal range of motion",Office ,P,7242,M54.5 
+BP006,BP006_1,Initial Office Visit with PCP ,A visit with a primary care physician to evaluate your back pain and determine the best course of treatment,Office ,P,7242,M54.5 
+BP006,BP006_2,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,7242,M54.5 
+BP006,BP006_3,Back Pain - Epidural Steroid Injection,"A shot that delivers pain medication directly to the nerves, joints, or muscles in your back",Outpatient,F,7242,M54.5 
+BP006,BP006_4,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,7242,M54.5 
+BP007,BP007_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your back pain,Office ,P,7384,"M43.06
+M43.10"
+BP007,BP007_2,MRI of Lumbar Spine,MRI of lower (lumbar) spine,Radiology,F,7384,"M43.06
+M43.10"
+BP007,BP007_3,Lumbar Laminectomy,Surgery that removes part of one or more lumbar vertebrae,Inpatient,F,7384,"M43.06
+M43.10"
+BP007,BP007_4,Outpatient Physical Therapy,An exercise program guided by a professional who understands the special needs of people recovering from back surgery,Physical Therapy,F,7384,"M43.06
+M43.10"
+BP007,BP007_5,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,7384,"M43.06
+M43.10"
+BP008,BP008_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your back pain,Office ,P,72402,M48.06 
+BP008,BP008_2,MRI of Lumbar Spine,MRI of lower (lumbar) spine,Radiology,F,72402,M48.06 
+BP008,BP008_3,Lumbar Fusion,"Surgery that joins, or fuses, two or more lumbar vertebrae",Inpatient,F,72402,M48.06 
+BP008,BP008_4,Outpatient Physical Therapy,An exercise program guided by a professional who understands the special needs of people recovering from back surgery,Physical Therapy,F,72402,M48.06 
+BP008,BP008_5,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,72402,M48.06 
+BP009,BP009_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your back pain,Office ,P,7221,M51.26 
+BP009,BP009_2,MRI of Lumbar Spine,MRI of lower (lumbar) spine,Radiology,F,7221,M51.26 
+BP009,BP009_3,Lumbar Diskectomy,Surgery that removes the cushion between two lumbar vertebrae,Inpatient,F,7221,M51.26 
+BP009,BP009_4,Outpatient Physical Therapy,An exercise program guided by a professional who understands the special needs of people recovering from back surgery,Physical Therapy,F,7221,M51.26 
+BP009,BP009_5,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,7221,M51.26 
+BP011,BP011_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a primary care physician to evaluate your back pain and determine the best course of treatment,Office ,P,724.2,M54.5 
+BP011,BP011_2,Myelogram - Lumbar Spine,Special imaging study to evaluate the lower spine,Outpatient,F,724.2,M54.5 
+BP011,BP011_3,Follow-up Office Visit,Two follow up office visits after your procedure,Office ,P,724.2,M54.5 
+BR001,BR001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment,Office ,P,174.9,C50.919
+BR001,BR001_2,Chest X-ray,X-ray of the chest,Radiology,,174.9,C50.919
+BR001,BR001_3,Breast Reconstruction after Mastectomy,Surgery to reconstruct the breasts after a mastectomy,Inpatient,,174.9,C50.919
+BR001,BR001_4,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,,174.9,C50.919
+BR001,BR001_3,Replacement of Tissue Expander with Permanent Breast Prosthesis,Surgery to replace a tissue expander with a permanent breast prosthesis,Inpatient,,174.9,C50.919
+BR001,BR001_6,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,,174.9,C50.919
+BS001,BS001_1,Office Visit,A visit with a primary care physician to evaluate your symptoms and determine the best course of treatment,Office ,,726.1,M75.50
+BS001,BS001_2,X-ray Shoulder - 2 Views,Images of shoulder made using a small dose of radiation,Radiology,,726.1,M75.50
+BS001,BS001_3,Outpatient Physical Therapy,An exercise program guided by a professional who understands the special needs of people with bursitis,Physical Therapy,,726.1,M75.50
+CA001,CA001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,433.1,I65.29
+CA001,CA001_2,Imaging Studies,Ultrasounds to evaluate the carotid arteries,Radiology,F,433.1,I65.29
+CA001,CA001_3,Carotid Endarterectomy,Surgery to clean out plaque from inside the carotid artery,Inpatient,F,433.1,I65.29
+CA001,CA001_4,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,433.1,I65.29
+CB001,CB001_1,"Prenatal Care, Routine Labs, Ultrasound, and Delivery (physician charges)","Routine prenatal care (monthly visits up to 28 weeks, biweekly visits from 29 to 36 weeks, then weekly visits), labs, ultrasound and delivery of newborn",Office ,P,650,O80
+CB001,CB001_2,Vaginal Delivery and Newborn Care (facility charges),"Vaginal delivery, including pain relief and hospital care of the newborn",Inpatient,F,650,O80
+CB001,CB001_3,Newborn Care (physician charges),Routine inpatient physician care of newborn,Inpatient,P,650,O80
+CB001,CB001_4,Postnatal Visit,A doctor checkup after your delivery,Office ,P,650,O80
+CB002,CB002_1,"Prenatal Care, Routine Labs, Ultrasound, and Delivery (physician charges)","Routine prenatal care (monthly visits up to 28 weeks, biweekly visits from 29 to 36 weeks, then weekly visits), labs, ultrasound and delivery of newborn",Office ,P,65421,O34.21
+CB002,CB002_2,Cesarean Delivery and Newborn Care (facility charges),"Surgical delivery, including pain relief and hospital care of the newborn",Inpatient,F,65421,O34.21
+CB002,CB002_3,Newborn Care (physician charges),Routine inpatient physician care of newborn,Inpatient,P,65421,O34.21
+CB002,CB002_4,Postnatal Visit,A doctor checkup after your delivery,Office ,P,65421,O34.21
+CC001,CC001_1,Office Visit,A visit with a primary care physician to evaluate your cold and determine the best course of treatment,Office ,P,460,J00 
+CF001,CF001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your neck pain,Office ,P,722,M50.20
+CF001,CF001_2,MRI of Cervical Spine,MRI of neck (cervical spine),Radiology,F,722,M50.20
+CF001,CF001_3,Cervical Fusion and Diskectomy,"Surgery that joins, or fuses, two or more cervical vertebrae",Inpatient,F,722,M50.20
+CF001,CF001_4,Outpatient Physical Therapy,An exercise program guided by a professional who understands the special needs of people recovering from back surgery,Physical Therapy,F,722,M50.20
+CF001,CF001_5,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,722,M50.20
+CF002,CF002_1,Office Visit,A visit with a primary care physician to evaluate your neck pain and determine the best course of treatment,Office ,P,7231,M54.2 
+CM005,CM005_1,Chiropractic Manipulation,"Hands-on chiropractic treatment to adjust five regions of the spine, including the neck, upper back, and lower back ",Office ,P,,
+CP001,CP001_1,Office Visit,A visit with a primary care physician to evaluate your child's chickenpox and determine the best course of treatment,Office ,P,529,B01.9 
+CR001,CR001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your breast symptoms,Office ,P,1749,C50.919
+CR001,CR001_2,Mammogram - Diagnostic - Digital,An x-ray of the breast with digital images to evaluate lumps or other symptoms,Radiology,F,1749,C50.919
+CR001,CR001_3,Breast Biopsy,"The removal of breast tissue to test for abnormal, or cancerous, cells in the breast",Outpatient,F,1749,C50.919
+CR001,CR001_4,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,1749,C50.919
+CR002,CR002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your breast symptoms,Office ,P,1749,C50.919
+CR002,CR002_2,Mastectomy,The removal of breast tissue through an incision in the chest,Inpatient,F,1749,C50.919
+CR002,CR002_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,1749,C50.919
+CR003,CR003_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your breast symptoms,Office ,P,1749,C50.919
+CR003,CR003_2,Radiation Therapy,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,1749,C50.919
+CR004,CR004_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your breast symptoms,Office ,P,1749,C50.919
+CR004,CR004_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,1749,C50.919
+CR004,CR004_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,1749,C50.919
+CR004,CR004_4,Follow-up Office Visit,Three visits with a specialist to follow up on your progress after chemotherapy,Office ,P,1749,C50.919
+CR005,CR005_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and biopsy of your skin lesion,Office ,P,1733,C44.300 
+CR005,CR005_2,Lesion Removal - Mohs technique,The complex removal of a cancerous lesion and repair of the wound,Office ,P,1733,C44.300 
+CR005,CR005_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,1733,C44.300 
+CR006,CR006_1,Office Visit,A visit with a primary care physician to evaluate your symptoms and perform a pap smear,Office ,P,2331,D06.9 
+CR006,CR006_2,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,2331,D06.9 
+CR006,CR006_3,Cervical Biopsy,"The removal of tissue from the cervix to test for abnormal, or cancerous, cells ",Outpatient,F,2331,D06.9 
+CR006,CR006_4,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,2331,D06.9 
+CR007,CR007_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,2331,D06.9 
+CR007,CR007_2,Labwork,Routine labwork before surgery,Laboratory,F,2331,D06.9 
+CR007,CR007_3,Abdominal Hysterectomy,Surgery to remove the uterus through an incision made in the abdomen,Inpatient,F,2331,D06.9 
+CR007,CR007_4,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,2331,D06.9 
+CR008,CR008_1,Colonoscopy - Biopsy (Physician Services),"An internal examination of the colon (large intestine) and removal of tissue to test for abnormal, or cancerous, cells",Outpatient,P,1539,C18.9
+CR008,CR008_2,Colonoscopy - Biopsy (Facility Services),"An internal examination of the colon (large intestine) and removal of tissue to test for abnormal, or cancerous, cells",Outpatient,F,1539,C18.9
+CR009,CR009_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your bowel symptoms,Office ,P,1539,C18.9
+CR009,CR009_2,Partial Colectomy,The removal of a section of the bowels through an incision in the abdomen,Inpatient,F,1539,C18.9
+CR009,CR009_3,Follow-up Office Visit,Two visits with a specialist to follow up on your progress after your surgery.,Office ,P,1539,C18.9
+CR010,CR010_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your bowel symptoms,Office ,P,1539,C18.9
+CR010,CR010_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,1539,C18.9
+CR010,CR010_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,1539,C18.9
+CR010,CR010_4,Follow-up Office Visit,Three visits with a specialist to follow up on your progress after chemotherapy,Office ,P,1539,C18.9
+CR011,CR011_1,Upper Endoscopy with Biopsy (Physician Services),"An internal examination of the esophagus, stomach, and removal of tissue to test for abnormal, or cancerous, cells",Outpatient,P,1509,C15.9
+CR011,CR011_2,Upper Endoscopy with Biopsy (Facility Services),"An internal examination of the esophagus, stomach, and removal of tissue to test for abnormal, or cancerous, cells",Outpatient,F,1509,C15.9
+CR013,CR013_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,1509,C15.9
+CR013,CR013_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,1509,C15.9
+CR013,CR013_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,1509,C15.9
+CR013,CR013_4,Follow-up Office Visit,Six visits with a specialist to follow up on your progress after chemotherapy,Office ,P,1509,C15.9
+CR014,CR014_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,1509,C15.9
+CR014,CR014_2,Radiation Therapy,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,1509,C15.9
+CR015,CR015_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your thyroid symptoms,Office ,P,193,C73
+CR015,CR015_2,Thyroid Biopsy,"The removal of a piece of the thyroid to test for abnormal, or cancerous, cells in the thyroid",Outpatient,F,193,C73
+CR015,CR015_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,193,C73
+CR016,CR016_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your thyroid symptoms,Office ,P,193,C73
+CR016,CR016_2,Thyroidectomy,The removal of the thyroid through an incision in the neck,Inpatient,F,193,C73
+CR016,CR016_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,193,C73
+CR017,CR017_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your thyroid symptoms,Office ,P,193,C73
+CR017,CR017_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,193,C73
+CR017,CR017_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,193,C73
+CR017,CR017_4,Follow-up Office Visit,Three visits with a specialist to follow up on your progress after chemotherapy,Office ,P,193,C73
+CR018,CR018_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your thyroid symptoms,Office ,P,193,C73
+CR018,CR018_2,Radiation Therapy,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,193,C73
+CR019,CR019_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,20280,
+CR019,CR019_2,Bone Marrow Biopsy,"The removal of bone marrow to test for abnormal, or cancerous, cells ",Office ,P,20280,
+CR019,CR019_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,20280,
+CR020,CR020_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,20280,
+CR020,CR020_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,20280,
+CR020,CR020_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,20280,
+CR020,CR020_4,Follow-up Office Visit,Five visits with a specialist to follow up on your progress after chemotherapy,Office ,P,20280,
+CR021,CR021_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,20280,
+CR021,CR021_2,Bone Marrow Transplant,The infusion of bone marrow (or stem cells) after high dose of chemotherapy,Inpatient,F,20280,
+CR021,CR021_3,Follow-up Office Visit,Four doctor checkups after your procedure,Office ,P,20280,
+CR022,CR022_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,1889,C67.9
+CR022,CR022_2,Bladder Biopsy,"The removal of tissue from the bladder for abnormal, or cancerous, cells ",Outpatient,F,1889,C67.9
+CR022,CR022_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,1889,C67.9
+CR023,CR023_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,1889,C67.9
+CR023,CR023_2,Bladder Exam with Tumor Removal,The placement of a special tube into the bladder for examination and removal of a medium tumor(s),Outpatient,F,1889,C67.9
+CR023,CR023_3,Follow-up Office Visit,Two doctor checkups after your procedure,Office ,P,1889,C67.9
+CR024,CR024_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,1889,C67.9
+CR024,CR024_2,Removal of Bladder,The removal of the bladder through an incision in the lower abdomen,Inpatient,F,1889,C67.9
+CR024,CR024_3,Follow-up Office Visit,Three doctor checkups after your surgery,Office ,P,1889,C67.9
+CR025,CR025_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,1889,C67.9
+CR025,CR025_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,1889,C67.9
+CR025,CR025_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,1889,C67.9
+CR025,CR025_4,Follow-up Office Visit,Five visits with a specialist to follow up on your progress after chemotherapy,Office ,P,1889,C67.9
+CR028,CR028_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your respiratory symptoms,Office ,P,1629,C34.90 
+CR028,CR028_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,1629,C34.90 
+CR028,CR028_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,1629,C34.90 
+CR028,CR028_4,Follow-up Office Visit,Five visits with a specialist to follow up on your progress after chemotherapy,Office ,P,1629,C34.90 
+CR029,CR029_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your respiratory symptoms,Office ,P,1629,C34.90 
+CR029,CR029_2,Radiation Therapy,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,1629,C34.90 
+CR030,CR030_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and biopsy of your testicles,Office ,P,1869,C62.90
+CR030,CR030_2,Testicle Biopsy,"The removal of tissue from a testicle to test for abnormal, or cancerous, cells ",Outpatient,F,1869,C62.90
+CR030,CR030_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,1869,C62.90
+CR031,CR031_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,1869,C62.90
+CR031,CR031_2,Removal of Testes,The removal of a testicle through an incision in the scrotum,Outpatient,F,1869,C62.90
+CR031,CR031_3,Follow-up Office Visit,Three doctor checkups after your surgery,Office ,P,1869,C62.90
+CR032,CR032_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,1869,C62.90
+CR032,CR032_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,1869,C62.90
+CR032,CR032_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,1869,C62.90
+CR032,CR032_4,Follow-up Office Visit,Five visits with a specialist to follow up on your progress after chemotherapy,Office ,P,1869,C62.90
+CR033,CR033_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,1869,C62.90
+CR033,CR033_2,Radiation Therapy,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,1869,C62.90
+CR034,CR034_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,1890,C64.9
+CR034,CR034_2,Kidney Biopsy,"The removal of tissue from a kidney to test for abnormal, or cancerous, cells ",Outpatient,F,1890,C64.9
+CR034,CR034_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,1890,C64.9
+CR035,CR035_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,1890,C64.9
+CR035,CR035_2,Removal of Kidney,The removal of a kidney through a few small incisions in the abdomen,Inpatient,F,1890,C64.9
+CR035,CR035_3,Follow-up Office Visit,Three doctor checkups after your surgery,Office ,P,1890,C64.9
+CR036,CR036_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your throat symptoms,Office ,P,1950,C76.0 
+CR036,CR036_2,Laryngoscopy with Biopsy,"The removal of tissue from the larynx to test for abnormal, or cancerous, cells ",Outpatient,F,1950,C76.0 
+CR036,CR036_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,1950,C76.0 
+CR037,CR037_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your head or neck symptoms,Office ,P,1950,C76.0 
+CR037,CR037_2,Removal of Lymph Nodes in Neck,The removal of the lymph nodes in the neck through  an incision in the neck,Inpatient,F,1950,C76.0 
+CR037,CR037_3,Follow-up Office Visit,Three doctor checkups after your surgery,Office ,P,1950,C76.0 
+CR038,CR038_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,1950,C76.0 
+CR038,CR038_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,1950,C76.0 
+CR038,CR038_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,1950,C76.0 
+CR038,CR038_4,Follow-up Office Visit,Five visits with a specialist to follow up on your progress after chemotherapy,Office ,P,1950,C76.0 
+CR039,CR039_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,1950,C76.0 
+CR039,CR039_2,Radiation Therapy,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,1950,C76.0 
+CR040,CR040_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,185,C61
+CR040,CR040_2,Prostate Biopsy,"The removal of tissue from the prostate to test for abnormal, or cancerous, cells ",Office ,P,185,C61
+CR040,CR040_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,185,C61
+CR041,CR041_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,185,C61
+CR041,CR041_2,Removal of Prostate,The removal of the prostate through  a few small incisions in the abdomen,Inpatient,F,185,C61
+CR041,CR041_3,Follow-up Office Visit,Three doctor checkups after your surgery,Office ,P,185,C61
+CR042,CR042_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,185,C61
+CR042,CR042_2,Insertion of Central Line,The insertion of a special intravenous catheter for chemotherapy,Outpatient,F,185,C61
+CR042,CR042_3,Chemotherapy,The infusion of a medication to kill cancer cells,Outpatient,F,185,C61
+CR042,CR042_4,Follow-up Office Visit,Two visits with a specialist to follow up on your progress after chemotherapy,Office ,P,185,C61
+CR043,CR043_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary symptoms,Office ,P,185,C61
+CR043,CR043_2,Radiation Therapy,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,185,C61
+CS001,CS001_1,Colonoscopy - Preventive Screening (Physician Services),An internal examination of the colon (large intestine) done to find colon cancer before it causes symptoms,Outpatient,P,V76.51,Z12.11
+CS001,CS001_2,Colonoscopy - Preventive Screening (Facility Services),An internal examination of the colon (large intestine) done to find colon cancer before it causes symptoms,Outpatient,F,V76.51,Z12.11
+CS002,CS002_1,Colonoscopy - Diagnostic (Physician Services),An internal examination of the colon (large intestine) done to find the cause of symptoms,Outpatient,P,211.3,K63.5
+CS002,CS002_2,Colonoscopy - Diagnostic (Facility Services),An internal examination of the colon (large intestine) done to find the cause of symptoms,Outpatient,F,211.3,K63.5
+CS003,CS003_1,Colonoscopy - Polyp Removal (Physician Services),An internal examination of the colon (large intestine) and removal of polyp,Outpatient,P,2113,K63.5
+CS003,CS003_2,Colonoscopy - Polyp Removal (Facility Services),An internal examination of the colon (large intestine) and removal of polyp,Outpatient,F,2113,K63.5
+CS004,CS004_1,Colonoscopy - Polyp Removal (Physician Services),An internal examination of the large intestine and removal of polyp,Outpatient,P,2113,K63.5
+CS004,CS004_2,Colonoscopy - Polyp Removal (Facility Services),An internal examination of the large intestine and removal of polyp,Outpatient,F,2113,K63.5
+CT001,CT001_1,CT Scan With Dye - Abdomen,"Special x-ray images of the upper abdomen, made after you receive a dye that helps highlight the organs ",Radiology,F,,
+CT002,CT002_1,CT Scan With Dye - Chest,"Special x-ray images of the chest, made after you receive a dye that helps highlight the organs ",Radiology,F,,
+CT003,CT003_1,CT Scan With Dye - Pelvis,"Special x-ray images of the lower abdomen, made after you receive a dye that helps highlight the organs ",Radiology,F,,
+CT004,CT004_1,CT Scan Without Dye - Head or Brain,Special x-ray images of structure in your head or brain ,Radiology,F,,
+CT005,CT005_1,CT Scan With Dye - Abdomen and Pelvis,"Special x-ray images of the entire abdomen (upper and lower), made after you receive a dye that helps highlight the organs ",Radiology,F,,
+CT006,CT006_1,CT Scan Without Dye - Maxillofacial - Face,"Special x-ray images of your mouth, jaw, and surrounding area",Radiology,F,,
+CT007,CT007_1,CT Scan Without Dye - Abdomen,Special x-ray images of your upper abdomen,Radiology,F,,
+CT008,CT008_1,CT Scan Without Dye Followed by With Dye - Abdomen,"Special x-ray images of your upper abdomen, made before and after you receive a dye that helps highlight the organs ",Radiology,F,,
+CT009,CT009_1,CT Scan Without Dye - Pelvis,Special x-ray images of your lower abdomen,Radiology,F,,
+CT010,CT010_1,CT Scan Angiography Without Dye Followed by With Dye - Chest,Special x-ray procedure that creates detailed images of the blood vessels in your chest ,Radiology,F,,
+CT011,CT011_1,CT Scan Angiography Without and With Dye - Soft Tissue of Neck,,Radiology,F,,
+CT012,CT012_1,CT Scan Without Dye - Cervical Spine,,Radiology,F,,
+CT013,CT013_1,CT Scan With Dye - Lumbar Spine,,Radiology,F,,
+CT014,CT014_1,CT Scan Without Dye - Arm,,Radiology,F,,
+CT015,CT015_1,CT Scan Without Dye - Leg,,Radiology,F,,
+CT016,CT016_1,CT Scan Angiography Without and With Dye - Abdomen and Pelvis,,Radiology,F,,
+CT017,CT017_1,CT Scan With Dye - Heart,,Radiology,F,,
+CT018,CT018_1,CT Scan Angiography With Dye - Heart,,Radiology,F,,
+CT019,CT019_1,CT Scan Guidance,,Radiology,F,,
+CT020,CT020_1,CT Scan Without Dye - Heart,,Radiology,F,,
+CT021,CT021_1,CT Scan Without Dye - Lumbar Spine,,Radiology,F,,
+CT022,CT022_1,CT Scan Angiography Aorta and Abdominal Arteries,,Radiology,F,,
+CV001,CV001_1,Heart Stress Test,A test that shows how well your heart functions when you exercise,Outpatient,P,414.01,I25.10
+CV004,CV004_1,Heart Stress Test With Heart Ultrasound,A test that combines a cardiovascular stress test and sound waves (ultrasound) to create images of the heart and see how it functions during rest and after exercise,Outpatient,P,414.01,I25.10
+CV005,CV005_1,Heart Ultrasound for Birth Defects,A test that uses sound waves (ultrasound) to create images of the heart and evaluate birth defects,Office ,P,,
+CV006,CV006_1,Heart Ultrasound With Blood Flow Study,A test that uses sound waves called Doppler ultrasound to create images of blood flow through the heart,Office ,P,414.01,I25.10
+CV007,CV007_1,Initial Office Visit with PCP ,A visit with a primary care physician to evaluate your heart and determine the best course of treatment,Office ,P,414.01,I25.10
+CV007,CV007_2,Heart Stress Test With Heart Ultrasound,A test that combines a cardiovascular stress test and sound waves (ultrasound) to create images of the heart and see how it functions during rest and after exercise,Outpatient,P,414.01,I25.10
+CV007,CV007_3,Follow-up Office Visit,Two doctor checkups after your stress test,Office ,P,414.01,I25.10
+CV008,CV008_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your atrial fibrillation,Office ,P,427.31,I48.2
+CV008,CV008_2,Coronary Angioplasty with Heart Rhythm Analysis,The inpatient treatment of atrial fibrillation,Inpatient,F,427.31,I48.2
+CV008,CV008_3,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,427.31,I48.2
+CV009,CV009_1,Placement of Non-Drug-Eluting Stent after Heart Attack,The placement of a stent after a heart attack,Inpatient,F,410.71,I21.4
+CV009,CV009_2,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,410.71,I21.4
+CV010,CV010_1,Transesophageal Echocardiogram - TEE,The placement of a use of a special ultrasound placed in the throat to evaluate the structures in the heart,Office ,P,,
+CV011,CV011_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your atrial fibrillation,Office ,P,427.89,I49.8
+CV011,CV011_2,Heart Rhythm Analysis with Destruction of Abnormal Pathway,The evaluation of the hearts rhythm and destruction of any abnormal pathways that are identified,Outpatient,F,427.89,I49.8
+CV011,CV011_3,Follow-up Office Visit,A checkup after your procedure,Office ,P,427.89,I49.8
+CY001,CY001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,5921,N20.1 
+CY001,CY001_2,Cystoscopy,The placement of a special tube into the bladder to diagnose and treat a variety of urinary conditions.,Outpatient,F,5921,N20.1 
+CY001,CY001_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,5921,N20.1 
+DC001,DC001_1,Initial Office Visit with PCP ,A visit with a primary care physician to evaluate your heart and determine the best course of treatment,Office ,P,41401,I25.119
+DC001,DC001_2,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,41401,I25.119
+DC001,DC001_3,Diagnostic Cardiac Catheterization,The placement of a small flexible tube into the heart to diagnose a variety of heart conditions,Outpatient,F,41401,I25.119
+DC001,DC001_4,Follow-up Office Visit,A checkup after your procedure,Office ,P,41401,I25.119
+DC002,DC002_1,Office Visit with Specialist for Evaluation,A visit with a primary care physician for a moderate problem,Office ,P,41401,I25.119
+DC002,DC002_2,Imaging Studies,Imaging Studies (X-ray and Nuclear Scans),Radiology,F,41401,I25.119
+DC002,DC002_3,Coronary Angioplasty with Placement of Drug-Eluting Stent,A special catheter and mesh tube are inserted to open a narrowed or blocked heart artery,Inpatient,F,41401,I25.119
+DC002,DC002_4,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,41401,I25.119
+DC003,DC003_1,Office Visit with Specialist for Evaluation,A visit with a primary care physician for a moderate problem,Office ,P,41401,I25.119
+DC003,DC003_2,Imaging Studies,Imaging Studies (X-ray and Nuclear Scans),Radiology,F,41401,I25.119
+DC003,DC003_3,Coronary Angioplasty,A special catheter is inserted to open a narrowed or blocked heart artery,Inpatient,F,41401,I25.119
+DC003,DC003_4,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,41401,I25.119
+DC004,DC004_1,Office Visit with Specialist for Evaluation,A visit with a primary care physician for a moderate problem,Office ,P,41401,I25.119
+DC004,DC004_2,Imaging Studies,Imaging Studies (X-ray and Nuclear Scans),Radiology,F,41401,I25.119
+DC004,DC004_3,Coronary Angioplasty with Non-Drug-Eluting Stent,A special catheter and mesh tube are inserted to open a narrowed or blocked heart artery,Inpatient,F,41401,I25.119
+DC004,DC004_4,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,41401,I25.119
+DC005,DC005_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,41401,I25.119
+DC005,DC005_2,Imaging Studies,Imaging Studies (X-ray and Nuclear Scans),Radiology,F,41401,I25.119
+DC005,DC005_3,Diagnostic Cardiac Catheterization,The placement of a small flexible tube into the heart to diagnose a variety of heart conditions,Outpatient,F,41401,I25.119
+DC005,DC005_4,Coronary Artery Bypass Graft,Surgery restore blood flow to the heart muscle,Inpatient,F,41401,I25.119
+DC005,DC005_5,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,41401,I25.119
+DC006,DC006_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,427.89,I49.8
+DC006,DC006_2,Imaging Studies,Imaging Studies (X-ray and Nuclear Scans),Radiology,F,427.89,I49.8
+DC006,DC006_3,Insertion of Heart Defibrillator,Surgery to place a defibrillator to correct a heart arrhythmia,Inpatient,F,427.89,I49.8
+DC006,DC006_4,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,427.89,I49.8
+DC007,DC007_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,424.1,I35.9
+DC007,DC007_2,Chest X-ray,A chest X-ray prior to your surgery,Radiology,F,424.1,I35.9
+DC007,DC007_3,Replacement of Heart Valve,Surgery to repair or replace a valve in the heart,Inpatient,F,424.1,I35.9
+DC007,DC007_4,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,424.1,I35.9
+DC008,DC008_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,427.31,I48.2
+DC008,DC008_2,Chest X-ray,A chest X-ray prior to your surgery,Radiology,F,427.31,I48.2
+DC008,DC008_3,Insertion of Heart Pacemaker,Surgery to place a pacemaker to correct a heart arrhythmia,Inpatient,F,427.31,I48.2
+DC008,DC008_4,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,427.31,I48.2
+DC009,DC009_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,427.89,I49.8
+DC009,DC009_2,Chest X-ray,A chest X-ray prior to your surgery,Radiology,F,427.89,I49.8
+DC009,DC009_3,Insertion of Heart Defibrillator,Surgery to place a defibrillator to correct a heart arrhythmia,Outpatient,F,427.89,I49.8
+DC009,DC009_4,Follow-up Office Visit,Three follow up office visits after you have left the hospital,Office ,P,427.89,I49.8
+DC010,DC010_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,440.21,I70.219
+DC010,DC010_2,Extremity Angiography,Putting a small movable tube into a large artery in your arm or leg to check blood flow and look for abnormalitites in the wall of the arteries,Outpatient,F,440.21,I70.219
+DC010,DC010_3,Follow-up Office Visit,A checkup after your test,Office ,P,440.21,I70.219
+DM001,DM001_1,Office Visit with Specialist for Evaluation,Two visits with a specialist for a detailed evaluation and treatment of your diabetes,Office ,P,25000,E13.9
+EI001,EI001_1,Office Visit,A visit with a primary care physician to evaluate your ears and determine the best course of treatment,Office ,P,381,H65.197 
+EI002,EI002_1,Office Visit with Specialist for Evaluation,A visit with a primary care physician for a moderate problem,Office ,P,381.3,H65.499
+EI002,EI002_2,Tympanostomy - Tubes in Eardrums,The placement of a small tube in the eardrum so the fluid in the middle ear can drain out,Outpatient,F,381.3,H65.499
+EI002,EI002_3,Follow-up Office Visit,A checkup after your procedure,Office ,P,381.3,H65.499
+EI003,EI003_1,Office Visit,A visit with a primary care physician to evaluate your ear symptoms and determine the best course of treatment ,Office ,P,380,H60.339
+EI004,EI004_1,Office Visit with Specialist for Evaluation,An initial visit with a specialist for a detailed evaluation and treatment of your hearing loss,Office ,P,389.1,H90.5
+EI004,EI004_2,Follow-up Office Visit,A follow up visit with a specialist,Office ,P,389.1,H90.5
+EK001,EK001_1,Office Visit,A visit with a primary care physician to evaluate your heart and determine the best course of treatment,Office ,P,,
+EK001,EK001_2,Electrocardiogram - EKG,A recording of the electrical activity of the heart,Office ,P,,
+EK002,EK002_1,Office Visit with Specialist for Evaluation,A visit with a neurologist to evaluate your symptoms and determine the best course of treatment,Office ,P,,
+EK002,EK002_2,Electroencephalogram - EEG,A test to measure the brain's electrical activity while awake and asleep,Office ,P,,
+EK002,EK002_3,Office Visit,A follow-up office visit after your EEG,Office ,P,,
+EK003,EK003_1,Office Visit with Specialist for Evaluation,A visit with a neurologist to evaluate your symptoms and determine the best course of treatment,Office ,P,,
+EK003,EK003_2,Electromyogram - EMG,A test to measure the electrical activity of a specific muscle or muscles,Office ,P,,
+EK003,EK003_3,Office Visit,A follow-up office visit after your EMG,Office ,P,,
+ER004,ER004_1,Emergency Room Visit,An evaluation and management of symptoms in a 24 hour emergency room,Outpatient,F,,
+ER011,ER011_1,Urgent Care Visit,This is the evaluation and management of your symptoms in an Urgent Care or Convenience Care Clinic setting,Office ,F,,
+FS001,FS001_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a specialist to evaluate your bunion and determine the best course of treatment,Office ,P,727.1,M20.10
+FS001,FS001_2,Bunion Correction,Surgery to remove a piece of bone from the base of the large toe ,Outpatient,F,727.1,M20.10
+FS001,FS001_3,Office Visit with Specialist for Evaluation and Treatment,Two follow-up visits after your foot surgery,Office ,P,727.1,M20.10
+GB001,GB001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,27801,E66.01
+GB001,GB001_2,Imaging Studies,X-rays of the chest and upper gastrointestinal tract (Upper UGI),Radiology,F,27801,E66.01
+GB001,GB001_3,Office Visit with Dietician,A visit with a specialist for a nutrition evaluation and diet recommendations,Office ,P,27801,E66.01
+GB001,GB001_4,Weight Loss Surgery - Gastric Bypass,Surgery where the stomach is made smaller and food bypasses a large portion of the stomach and bowels.,Inpatient,F,27801,E66.01
+GB001,GB001_5,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,27801,E66.01
+GB002,GB002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,27801,E66.01
+GB002,GB002_2,Imaging Studies,X-rays of the chest and upper gastrointestinal tract (Upper UGI),Radiology,F,27801,E66.01
+GB002,GB002_3,Office Visit with Dietician,A visit with a specialist for a nutrition evaluation and diet recommendations,Office ,P,27801,E66.01
+GB002,GB002_4,Weight Loss Surgery - Laparoscopic Band,The placement of an adjustable band around the top part of the stomach,Inpatient,F,27801,E66.01
+GB002,GB002_5,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,27801,E66.01
+GB002,GB002_6,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,27801,E66.01
+GB003,GB003_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,27801,E66.01
+GB003,GB003_2,Imaging Studies,X-rays of the chest and upper gastrointestinal tract (Upper UGI),Radiology,F,27801,E66.01
+GB003,GB003_3,Office Visit with Dietician,A visit with a specialist for a nutrition evaluation and diet recommendations,Office ,P,27801,E66.01
+GB003,GB003_4,Weight Loss Surgery - Gastric Sleeve,Surgery where a large section of the stomach is removed and a sleeve is made for food to pass through,Inpatient,F,27801,E66.01
+GB003,GB003_5,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,27801,E66.01
+GB003,GB003_6,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,27801,E66.01
+GL001,GL001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,57400,K80.00
+GL001,GL001_2,Imaging Studies,Imaging Studies (Ultrasound) ,Radiology,F,57400,K80.00
+GL001,GL001_3,Gallbladder Removal (Laparoscopic),Surgery to remove the gallbladder through a few small incisions in the abdomen,Inpatient,F,57400,K80.00
+GL001,GL001_4,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,57400,K80.00
+GL002,GL002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,57400,K80.00
+GL002,GL002_2,Imaging Studies,Imaging Studies (Ultrasound) ,Radiology,F,57400,K80.00
+GL002,GL002_3,Gallbladder Removal (Open),Surgery to remove the gallbladder through an incision in the abdomen,Inpatient,F,57400,K80.00
+GL002,GL002_4,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,57400,K80.00
+GT001,GT001_1,Office Visit,A visit with a primary care physician to evaluate your gout and determine the best course of treatment,Office ,P,274.9,M10.9
+HB001,HB001_1,Office Visit,A visit with a primary care physician to evaluate your heartburn and determine the best course of treatment,Office ,P,787.1,R12
+HC001,HC001_1,Office Visit,A visit with a primary care physician to evaluate your cholesterol and determine the best course of treatment,Office ,P,272,E78.0
+HI001,HI001_1,Office Visit,A visit with a primary care physician to evaluate your hives and determine the best course of treatment,Office ,P,708.9,L50.9
+HL001,HL001_1,Office Visit,A visit with a primary care physician to evaluate head lice and determine the best course of treatment,Office ,P,132,B85.0
+HP001,HP001_1,Office Visit,A visit with a primary care physician to evaluate your blood pressure and determine the best course of treatment,Office ,P,401.9,I10
+HR001,HR001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,550.9,K40.90
+HR001,HR001_2,Laparoscopic Repair of Groin Hernia (Inguinal Hernia),Surgery to repair a bulge near the groin (inguinal hernia) through a laparoscope,Outpatient,F,550.9,K40.90
+HR001,HR001_3,Office Visit,A doctor checkup after your procedure,Office ,P,550.9,K40.90
+HR002,HR002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,550.9,K40.90
+HR002,HR002_2,Open Repair of Groin Hernia (Inguinal Hernia),Surgery to repair a bulge near the groin (inguinal hernia) through an incision,Outpatient,F,550.9,K40.90
+HR002,HR002_3,Office Visit,A doctor checkup after your procedure,Office ,P,550.9,K40.90
+HR003,HR003_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,555.9,K50.90 
+HR003,HR003_2,CT Scan With Dye - Abdomen,"Special x-ray images of the upper abdomen, made after you receive a dye that helps highlight the organs ",Radiology,F,555.9,K50.90 
+HR003,HR003_3,Partial Removal of Small Intestines,Surgery that uses small medical instruments and a camera to remove a piece of the small intestines,Inpatient,F,555.9,K50.90 
+HR003,HR003_4,Follow-up Office Visit,Two doctor checkups after your surgery,Office ,P,555.9,K50.90 
+HR004,HR004_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,553.3,K44.9
+HR004,HR004_2,Repair of Esophageal Hernia,Surgery that uses small medical instruments and a camera to repair a bulging in the esophagus,Outpatient,F,553.3,K44.9
+HR004,HR004_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,553.3,K44.9
+HR005,HR005_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,455.6,K64.9
+HR005,HR005_2,Surgical Removal of Hemorrhoids,Surgery to removal hemorrhoids,Outpatient,F,455.6,K64.9
+HR005,HR005_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,455.6,K64.9
+HR006,HR006_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,553.2,K43.9
+HR006,HR006_2,Repair of Abdominal Hernia,Surgery to repair a bulge in the abdomen (abdominal hernia) through an incision,Inpatient,F,553.2,K43.9
+HR006,HR006_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,553.2,K43.9
+HR007,HR007_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,553.2,K43.9
+HR007,HR007_2,Repair of Abdominal Hernia,Surgery to repair a bulge in the abdomen (abdominal hernia) through an incision,Outpatient,F,553.2,K43.9
+HR007,HR007_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,553.2,K43.9
+HR008,HR008_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,562,K57.10
+HR008,HR008_2,CT Scan With Dye - Abdomen,"Special x-ray images of the upper abdomen, made after you receive a dye that helps highlight the organs ",Radiology,F,562,K57.10
+HR008,HR008_3,Small Bowel Resection - Open,Surgery to remove a piece of the small intestines through an incision in the abdomen,Inpatient,F,562,K57.10
+HR008,HR008_4,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,562,K57.10
+HR009,HR009_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,556.9,K51.90
+HR009,HR009_2,Colonoscopy - Biopsy,"An internal examination of the colon (large intestine) and removal of tissue to test for abnormal, or cancerous, cells",Outpatient,F,556.9,K51.90
+HR009,HR009_3,Follow-up Office Visit,A doctor checkup after your procedure,Clinic,P,556.9,K51.90
+HR010,HR010_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,562.1,K57.90
+HR010,HR010_2,Diagnostic Colonoscopy,An internal examination of the colon (large intestine) done to find the cause of symptoms,Outpatient,F,562.1,K57.90
+HR010,HR010_3,Follow-up Office Visit,A doctor checkup after your procedure,Clinic,P,562.1,K57.90
+HR011,HR011_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,558.9,K52.9
+HR011,HR011_2,Partial Removal of Large Intestines,Surgery to remove a piece of the large intestines through an incision in the abdomen,Inpatient,F,558.9,K52.9
+HR011,HR011_3,Follow-up Office Visit,A doctor checkup after your surgery,Clinic,P,558.9,K52.9
+HT001,HT001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,6210,N84.0 
+HT001,HT001_2,Uterus Exam with Biopsy,Surgery to examine the inside lining of the uterus,Inpatient,F,6210,N84.0 
+HT001,HT001_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,6210,N84.0 
+HT002,HT002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,626.2,N92.0
+HT002,HT002_2,Uterus Exam,Surgery to examine the inside lining of the uterus,Inpatient,F,626.2,N92.0
+HT002,HT002_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,626.2,N92.0
+HT003,HT003_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,640,O20.0
+HT003,HT003_2,Surgical Treatment of Incomplete Miscarriage,Surgery to clean the uterus and remove products of conception after a miscarriage,Outpatient,F,640,O20.0
+HT003,HT003_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,640,O20.0
+HV001,HV001_1,Office Visit with Specialist for Evaluation and Treatment,A visit with a specialist to evaluate your symptoms and determine the best course of treatment,Office ,P,,
+HY001,HY001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,2189,D25.9
+HY001,HY001_2,Abdominal Hysterectomy,Surgery to remove the uterus through an incision made in the abdomen,Inpatient,F,2189,D25.9
+HY001,HY001_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,2189,D25.9
+HY002,HY002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,6262,N92.0
+HY002,HY002_2,Vaginal Hysterectomy,Surgery to remove the uterus through the vagina,Inpatient,F,6262,N92.0
+HY002,HY002_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,6262,N92.0
+HY003,HY003_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,6202,N83.20
+HY003,HY003_2,Removal of Ovaries and Fallopian Tubes,Surgery to remove the ovaries and fallopian tubes through an incision in the abdomen,Inpatient,F,6202,N83.20
+HY003,HY003_3,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,6202,N83.20
+HY004,HY004_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your menstrual symptoms,Office ,P,6179,N80.9
+HY004,HY004_2,Abdominal Hysterectomy,Surgery to remove the uterus through an incision made in the abdomen,Inpatient,F,6179,N80.9
+HY004,HY004_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,6179,N80.9
+HY005,HY005_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your menstrual symptoms,Office ,P,2189,D25.9 
+HY005,HY005_2,Myomectomy - Fibroid Removal,Surgery to remove uterine fibroids through an incision made in the abdomen,Inpatient,F,2189,D25.9 
+HY005,HY005_3,Follow-up Office Visit,A doctor checkup after your surgery,Office ,P,2189,D25.9 
+HY006,HY006_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,6179,N80.9
+HY006,HY006_2,Laparoscopy with Uterus Exam,Surgery to examine the inside lining of the uterus and remove any abnormal lesions or tissue,Outpatient,F,6179,N80.9
+HY006,HY006_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,6179,N80.9
+HY007,HY007_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,6262,N92.0
+HY007,HY007_2,Laparoscopy with Uterus Exam and Ablation,Surgery to examine the inside lining of the uterus and treat any abnormal bleeding,Outpatient,F,6262,N92.0
+HY007,HY007_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,6262,N92.0
+HY008,HY008_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,626.2,N92.0
+HY008,HY008_2,Laparoscopy with Uterus Exam and Ablation,Surgery to examine the inside lining of the uterus and treat any abnormal bleeding,Outpatient,F,626.2,N92.0
+HY008,HY008_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,626.2,N92.0
+HY009,HY009_1,Office Visit,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,626.2,N92.0
+HY010,HY010_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,625.6,N39.3
+HY010,HY010_2,Placement of Sling for Stress Incontinence,Surgery to place a sling under the urethra to prevent leakage of urine,Outpatient,F,625.6,N39.3
+HY010,HY010_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,625.6,N39.3
+HY011,HY011_1,Office Visit,A visit with a specialist for a detailed evaluation and colposcopy with cervical biopsy,Office ,P,,
+HY012,HY012_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,620.2,N83.20
+HY012,HY012_2,Aspiration of Ovary Cyst,Surgery to remove the contents of a cyst on an ovary,Outpatient,F,620.2,N83.20
+HY012,HY012_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,620.2,N83.20
+HY013,HY013_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,620.2,N83.20
+HY013,HY013_2,Removal of Ovary Cyst,Surgery to remove a cyst on an ovary,Outpatient,F,620.2,N83.20
+HY013,HY013_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,620.2,N83.20
+HY014,HY014_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,618.4,N81.4
+HY014,HY014_2,Fitting and Insertion of Pessary,The fitting and insertion of a uterine support device - pessary,Office ,P,618.4,N81.4
+HY014,HY014_3,Follow-up Office Visit,A follow up office visit after the insertion of a pessary,Office ,P,618.4,N81.4
+IF001,IF001_1,Office Visit,A visit with a primary care physician to evaluate your flu symptoms and determine the best course of treatment ,Office ,P,487.1,J11.1
+IN002,IN002_1,Office Visit with Specialist for Evaluation,A visit with a physician for a moderate problem,Clinic,P,726.6,M70.50
+IN002,IN002_2,Knee Injection,The injection of a specific medication into the knee joint to decrease swelling and pain,Clinic,P,726.6,M70.50
+IN002,IN002_3,Follow-up Office Visit,A doctor checkup after your surgery,Clinic,P,726.6,M70.50
+IT001,IT001_1,Office Visit and Ingrown Toenail Removal,A visit with a primary care physician to evaluate and remove your ingrown toenail,Office ,P,703,L60.0
+KA001,KA001_1,Initial Office Visit with PCP ,A visit with a primary care physician to evaluate your knee pain and determine the best course of treatment,Office ,P,836,S83.249A
+KA001,KA001_2,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,836,S83.249A
+KA001,KA001_3,Knee MRI,An imaging process that uses magnets to create detailed pictures of structures in your knee,Radiology,F,836,S83.249A
+KA001,KA001_4,Repair or Removal of Meniscus,Surgery that uses small medical instruments and a camera to repair or remove a torn meniscus in the knee,Outpatient,F,836,S83.249A
+KA001,KA001_5,Physical Therapy,An exercise program guided by a professional who understands the special needs of people with knee problems,Physical Therapy,F,836,S83.249A
+KA001,KA001_6,Follow-up Office Visit,A checkup after your procedure,Office ,P,836,S83.249A
+KA002,KA002_1,Initial Office Visit with PCP ,A visit with a primary care physician to evaluate your knee pain and determine the best course of treatment,Office ,P,844.2,S83.519A
+KA002,KA002_2,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,844.2,S83.519A
+KA002,KA002_3,Knee MRI,An imaging process that uses magnets to create detailed pictures of structures in your knee,Radiology,F,844.2,S83.519A
+KA002,KA002_4,Reconstruction of Torn Anterior Cruciate Ligament,Surgery that uses small medical instruments and a camera to repair a torn ligament in the knee,Outpatient,F,844.2,S83.519A
+KA002,KA002_5,Physical Therapy,An exercise program guided by a professional who understands the special needs of people with knee problems,Physical Therapy,F,844.2,S83.519A
+KA002,KA002_6,Follow-up Office Visit,A checkup after your procedure,Office ,P,844.2,S83.519A
+KI001,KI001_1,Office Visit,A visit with a primary care physician to evaluate your knee pain and determine the best course of treatment,Office ,P,71946,M25.569
+LD001,LD001_1,Office Visit,A visit with a primary care physician to evaluate your symptoms and determine the best course of treatment,Office ,P,88.81,A69.20 
+LI001,LI001_1,Office Visit with Specialist for Evaluation,A visit with an eye doctor for a general medical evaluation and detailed eye exam ,Outpatient,P,36616,H25.10
+LI001,LI001_2,Cataract Removal and Insertion of Lens,The removal of a cataract and insertion of a special lens in the eye,Outpatient,F,36616,H25.10
+LI002,LI002_1,Office Visit with Specialist for Evaluation,A visit with an eye doctor for a general medical evaluation and detailed eye exam ,Office ,P,36511,H40.11X0 
+LI002,LI002_2,Drain insertion for Glaucoma,The surgical insertion of a drain in the eye to decrease eye pressure,Outpatient,F,36511,H40.11X0 
+LI002,LI002_3,Follow-up Office Visit,A checkup after your procedure,Office ,P,36511,H40.11X0 
+LT001,LT001_1,Office Visit,A visit with a primary care physician to evaluate your thyroid and determine the best course of treatment,Office ,P,244.9,E03.9
+LW001,LW001_1,Thyroid-Stimulating Hormone Test - TSH,A test to check the amount of thyroid-stimulating hormone in your blood,Laboratory,F,,
+LW002,LW002_1,Complete Blood Count - CBC Test,"A routine test to check the level of red blood cells, white blood cells, and other parts of the blood",Laboratory,F,,
+LW003,LW003_1,Comprehensive Metabolic Panel Test,"A routine blood test used to look for diabetes, liver or kidney disease, or other problems",Laboratory,F,,
+LW004,LW004_1,Hemoglobin A1c Test,A1c is a blood test used to diagnose or check for diabetes,Laboratory,F,,
+LW005,LW005_1,Cholesterol Test,A blood test used to check cholesterol and triglyceride levels,Laboratory,F,,
+LW006,LW006_1,Urinalysis - Urine Test, A routine urine test done to look for signs of infection or disease,Laboratory,F,,
+LW007,LW007_1,Vitamin D Test,A blood test to check the blood level of vitamin D,Laboratory,F,,
+LW008,LW008_1,Bacterial Culture - Other Source Test,"A test to check for the presence of bacteria in a discharge or body fluid (other than urine, blood or stool)",Laboratory,F,,
+LW009,LW009_1,Bacterial Culture - Urine Test,"A test to check for bacteria in the urine, a sign of a urinary tract infection",Laboratory,F,,
+LW010,LW010_1,Basic Metabolic Panel Test,"A routine blood test used to look for diabetes, kidney disease, or other problems with metabolism",Laboratory,F,,
+LW011,LW011_1,General Health Panel Test,A routine group of blood tests to check your overall health and disease management,Laboratory,F,,
+LW012,LW012_1,Gonorrhea Test,A test that checks for the presence of the bacteria that causes gonorrhea,Laboratory,F,,
+LW013,LW013_1,Liver Panel Test,A group of blood tests that measure how well your liver is working,Laboratory,F,,
+LW014,LW014_1,Prostate-Specific Antigen - PSA Test,A blood test used to screen for prostate cancer or to monitor the course of the disease,Laboratory,F,,
+LW015,LW015_1,Chlamydia Test,A test that checks for the presence of the bacteria that causes chlamydia,Laboratory,F,,
+LW016,LW016_1,Human Papillomavirus - HPV Test,A test that checks for the presence of the virus that causes HPV infection  ,Laboratory,F,,
+LW017,LW017_1,Thyroid Hormone Test - Thyroxine - T4,A test that checks the blood level of a hormone made by the thyroid gland,Laboratory,F,,
+LW018,LW018_1,PT Blood Test,A test that checks how long it takes your blood to clot,Laboratory,F,,
+LW019,LW019_1,Pap Smear Test,A test that checks for abnormal changes in cells taken from the cervix,Laboratory,F,,
+LW020,LW020_1,Creatine Kinase Test,"A test that checks the blood level of an enzyme found in muscles, including the heart",Laboratory,F,,
+LW021,LW021_1,Urine Pregnancy Test,"A test that measures the level of a hormone in the urine, which rises during pregnancy ",Laboratory,F,,
+LW023,LW023_1,Blood in Stool Test,This test checks to see if there is any hidden blood in the stool (feces),Laboratory,F,,
+LW024,LW024_1,C-Reactive Protein - CRP Test,This test checks the level of C-reactive Protein (CRP) in your blood ,Laboratory,F,,
+LW025,LW025_1,Creatinine Test,This test checks the level of creatinine in your blood ,Laboratory,F,,
+LW026,LW026_1,Liver Enzyme Study - GGT Test,This test checks the level of gamma glutamyltransferase (GGT) in your blood ,Laboratory,F,,
+LW027,LW027_1,Fasting Blood Glucose Test,This test checks the level of glucose (sugar) in your blood after you have been fasting for at least 6 hours ,Laboratory,F,,
+LW028,LW028_1,Screening Culture Test,This test checks for the presence of bacteria in a body fluid,Laboratory,F,,
+LW029,LW029_1,Strep Throat Test,"This test checks for the presence of a specific bacteria, Group A Streptococcus, in the throat (Strep Throat)",Laboratory,F,,
+LW030,LW030_1,Hematocrit Test,This test checks the red blood cells in your blood ,Laboratory,F,,
+LW031,LW031_1,Hemoglobin Test,This test checks the amount of hemoglobin (a protein that carries oxygen) in your blood ,Laboratory,F,,
+LW032,LW032_1,Influenza Test,This test checks for the presence of the influenza virus  ,Laboratory,F,,
+LW033,LW033_1,Lactate Dehydrogenase - LDH Test,This test checks the level of lactate dehydrogenase (LDH) in your blood ,Laboratory,F,,
+LW034,LW034_1,Sed Rate - ESR Test,This measures how fast red blood cells fall to the bottom of a glass tube; the faster the cells fall the more inflammation is present in the body,Laboratory,F,,
+LW035,LW035_1,Tuberculosis - TB Test,This test is used to determine if you have been infected with tuberculosis,Laboratory,F,,
+LW036,LW036_1,Thyroid Hormone Test - Triiodothyronine - T3,This test checks the blood levels of a protein that carries the thyroid hormone in your blood,Laboratory,F,,
+LW037,LW037_1,Uric Acid Test,This test checks the amount of uric acid in your blood ,Laboratory,F,,
+LW038,LW038_1,Urine Test,"This test checks for abnormal levels of substances in the urine, such as bacteria, blood, and protein ",Laboratory,F,,
+LW039,LW039_1,Urine Microalbumin Test,This test checks for small quantities of albumin (a protein) in your urine,Laboratory,F,,
+LW040,LW040_1,Mononucleosis Test,This test checks for heterophile antibodies in your blood to determine if you have mononucleosis ,Laboratory,F,75,B27.90 
+LY001,LY001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary tract symptoms,Office ,P,592,N20.0
+LY001,LY001_2,Lithotripsy,A procedure that uses shock waves to break up large stones in the urinary tract so they can pass out of the body in the urine,Outpatient,F,592,N20.0
+LY001,LY001_3,Office Visit with Specialist for Evaluation,A doctor checkup after your procedure,Office ,P,592,N20.0
+LY002,LY002_1,Office Visit,A visit with a primary care physician to evaluate your kidney pain and determine the best course of treatment,Office ,P,592,N20.0
+LY002,LY002_2,X-ray Abdomen,An image of the structures in your upper abdomen made using a small dose of radiation,Radiology,F,592,N20.0
+MG001,MG001_1,Office Visit,A visit with a primary care physician to evaluate your headaches and determine the best course of treatment.,Office ,P,346.9,G43.909
+MH001,MH001_1,1 Initial Office Visit with Specialist for Evaluation,A visit with a mental health specialist for evaluation and developing a treatment plan,Behavioral,P,,
+MH001,MH001_2,5 Follow-up Office Visits,A follow up visit to evaluate your symptoms and treatment plan,Behavioral,P,,
+MH002,MH002_1,1 Initial Office Visit with Specialist for Evaluation,A visit with a psychologist for evaluation and developing a treatment plan,Behavioral,P,,
+MH002,MH002_2,5 Follow-up Office Visits,A follow up visit with a psychologist to evaluate your symptoms and treatment plan,Behavioral,P,,
+MH003,MH003_1,1 Initial Office Visit with Specialist for Evaluation,A visit with a psychiatrist for evaluation and developing a treatment plan,Behavioral,P,,
+MH003,MH003_2,5 Follow-up Office Visits,A follow up visit with a psychiatrist to evaluate your symptoms and treatment plan,Behavioral,P,,
+MH004,MH004_1,1 Initial Office Visit with Specialist for Evaluation,A visit with a mental health specialist for evaluation and developing a treatment plan,Behavioral,P,,
+MH004,MH004_2,5 Follow-up Office Visits,A follow up visit to evaluate your symptoms and treatment plan,Behavioral,P,,
+MH005,MH005_1,Inpatient Mental Health Treatment - 5 days,Inpatient treatment for a mental health disorder,Inpatient,F,,
+MH006,MH006_1,Inpatient Substance Use Treatment - 5 days,Inpatient treatment for substance use,Inpatient,F,,
+MH007,MH007_1,1 Initial Office Visit with Specialist for Evaluation,A visit with a mental health specialist for evaluation and developing a treatment plan,Behavioral,P,,
+MH007,MH007_2,5 Follow-up Office Visits,A follow up visit to evaluate your symptoms and treatment plan,Behavioral,P,,
+MH008,MH008_1,1 Initial Office Visit with Specialist for Evaluation,A visit with a psychologist for evaluation and developing a treatment plan,Behavioral,P,,
+MH008,MH008_2,5 Follow-up Office Visits,A follow up visit with a psychologist to evaluate your symptoms and treatment plan,Behavioral,P,,
+MH009,MH009_1,1 Initial Office Visit with Specialist for Evaluation,A visit with a psychiatrist for evaluation and developing a treatment plan,Behavioral,P,,
+MH009,MH009_2,5 Follow-up Office Visits,A follow up visit with a psychiatrist to evaluate your symptoms and treatment plan,Behavioral,P,,
+MH010,MH010_1,1 Initial Office Visit with Specialist for Evaluation,A visit with a mental health specialist for evaluation and developing a treatment plan,Behavioral,P,,
+MH010,MH010_2,5 Follow-up Office Visits,A follow up visit to evaluate your symptoms and treatment plan,Behavioral,P,,
+MO001,MO001_1,Office Visit,Two visits with a primary care physician to evaluate your mono symptoms and determine the best course of treatment ,Office ,P,75,B27.90 
+MP001,MP001_1,Office Visit,Two visits with a primary care physician to evaluate your testosterone level and determine the best course of treatment,Office ,P,604.9,N45.3
+MR001,MR001_1,MRI Scan With and Without Dye - Brain,"An imaging process that uses magnets to create detailed pictures of your brain, both before and after you receive a contrast (dye) that helps highlight brain structures",Radiology,F,,
+MR002,MR002_1,MRI Scan Without Dye - Knee,An imaging process that uses magnets to create detailed pictures of structures in your knee,Radiology,F,,
+MR003,MR003_1,MRI Scan Without Dye - Lumbar Spine,An imaging process that uses magnets to create detailed pictures of your lower spine,Radiology,F,,
+MR004,MR004_1,MRI Scan Without Dye - Brain,An imaging process that uses magnets to create detailed pictures of your brain,Radiology,F,,
+MR005,MR005_1,MRI Scan Without Dye - Upper Extremity  - Arm,An imaging process that uses magnets to create detailed pictures of structures in your arm,Radiology,F,,
+MR006,MR006_1,MRI Scan Without and With Dye - Lumbar Spine,"An imaging process that uses magnets to create detailed pictures of your lower spine, both before and after you receive a contrast (dye) that helps highlight spine structures",Radiology,F,,
+MR007,MR007_1,MRI Scan Without Dye - Cervical Spine,An imaging process that uses magnets to create detailed pictures of structures in your neck,Radiology,F,,
+MR008,MR008_1,MRI Scan Without and With Dye - Abdomen,"An imaging process that uses magnets to create detailed pictures of your abdomen, both before and after you receive a contrast (dye) that helps highlight abdominal tissues and organs",Radiology,F,,
+MR009,MR009_1,MRI Scan Without Dye - Ankle,An imaging process that uses magnets to create detailed pictures of structures in your ankle,Radiology,F,,
+MR010,MR010_1,MRI Scan Without and With Dye - Both Breasts,"An imaging process that uses magnets to create detailed pictures of your breasts, both before and after you receive a contrast (dye) that helps highlight the breasts structures",Radiology,F,,
+MR011,MR011_1,MRI Scan Without Dye - Upper Extremity  - Elbow,An imaging process that uses magnets to create detailed pictures of structures in your elbow,Radiology,F,,
+MR012,MR012_1,MRI Scan Without and With Dye - Face,"An imaging process that uses magnets to create detailed pictures of your face, both before and after you receive a contrast (dye) that helps highlight facial structures",Radiology,F,,
+MR013,MR013_1,MRI Scan Without Dye - Foot,An imaging process that uses magnets to create detailed pictures of structures in your foot,Radiology,F,,
+MR014,MR014_1,MRI Scan Without and With Dye - Heart,"An imaging process that uses magnets to create detailed pictures of your heart, both before and after you receive a contrast (dye) that helps highlight the hearts structures",Radiology,F,,
+MR015,MR015_1,MRI Scan Without Dye - Hip,An imaging process that uses magnets to create detailed pictures of structures in your hip,Radiology,F,,
+MR016,MR016_1,MRI Scan Without and With Dye - Hip,"An imaging process that uses magnets to create detailed pictures of your hip, both before and after you receive a contrast (dye) that helps highlight the hips structures",Radiology,F,,
+MR017,MR017_1,MRI Scan - Jaw,An imaging process that uses magnets to create detailed pictures of structures in your jaw,Radiology,F,,
+MR018,MR018_1,MRI Scan Without Dye - Leg,An imaging process that uses magnets to create detailed pictures of structures in your neck,Radiology,F,,
+MR019,MR019_1,MRI Scan Without Dye - Pelvis,An imaging process that uses magnets to create detailed pictures of structures in your pelvis,Radiology,F,,
+MR020,MR020_1,MRI Scan Without and With Dye - Pelvis,"An imaging process that uses magnets to create detailed pictures of your pelvis, both before and after you receive a contrast (dye) that helps highlight the pelvis structures",Radiology,F,,
+MR021,MR021_1,MRI Scan Without Dye - Wrist,An imaging process that uses magnets to create detailed pictures of structures in your wrist,Radiology,F,,
+MR022,MR022_1,MRI Scan Without and With Dye - Chest,An imaging process that uses magnets to create detailed pictures of structures in your chest,Radiology,F,,
+MR023,MR023_1,MRI Scan Without Dye - Shoulder,An imaging process that uses magnets to create detailed pictures of structures in your shoulder,Radiology,F,,
+MR0424,MR024_1,MRI Scan Without and With Dye - Breast  Unilateral,An imaging process that uses magnets to create detailed pictures of structures in your breast,Radiology,F,,
+MR025,MR025_1,MR Angiography Without Dye - Head,,Radiology,F,,
+MR026,MR026_1,MR Angiography Without and With Dye - Head,,Radiology,F,,
+MR027,MR027_1,MR Angiography Without Dye - Neck,,Radiology,F,,
+MR028,MR028_1,MR Angiography Without and With Dye - Neck,,Radiology,F,,
+MR029,MR029_1,MR Angiography - Chest,,Radiology,F,,
+MR030,MR030_1,MR Angiography - Abdomen,,Radiology,F,,
+MR031,MR031_1,MRI Scan Without Dye - Abdomen,An imaging process that uses magnets to create detailed pictures of your abdomen,Radiology,F,,
+MS001,MS001_1,Office Visit,Two visits with your primary care physician for a detailed evaluation and treatment of your multiple sclerosis,Office ,P,340,G35
+MS001,MS001_2,MRI Scan With and Without Dye - Brain,"An imaging process that uses magnets to create detailed pictures of your brain, both before and after you receive a contrast (dye) that helps highlight brain structures",Radiology,F,340,G35
+NC001,NC001_1,Nerve Conduction Studies ,Special tests that measure how fast and how well electrical signals travel along a nerve,Office ,P,,
+OS001,OS001_1,Office Visit,A visit with a primary care physician to evaluate your cold sore and determine the best course of treatment,Office ,P,54.9,B00.9 
+OV001,OV001_1,Office Visit - Primary Doctor - New Patient - Minimal Complexity,An office visit with a new healthcare provider for minor or self-limited symptoms,Office ,P,,
+OV002,OV002_1,Office Visit - Primary Doctor - New Patient - Low Complexity,An office visit with a new healthcare provider for mild to moderate symptoms,Office ,P,,
+OV003,OV003_1,Office Visit - Primary Doctor - New Patient - Moderate Complexity,An office visit with a new healthcare provider for moderate symptoms,Office ,P,,
+OV004,OV004_1,Office Visit - Primary Doctor - New Patient - Moderate to High Complexity,An office visit with a new healthcare provider for moderate to severe symptoms,Office ,P,,
+OV005,OV005_1,Office Visit - Primary Doctor - New Patient - High Complexity,An office visit with a new healthcare provider for moderate to severe symptoms,Office ,P,,
+OV006,OV006_1,Office Visit - Primary Doctor - Established Patient - Minimal Complexity,An office visit with your regular healthcare provider for minimal symptoms,Office ,P,,
+OV007,OV007_1,Office Visit - Primary Doctor - Established Patient - Low Complexity,An office visit with your regular healthcare provider for minor or self-limited symptoms,Office ,P,,
+OV008,OV008_1,Office Visit - Primary Doctor - Established Patient - Moderate Complexity,An office visit with your regular healthcare provider for mild to moderate symptoms,Office ,P,,
+OV009,OV009_1,Office Visit - Primary Doctor - Established Patient - Moderate to High Complexity,An office visit with your regular healthcare provider for moderate to severe symptoms,Office ,P,,
+OV010,OV010_1,Office Visit - Primary Doctor - Established Patient - High Complexity,An office visit with your regular healthcare provider for moderate to severe symptoms,Office ,P,,
+OV011,OV011_1,Office Visit - Specialist - Minimal Complexity,An office visit with a healthcare provider you were referred to for minor or self-limited symptoms,Office ,P,,
+OV012,OV012_1,Office Visit - Specialist - Low Complexity,An office visit with a healthcare provider you were referred to for mild symptoms,Office ,P,,
+OV013,OV013_1,Office Visit - Specialist - Moderate Complexity,An office visit with a healthcare provider you were referred to for moderate symptoms,Office ,P,,
+OV014,OV014_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV015,OV015_1,Office Visit - Specialist - High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV016,OV016_1,Wellness Visit - Established Female Patient - Age 12-17,This is a routine office visit (including screenings and immunizations) with your child's regular healthcare provider when they are a female 12-17 years of age ,Office ,P,,
+OV017,OV017_1,Wellness Visit - Established Female Patient - Age 18-39,This is a routine office visit (including screenings and immunizations) with your regular healthcare provider when you are a female 18-39 years of age ,Office ,P,,
+OV018,OV018_1,Wellness Visit - Established Female Patient - Age 40-64,This is a routine office visit (including screenings and immunizations) with your regular healthcare provider when you are a female 40-64 years of age ,Office ,P,,
+OV019,OV019_1,Wellness Visit - Established Patient - Age 5-11,This is a routine office visit (including screenings and immunizations) with your child's regular healthcare provider when they are 5-11 years of age ,Office ,P,,
+OV020,OV020_1,Wellness Visit - Established Female Patient - Age >65,This is a routine office visit (including screenings and immunizations) with your regular healthcare provider when you are a female >65 years of age ,Office ,P,,
+OV021,OV021_1,Wellness Visit - Established Patient - Age Less Than 1,This is a routine office visit (including screenings and immunizations) with your child's regular healthcare provider when they are < 1 year of age ,Office ,P,,
+OV022,OV022_1,Wellness Visit - Established Patient - Age 1-4,This is a routine office visit (including screenings and immunizations) with your child's regular healthcare provider when they are 1-4 years of age ,Office ,P,,
+OV023,OV023_1,Wellness Visit - New Patient - Age Less Than 1,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when your child is <1 year of age ,Office ,P,,
+OV024,OV024_1,Wellness Visit - New Female Patient - Age 12-17,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when your child is a female 12-17 years of age ,Office ,P,,
+OV025,OV025_1,Wellness Visit - New Patient - Age 1-4,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when your child is 1-4 years of age ,Office ,P,,
+OV026,OV026_1,Wellness Visit - New Female Patient - Age 18-39,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when you are a female 18-39 years of age ,Office ,P,,
+OV027,OV027_1,Wellness Visit - New Female Patient - Age 40-64,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when you are a female 40-64 years of age ,Office ,P,,
+OV028,OV028_1,Wellness Visit - New Patient - Age 5-11,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when your child is 5-11 years of age ,Office ,P,,
+OV029,OV029_1,Wellness Visit - New Female Patient - Age >65,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when you are a female >65 years of age ,Office ,P,,
+OV030,OV030_1,Wellness Visit - Established Male Patient - Age 12-17,This is a routine office visit (including screenings and immunizations) with your child's regular healthcare provider when they are a male 12-17 years of age ,Office ,P,,
+OV031,OV031_1,Wellness Visit - Established Male Patient - Age 18-39,This is a routine office visit (including screenings and immunizations) with your regular healthcare provider when you are a male 18-39 years of age ,Office ,P,,
+OV032,OV032_1,Wellness Visit - Established Male Patient - Age 40-64,This is a routine office visit (including screenings and immunizations) with your regular healthcare provider when you are a male 40-64 years of age ,Office ,P,,
+OV033,OV033_1,Wellness Visit - New Male Patient - Age 12-17,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when your child is a male 12-17 years of age ,Office ,P,,
+OV034,OV034_1,Wellness Visit - New Male Patient - Age 18-39,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when you are a male 18-39 years of age ,Office ,P,,
+OV035,OV035_1,Wellness Visit - New Male Patient - Age 40-64,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when you are a male 40-64 years of age ,Office ,P,,
+OV036,OV036_1,Wellness Visit - Established Male Patient - Age >65,This is a routine office visit (including screenings and immunizations) with your regular healthcare provider when you are a male > 65 years of age. ,Office ,P,,
+OV037,OV037_1,Wellness Visit - New Male Patient - Age >65,This is a routine office visit (including screenings and immunizations) with a new healthcare provider when you are a male > 65 years of age. ,Office ,P,,
+OV038,OV038_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV039,OV039_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV040,OV040_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV041,OV041_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV042,OV042_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV043,OV043_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV044,OV044_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV045,OV045_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV046,OV046_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV047,OV047_1,Office Visit with Dietician,A visit with a specialist for a nutrition evaluation and diet recommendations,Office ,P,,
+OV048,OV048_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV049,OV049_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV050,OV050_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV051,OV051_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV052,OV052_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+OV053,OV053_1,Office Visit - Specialist - Moderate to High Complexity,An office visit with a healthcare provider you were referred to for moderate to severe symptoms,Office ,P,,
+PE001,PE001_1,Office Visit,A visit with a primary care physician to evaluate your eye symptoms and determine the best course of treatment.,Office ,P,372.3,H10.9
+PH001,PH001_1,Office Visit,A visit with a primary care physician to evaluate your urinary symptoms and determine the best course of treatment.,Office ,P,600.01,N40.1
+PH001,PH001_2,Labwork,Labwork ordered by your primary care physician,Laboratory,F,600.01,N40.1
+PH002,PH002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your urinary tract symptoms,Office ,P,600.01,N40.1
+PH002,PH002_2,Removal of Prostate Through Urethra,The removal of the prostate gland using special instruments inserted into the urethra ,Outpatient,F,600.01,N40.1
+PH002,PH002_3,Office Visit with Specialist for Evaluation,Two doctor checkups after your procedure,Office ,P,600.01,N40.1
+PP001,PP001_1,Office Visit,Two visits with a primary care physician to evaluate your psoriasis and determine the best course of treatment,Office ,P,696.1,L40.9
+PT001,PT001_1,Physical Therapy - Massage and Traction,Hands-on treatments to relax muscles and improve the mobility of joints and soft tissue,Physical Therapy,P,,
+PT002,PT002_1,Physical Therapy - Exercises,"Exercises to help increase strength, endurance, range of motion, and flexibility",Physical Therapy,P,,
+PT003,PT003_1,Physical Therapy - Nerve and Muscle Retraining,"Exercises to improve movement, balance, coordination, and posture by retraining the muscles and nerves",Physical Therapy,P,,
+PT004,PT004_1,Physical Therapy - Functional Activities,"The use of everyday actions such as lifting, pulling, and bending to improve daily functioning",Physical Therapy,P,,
+RA001,RA001_1,Office Visit,Two visits with your primary care physician to evaluate your rheumatoid arthritis and determine the best course of treatment,Clinic,P,714,M05.40
+RA002,RA002_1,Office Visit,Two visits with your primary care physician to evaluate your arthritis and determine the best course of treatment,Clinic,P,716.96,M12.9 
+RD001,RD001_1,Office Visit with Specialist for Evaluation and Treatment,"A visit with an eye doctor for a general medical evaluation, detailed eye exam, and repair of a detached retina",Clinic,P,361.01,H33.019
+RD001,RD001_2,Office Visit with Specialist for Evaluation,Follow up detailed exams of the back of the eye using an ophthalmoscope,Clinic,P,361.01,H33.019
+RT001,RT001_1,Radiation Treatment Delivery - Low Intensity,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,,
+RT002,RT002_1,Radiation Treatment Delivery - Medium Intensity,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,,
+RT003,RT003_1,Radiation Treatment Delivery - Varied Intensity,The use of high-energy rays to kill cancer cells in a specific area of the body,Radiology,F,,
+RW001,RW001_1,Office Visit,A visit with a primary care physician to evaluate your ringworm and determine the best course of treatment,Office ,P,110.9,B35.9
+SA001,SA001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your sleep apnea,Office ,P,327.23,G47.33
+SA001,SA001_2,Sleep Study With CPAP,A study to assess the quality of your sleep while you wear a mask that delivers pressurized air to keep your airways open,Office ,P,327.23,G47.33
+SA001,SA001_3,Follow-up Office Visit,A doctor checkup after your test,Office ,P,327.23,G47.33
+SC001,SC001_1,Office Visit,A visit with a primary care physician to evaluate your symptoms of scabies and determine the best course of treatment ,Office ,P,133,B86
+SH001,SH001_1,Office Visit,A visit with a primary care physician to evaluate your shingle symptoms and determine the best course of treatment,Office ,P,53.9,B02.9
+SI001,SI001_1,Office Visit with Specialist for Evaluation,A visit with a physician for a moderate problem,Office ,P,461.9,J01.90
+SI001,SI001_2,Sinus Endoscopy- Evaluation of Sinuses,An internal examination of the sinuses using a lighted scope inserted into the nose.,Office ,P,461.9,J01.90
+SI001,SI001_3,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,461.9,J01.90
+SI002,SI002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your sinus problems,Office ,P,473.9,J32.9
+SI002,SI002_2,CT Scan Without Dye - Maxillofacial - Face,"Special x-ray images of your mouth, jaw, and surrounding area",Radiology,F,473.9,J32.9
+SI002,SI002_3,Nasal Endoscopy with Biopsy,An internal examination of the sinuses with removal of tissue or polyps for testing,Outpatient,F,473.9,J32.9
+SI002,SI002_4,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,473.9,J32.9
+SI003,SI003_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your nose problems,Office ,P,461.9,J01.91
+SI003,SI003_2,CT Scan Without Dye - Maxillofacial - Face,"Special x-ray images of your mouth, jaw, and surrounding area",Radiology,F,461.9,J01.91
+SI003,SI003_3,Nasal Turbinate Excision - Inferior,The removal of a piece of a bone inside the nose,Outpatient,F,461.9,J01.91
+SI003,SI003_4,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,461.9,J01.91
+SN001,SN001_1,Office Visit,A visit with a primary care physician to evaluate your stuffy nose and determine the best course of treatment.,Office ,P,460,J00
+SP001,SP001_1,Office Visit,A visit with a primary care physician to evaluate your shoulder pain and determine the best course of treatment,Office ,P,719.41,M25.519 
+SP001,SP001_2,Outpatient Physical Therapy/Rehabilitation,An exercise program guided by a professional who understands the special needs of people with shoulder pain,Physical Therapy,F,719.41,M25.519 
+SP001,SP001_3,Office Visit,Two follow-up visits with a primary care physician to evaluate your shoulder pain ,Office ,P,719.41,M25.519 
+SP002,SP002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your back pain,Office ,P,840.7,S43.439A
+SP002,SP002_2,MRI Scan Without Dye - Upper Extremity  - Arm,An imaging process that uses magnets to create detailed pictures of structures in your arm,Radiology,F,840.7,S43.439A
+SP002,SP002_3,Shoulder Arthroscopy with SLAP Lesion Repair,Surgery that repairs a SLAP lesion in the shoulder,Outpatient,F,840.7,S43.439A
+SP002,SP002_4,Outpatient Physical Therapy,An exercise program guided by a professional who understands the special needs of people recovering from shoulder surgery,Physical Therapy,F,840.7,S43.439A
+SP002,SP002_5,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,840.7,S43.439A
+SP003,SP003_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your back pain,Office ,P,840.4,S43.429A
+SP003,SP003_2,MRI Scan Without Dye - Upper Extremity  - Arm,An imaging process that uses magnets to create detailed pictures of structures in your arm,Radiology,F,840.4,S43.429A
+SP003,SP003_3,Shoulder Arthroscopy with Rotator Cuff Repair,Surgery that repairs a tear in the shoulder rotator cuff,Outpatient,F,840.4,S43.429A
+SP003,SP003_4,Outpatient Physical Therapy,An exercise program guided by a professional who understands the special needs of people recovering from shoulder surgery,Physical Therapy,F,840.4,S43.429A
+SP003,SP003_5,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,840.4,S43.429A
+SS001,SS001_1,Sleep Study,A study to assess how long and well you sleep,Office ,P,327.23,G47.33
+SS002,SS002_1,Sleep Study With CPAP,A study to assess the quality of your sleep while you wear a mask that delivers pressurized air to keep your airways open,Office ,P,327.23,G47.33
+SS003,SS003_1,Sleep Study at Home,A study performed at home to assess how long and well you sleep,Office ,P,327.23,G47.33
+ST001,ST001_1,Office Visit,A visit with a primary care physician to evaluate your sore throat and determine the best course of treatment.,Office ,P,462,J02.9
+ST002,ST002_1,Office Visit,A visit with a primary care physician to evaluate your laryngitis and determine the best course of treatment.,Office ,P,464,J04.0
+ST003,ST003_1,Laryngoscopy - Diagnostic,The examination of the back of the throat and larynx using a laryngoscope,Office ,P,464,J04.0
+ST003,ST003_2,Follow-up Office Visit,A doctor checkup after your procedure,Office ,P,464,J04.0
+SZ001,SZ001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your seizures,Office ,P,345.9,G40.909
+SZ001,SZ001_2,Seizure Management,The inpatient treatment of seizures,Inpatient,F,345.9,G40.909
+SZ001,SZ001_3,CT Scan Without Dye - Head or Brain,Special x-ray images of structure in your head or brain ,Radiology,F,345.9,G40.909
+SZ001,SZ001_4,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,345.9,G40.909
+TH001,TH001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,71515,M16.10
+TH001,TH001_2,Total Hip Replacement (THR),Surgery to replace a diseased or damaged hip joint with manmade parts,Inpatient,F,71515,M16.10
+TH001,TH001_3,Outpatient Physical Therapy/Rehabilitation,A guided exercise program to reduce stiffness and improve range of motion in the hip,Physical Therapy,F,71515,M16.10
+TH001,TH001_4,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,71515,M16.10
+TJ001,TJ001_1,Office Visit,A visit with a primary care physician to evaluate your symptoms and determine the best course of treatment.,Office ,P,524.6,M26.60
+TJ001,TJ001_2,Panoramic X-ray,An x-ray of the entire jaw,Radiology,F,524.6,M26.60
+TK001,TK001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,71516,M17.10
+TK001,TK001_2,Total Knee Replacement (TKR),Surgery to replace a diseased or damaged knee joint with manmade parts,Inpatient,F,71516,M17.10
+TK001,TK001_3,Outpatient Physical Therapy/Rehabilitation,A guided exercise program to reduce stiffness and improve range of motion in the knee,Physical Therapy,F,71516,M17.10
+TK001,TK001_4,Follow-up Office Visit,Two follow up office visits after you have left the hospital,Office ,P,71516,M17.10
+TR001,TR001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,474.11,J35.1
+TR001,TR001_2,Tonsillectomy - Removal of Tonsil,"The removal of the tonsils, which are located in the back of the throat",Outpatient,F,474.11,J35.1
+TR001,TR001_3,Follow-up Office Visit,A doctor checkup after your procedure,Clinic,P,474.11,J35.1
+TR002,TR002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,474.1,J35.3 
+TR002,TR002_2,Adenoidectomy and Tonsillectomy - Removal of Adenoids and Tonsils,"The removal of the adenoids and tonsils, which are located above the mouth and on the sides of the throat",Outpatient,F,474.1,J35.3 
+TR002,TR002_3,Follow-up Office Visit,A follow up office visit after you have left the hospital,Office ,P,474.1,J35.3 
+UE001,UE001_1,Upper Endoscopy (Physician Services),"An internal examination of the esophagus, stomach, and upper small intestine",Outpatient,P,,
+UE001,UE001_2,Upper Endoscopy (Facility Services),"An internal examination of the esophagus, stomach, and upper small intestine",Outpatient,F,,
+UE002,UE002_1,Upper Endoscopy with Biopsy (Physician Services),"An internal examination of the esophagus, stomach, and upper small intestine with removal of tissue for testing",Outpatient,P,,
+UE002,UE002_2,Upper Endoscopy with Biopsy (Facility Services),"An internal examination of the esophagus, stomach, and upper small intestine with removal of tissue for testing",Outpatient,F,,
+UE003,UE003_1,Upper Endoscopy with Dilation (Physician Services),An internal examination and dilation (stretching) of a narrow area of the esophagus,Outpatient,P,,
+UE003,UE003_2,Upper Endoscopy with Dilation (Facility Services),An internal examination and dilation (stretching) of a narrow area of the esophagus,Outpatient,F,,
+UE004,UE004_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,574.2,K80.20
+UE004,UE004_2,Endoscopic Retrograde Cholangiopancreatography,"An internal examination of gastrointestinal and biliary tract (stomach, common bile duct and gallbladder)",Outpatient,F,574.2,K80.20
+UE004,UE004_3,Follow-up Office Visit,A doctor checkup after your procedure,Clinic,P,574.2,K80.20
+US001,US001_1,Ultrasound - Abdomen,An imaging process that uses sound waves to create pictures of the organs and other structures in the abdomen,Radiology,F,,
+US002,US002_1,Ultrasound - Breasts,An imaging process that uses sound waves to create pictures of the structures in the breasts,Radiology,F,,
+US003,US003_1,Ultrasound - Pelvic - via Abdominal Wall,An imaging process that uses sound waves to create pictures of the organs and other structures in your lower abdomen,Radiology,F,,
+US004,US004_1,Ultrasound - Rear of Abdomen,An imaging process that uses sound waves to create pictures of the organs and other structures in the rear of your upper abdomen,Radiology,F,,
+US005,US005_1,Ultrasound - Pregnancy,An imaging process that uses sound waves to create detailed pictures of your baby and your uterus ,Radiology,F,,
+US006,US006_1,Ultrasound - Pelvic - via Vagina,An imaging process that uses sound waves sent by a probe inserted in the vagina to create detailed images of your reproductive organs,Radiology,F,,
+US007,US007_1,Ultrasound - Arm or Leg,,Radiology,F,,
+US008,US008_1,Ultrasound - Brain,,Radiology,F,,
+US009,US009_1,Ultrasound with 1 and 2 Dimensional Scans - Eye ,,Radiology,F,,
+US010,US010_1,Ultrasound with 1 Dimensional Scan - Eye ,,Radiology,F,,
+US011,US011_1,Ultrasound with 2 Dimensional Scan - Eye ,,Radiology,F,,
+US012,US012_1,Ultrasound with 2 Dimensional Scan and Water Bath - Eye ,,Radiology,F,,
+US013,US013_1,Ultrasound with Measurement of Corneal Thickness - Eye ,,Radiology,F,,
+US014,US014_1,Ultrasound with Lens Calculation - Eye ,,Radiology,F,,
+US015,US015_1,Ultrasound - Neck Soft Tissues,,Radiology,F,,
+US016,US016_1,Ultrasound - Chest Soft Tissues,,Radiology,F,,
+US017,US017_1,Ultrasound - Abdomen - Limited or Follow-Up Exam,,Radiology,F,,
+US018,US018_1,Ultrasound - Pregnant Uterus Less than 14 Weeks,,Radiology,F,,
+US019,US019_1,Ultrasound - Pregnant Uterus Greater than 14 Weeks,,Radiology,F,,
+US020,US020_1,Ultrasound - Pregnant Uterus With Fetal Measurements,,Radiology,F,,
+US021,US021_1,Ultrasound - Pregnant Uterus - Limited Exam,,Radiology,F,,
+US022,US022_1,Ultrasound - Pregnant Uterus - Follow-Up Exam,,Radiology,F,,
+US023,US023_1,Ultrasound - Pregnant Uterus - Via Vagina,,Radiology,F,,
+US024,US024_1,Ultrasound - Pregnant Uterus - Umbilical Artery,,Radiology,F,,
+US025,US025_1,Ultrasound - Pregnant Uterus - Fetal Heart Exam,,Radiology,F,,
+US026,US026_1,Ultrasound - Pregnant Uterus - Fetal Heart Follow-Up Exam,,Radiology,F,,
+US027,US027_1,Ultrasound - Pregnant Uterus - Fetal Heart Doppler Exam,,Radiology,F,,
+US028,US028_1,Ultrasound - Pregnant Uterus - Fetal Heart Doppler Follow-Up Exam,,Radiology,F,,
+US029,US029_1,Ultrasound - Saline Sonohysterography,,Radiology,F,,
+US030,US030_1,Ultrasound - Scrotum,,Radiology,F,,
+US031,US031_1,Ultrasound - Transrectal,,Radiology,F,,
+US032,US032_1,Ultrasound - Extremity - Limited Exam,,Radiology,F,,
+US033,US033_1,Ultrasound - Infants Hips,,Radiology,F,,
+US034,US034_1,Ultrasound - Bone Density of Extremity,,Radiology,F,,
+VA001,VA001_1,"Influenza Vaccine - Adult
+(Flu Shot)",The administration of a vaccine to prevent you from getting the flu,Office ,P,V04.81,Z23
+VA002,VA002_1,"Influenza Vaccine - Child
+(Flu Shot)",The administration of a vaccine to prevent your child from getting the flu,Office ,P,V04.81,Z23
+VA003,VA003_1,Human Papilloma Virus (HPV) Vaccine,The administration of a vaccine to protect you from the Human Papilloma Virus (HPV) and cervical cancer,Office ,P,V04.89,Z23 
+VA004,VA004_1,Shingles Vaccine,The administration of a vaccine to prevent you from getting the shingles,Office ,P,V05.8,Z23 
+VA005,VA005_1,Pneumonia  Vaccine,The administration of a vaccine to prevent your child from getting an infection with the streptococcus pneumoniae bacteria,Office ,P,V03.82,Z23 
+VA006,VA006_1,Hepatitis A Vaccine - Child,The administration of a vaccine to prevent your child from getting hepatitis A,Office ,P,V05.3,Z23 
+VA007,VA007_1,Hepatitis A Vaccine - Adult,The administration of a vaccine to prevent you from getting hepatitis A,Office ,P,V05.3,Z23 
+VA008,VA008_1,Hepatitis B Vaccine - Child,The administration of a vaccine to prevent your child from getting hepatitis B,Office ,P,V05.3,Z23 
+VA009,VA009_1,Hepatitis B Vaccine - Adult,The administration of a vaccine to prevent you from getting hepatitis B,Office ,P,V05.3,Z23 
+VA010,VA010_1,"Measles, Mumps, Rubella (MMR) Vaccine","The administration of a vaccine to prevent you from getting measles, mumps, or rubella",Office ,P,V06.4,Z23 
+VA011,VA011_1,Chickenpox Vaccine,The administration of a vaccine to prevent your child from getting chickenpox,Office ,P,V05.4,Z23 
+VA012,VA012_1,"Diphtheria, Tetanus, Pertussis  (DTaP) Vaccine","The administration of a vaccine to prevent your child from getting diphtheria, tetanus, or pertussis",Office ,P,V06.1,Z23 
+VA013,VA013_1,Hib Vaccine,The administration of a vaccine to prevent your child from getting a haemophilus influenza type B infection,Office ,P,V03.81,Z23 
+VA014,VA014_1,Meningitis Vaccine,The administration of a vaccine to prevent your or your child from getting bacterial meningitis,Office ,P,V03.89,Z23 
+VA015,VA015_1,Polio Vaccine,The administration of a vaccine to prevent your child from getting poliomyelitis,Office ,P,V04.0,Z23 
+VA016,VA016_1,Rotavirus Vaccine,The administration of a vaccine to prevent your child from getting rotavirus,Office ,P,C04.89,Z23 
+VA017,VA017_1,"Tetanus, Diphtheria, Pertussis Vaccine","The administration of a vaccine to prevent you or your child from getting tetanus, diphtheria, or pertussis",Office ,P,V06.1,Z23 
+VA018,VA018_1,Tetanus and Diphtheria Vaccine,The administration of a vaccine to prevent you or your child from getting tetanus or diphtheria,Office ,P,V06.5,Z23 
+VA019,VA019_1,"Influenza Vaccine - Adult
+(Flu Shot)",The administration of a vaccine to prevent you from getting the flu,Clinic,F,V04.81,Z23 
+VH001,VH001_1,Office Visit with Specialist for Evaluation,Two visits with a specialist for a detailed evaluation and treatment of your hepatitis B,Office ,P,70.32,B18.1 
+VY001,VY001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,V25.2,Z30.2 
+VY001,VY001_2,Vasectomy,The cutting of the tube in the scrotum that carries sperm to the urethra,Office ,P,V25.2,Z30.2 
+VY001,VY001_3,Follow-up Office Visit,"A checkup, including sperm analysis, after your procedure",Office ,P,V25.2,Z30.2 
+WS001,WS001_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,354,G56.00
+WS001,WS001_2,Nerve Conduction Studies ,Special tests that measure how fast and how well electrical signals travel along a nerve,Office ,P,354,G56.00
+WS001,WS001_3,Carpal Tunnel Release or Decompression,Surgery to decompress or open up the carpal tunnel in the wrist,Outpatient,F,354,G56.00
+WS001,WS001_4,Physical Therapy,An exercise program guided by a professional who understands the special needs of people with wrist problems,Physical Therapy,F,354,G56.00
+WS001,WS001_5,Follow-up Office Visit,A checkup after your procedure,Office ,P,354,G56.00
+WS002,WS002_1,Office Visit with Specialist for Evaluation,A visit with a specialist for a detailed evaluation and treatment of your symptoms,Office ,P,727.41,M67.439
+WS002,WS002_2,Removal of Cyst from Wrist,Surgery to remove a ganglion cyst from the wrist,Outpatient,F,727.41,M67.439
+WS002,WS002_3,Follow-up Office Visit,A checkup after your procedure,Office ,P,727.41,M67.439
+XR001,XR001_1,X-ray Chest - 2 Views,Images of the structures in your chest made using a small dose of radiation,Radiology,F,,
+XR002,XR002_1,X-ray Abdomen,An image of the structures in your upper belly made using a small dose of radiation,Radiology,F,,
+XR008,XR008_1,X-ray Hip - 2 Views,Images of one hip joint made using a small dose of radiation ,Radiology,F,,
+XR009,XR009_1,X-ray Fingers - 2 Views,Images of one or more fingers made using a small dose of radiation ,Radiology,F,,
+XR010,XR010_1,"Bone Density Study - Hips, Pelvis, and Spine",An imaging test that uses a small dose of radiation to measure bone density in the lower spine and the hip,Radiology,F,,
+XR011,XR011_1,Mammogram - Preventive Screening - Film,An x-ray of the breast with images on film to find cancer before it causes symptoms,Radiology,F,,
+XR013,XR013_1,X-ray Ankle - 3 Views,Images of ankle made using a small dose of radiation ,Radiology,F,,
+XR014,XR014_1,X-ray Chest - Single View,Images of chest made using a small dose of radiation ,Radiology,F,,
+XR015,XR015_1,X-ray Foot - 3 Views,Images of foot made using a small dose of radiation ,Radiology,F,,
+XR016,XR016_1,X-ray Hand - 3 Views,Images of hand made using a small dose of radiation,Radiology,F,,
+XR019,XR019_1,X-ray Shoulder - 2 Views,Images of shoulder made using a small dose of radiation,Radiology,F,,
+XR020,XR020_1,X-ray Wrist - 3 Views,Images of wrist made using a small dose of radiation,Radiology,F,,
+XR021,XR021_1,Heart SPECT Imaging Studies,A test that uses a radioactive substance to create detailed images of blood flow to the heart muscle,Radiology,F,,
+XR022,XR022_1,PET Scan with CT Scan,A test that uses a radioactive substance to create detailed images of how the organs are functioning,Radiology,F,,
+XR023,XR023_1,X-ray Knee,Images of the knee made using a small dose of radiation,Radiology,F,,
+XR024,XR024_1,X-ray Cervical Spine,Images of the neck made using a small dose of radiation,Radiology,F,,
+XR025,XR025_1,X-ray Lumbar Spine,Images of the lower spine made using a small dose of radiation,Radiology,F,,
+XR026,XR026_1,Mammogram - Preventive Screening - Digital,An x-ray of the breast with digital images to find cancer before it causes symptoms,Radiology,F,V76.12,Z12.31
+XR027,XR027_1,Mammogram - Diagnostic - Digital,An x-ray of the breast with digital images to evaluate lumps or other symptoms,Radiology,F,611.72,N63
+XR028,XR028_1,Mammogram - Diagnostic - Film,An x-ray of the breast with images on film to evaluate lumps or other symptoms,Radiology,F,611.72,N63
+XR029,XR029_1,HIDA Scan,"A test to evaluate the biliary tract, including the common bile duct and gallbladder",Radiology,F,574.2,K80.20
+XR030,XR030_1,Bone Length Studies,,Radiology,F,,
+XR096,XR096_1,Imaging of Parathyroid Gland,Images of the parathyroid gland using a radioactive tracer and two sets of pictures,Radiology,F,784.2,R22.0
